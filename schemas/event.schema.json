@@ -39,7 +39,7 @@
       "additionalProperties": true
     },
 
-    /* Optional / future fields: laws, confidence, severity, decision, status, runtime */
+    #/* Optional / future fields: laws, confidence, severity, decision, status, runtime */
 
     "laws": {
       "type": "array",
