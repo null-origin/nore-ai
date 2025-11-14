@@ -1,0 +1,2 @@
+[console_scripts]
+nore-ai = nore_ai.cli.main:main
