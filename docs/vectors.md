@@ -1,5 +1,5 @@
 # NORE-AI Vector Specification
-(Full Specification of Structural Vectors & Semantics)
+# (Full Specification of Structural Vectors & Semantics)
 
 Vectors classify the **structural role** of an event. They are not topics or metadata — they describe how an event behaves inside field mechanics.
 
