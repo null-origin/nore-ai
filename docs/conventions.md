@@ -232,7 +232,7 @@ Examples:
 
 Preferred direct usage:
 ```
-nore-ai run-day -e data/events/2025-11-16.jsonl
+python run_day.py -e data/events/2025-11-14.jsonl
 ```
 
 Using configs:
