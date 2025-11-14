@@ -1,1 +1,5 @@
-
+[project]
+# ...
+dependencies = [
+  "jsonschema>=4.0",
+]
