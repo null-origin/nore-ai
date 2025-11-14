@@ -47,7 +47,7 @@ class Event:
         )
 
     def to_dict(self) -> Dict[str, Any]:
-        return {
+        data: Dict[str, Any] = {
             "id": self.id,
             "timestamp": self.timestamp.isoformat(),
             "source": self.source,
@@ -55,10 +55,25 @@ class Event:
             "vectors": self.vectors,
             "text": self.text,
             "meta": self.meta,
-            "laws": self.laws,
-            "confidence": self.confidence,
-            "severity": self.severity,
-            "decision": self.decision,
-            "status": self.status,
-            "runtime": self.runtime,
         }
+
+        # Only include optional fields if they’re actually set
+        if self.laws is not None:
+            data["laws"] = self.laws
+
+        if self.confidence is not None:
+            data["confidence"] = self.confidence
+
+        if self.severity is not None:
+            data["severity"] = self.severity
+
+        if self.decision is not None:
+            data["decision"] = self.decision
+
+        if self.status is not None:
+            data["status"] = self.status
+
+        if self.runtime is not None:
+            data["runtime"] = self.runtime
+
+        return data
