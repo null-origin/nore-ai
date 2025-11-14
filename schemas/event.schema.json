@@ -38,9 +38,6 @@
       "type": "object",
       "additionalProperties": true
     },
-
-    /* Optional / future fields: laws, confidence, severity, decision, status, runtime */
-
     "laws": {
       "type": "array",
       "items": {
