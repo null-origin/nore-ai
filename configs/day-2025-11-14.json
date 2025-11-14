@@ -1,0 +1,5 @@
+{
+  "events_path": "data/examples/events/2025-11-14.jsonl",
+  "event_schema": "schemas/event.schema.json",
+  "validate": true
+}
