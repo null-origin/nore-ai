@@ -1,1 +1,3 @@
-
+# Python packaging artifacts
+*.egg-info/
+src/nore_ai.egg-info/
