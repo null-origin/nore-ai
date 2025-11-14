@@ -51,3 +51,82 @@ data/registers/ – Future output directory for daily/weekly structural summarie
 run_day.py – The recommended entrypoint for running the pipeline (no install required).
 
 tests/ – Unit tests validating the engine and data contracts.
+
+3. Data Model
+3.1 Event
+
+Defined both in:
+
+schemas/event.schema.json
+
+nore_ai/models/event.py
+
+Required fields:
+
+id: str
+
+timestamp: str (ISO 8601, includes timezone offset)
+
+source: str
+
+channel: str
+
+vectors: list[str]
+
+text: str
+
+meta: object (free-form but must be an object)
+
+Optional fields (used by runtime, not required by schema):
+
+laws: list[str]
+
+confidence: float
+
+severity: str
+
+decision: str
+
+status: str
+
+runtime: str
+
+3.2 Law
+
+Defined in nore_ai/models/law.py.
+
+Represents named structural laws (e.g., FL-11, OCI-04):
+
+id
+
+name
+
+description
+
+meta
+
+3.3 Register
+
+Defined in nore_ai/models/register.py.
+
+Groups events into structured collections:
+
+id
+
+name
+
+events: list[Event]
+
+3.4 FieldState
+
+Defined in nore_ai/models/field_state.py.
+
+Represents a distilled snapshot of a day:
+
+day
+
+events: list[Event]
+
+summary: dict
+
+Not yet fully implemented in the pipeline—reserved for future expansion.
