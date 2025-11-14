@@ -1,12 +1,6 @@
 # tests/test_event_model.py
 from __future__ import annotations
 
-import unittest
-from datetime import datetime, timezone
-
-# tests/test_event_model.py
-from __future__ import annotations
-
 import sys
 from pathlib import Path
 
