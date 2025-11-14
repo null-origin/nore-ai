@@ -1,0 +1,23 @@
+{
+  "defaults": {
+    "event_schema": "schemas/event.schema.json",
+    "validate": true
+  },
+
+  "paths": {
+    "events_dir": "data/events",
+    "registers_dir": "data/registers",
+    "schemas_dir": "schemas"
+  },
+
+  "runtime": {
+    "cluster_enabled": false,
+    "prioritize_enabled": false,
+    "fieldstate_enabled": false,
+    "write_registers": false
+  },
+
+  "output": {
+    "max_error_display": 5
+  }
+}
