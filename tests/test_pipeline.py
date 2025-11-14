@@ -21,7 +21,7 @@ class TestPipeline(unittest.TestCase):
         self.repo_root = Path(__file__).resolve().parents[1]
 
     def test_run_day_pipeline_on_example_file(self) -> None:
-        events_path = self.repo_root / "data" / "examples" / "events" / "2025-11-14.jsonl"
+        events_path = self.repo_root / "data" / "events" / "2025-11-14.jsonl"
         schema_path = self.repo_root / "schemas" / "event.schema.json"
 
         self.assertTrue(events_path.exists(), f"Missing events file: {events_path}")
