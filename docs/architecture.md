@@ -2,14 +2,17 @@
 
 ## 1. Purpose
 
-NORE-AI is a small, deterministic engine that operates on structured events.
+NORE-AI is a deterministic event-processing engine.  
+It consumes structured JSONL event files and returns validated, typed `Event` objects and errors.
 
-- **Input:** JSONL event files (`data/events/YYYY-MM-DD.jsonl`)
-- **Core model:** `Event`, `Law`, `Register`, `FieldState`
-- **Engine:** `ingest → validate → (cluster → prioritize → summarize)`
-- **Interface:** CLI command `nore-ai run-day <config>`
+This engine is deliberately minimal:
 
-Everything else (NORE Runtime, IL-ARCHON, dashboards) is a client of this engine.
+- **Input:** JSONL files under `data/events/YYYY-MM-DD.jsonl`
+- **Models:** `Event`, `Law`, `Register`, `FieldState`
+- **Engine pipeline:**  
+  `ingest → validate → (cluster → prioritize → summarize)`
+
+Everything else (NORE Runtime, IL-ARCHON, dashboards, registers) is a client of this core engine.
 
 ---
 
@@ -19,6 +22,7 @@ Everything else (NORE Runtime, IL-ARCHON, dashboards) is a client of this engine
 nore-ai/
   pyproject.toml
   README.md
+  run_day.py
   docs/
     architecture.md
   schemas/
@@ -31,5 +35,5 @@ nore-ai/
       models/
       engine/
       io/
-      cli/
+      cli/        (kept for future use, optional)
   tests/
