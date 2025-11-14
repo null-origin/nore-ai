@@ -1,1 +1,69 @@
+{
+  "$id": "https://nore.ai/schemas/event.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NORE-AI Event",
+  "type": "object",
+  "required": [
+    "id",
+    "timestamp",
+    "source",
+    "channel",
+    "vectors",
+    "text"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source": {
+      "type": "string"
+    },
+    "channel": {
+      "type": "string"
+    },
+    "vectors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "text": {
+      "type": "string"
+    },
+    "meta": {
+      "type": "object",
+      "additionalProperties": true
+    },
 
+    /* Optional / future fields: laws, confidence, severity, decision, status, runtime */
+
+    "laws": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "severity": {
+      "type": "string"
+    },
+    "decision": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "runtime": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
