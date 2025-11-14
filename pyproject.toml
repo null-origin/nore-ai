@@ -1,5 +1,10 @@
 [project]
-# ...
+name = "nore-ai"
+version = "0.1.0"
+requires-python = ">=3.11"
 dependencies = [
   "jsonschema>=4.0",
 ]
+
+[project.scripts]
+nore-ai = "nore_ai.cli.main:main"
