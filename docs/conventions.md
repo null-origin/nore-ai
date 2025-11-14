@@ -237,7 +237,7 @@ python run_day.py -e data/events/YYYY-MM-DD.jsonl
 
 Using configs:
 ```
-nore-ai run-day configs/global.json
+python run-day configs/global.json
 ```
 
 Rules:
