@@ -298,10 +298,15 @@ Rules:
 
 # 13. Python Code Naming
 Modules: `snake_case.py`
+
 Functions: `snake_case`
+
 Classes: `PascalCase`
+
 Constants: `UPPER_SNAKE_CASE`
+
 Variables: `snake_case`
+
 Packages: lowercase `nore_ai`
 
 ---
