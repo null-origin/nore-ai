@@ -1,4 +1,4 @@
-# FieldState
+# FieldState · Definition, Structure, and Lifecycle of the Fieldstate Model
 
 `FieldState` is the **daily structural snapshot** produced after NORE-AI processes a single event file. It is the deterministic summary of what was observed on that day — no forecasting, inference, or narrative. It forms the bridge between:
 
