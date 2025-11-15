@@ -231,7 +231,7 @@ Non-negotiable:
 * determinism
 * JSON-only storage
 * no interpretation
-* no ML or probabilistic logic
+* no ML (machine-learning) or probabilistic logic
 
 ---
 
