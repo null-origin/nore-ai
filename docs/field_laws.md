@@ -1,4 +1,4 @@
-# Field Laws (FL-00 — FL-12) · Canonical Field Laws (FL-00 — FL-12), Definitions, Constraints, and Usage Inside NORE-AI
+# Field Laws · Canonical Field Laws (FL-00 — FL-12), Definitions, Constraints, and Usage Inside NORE-AI
 
 Field Laws define the **mechanical constraints** governing how the NORE field behaves. They do not interpret events; they restrict what the system is allowed to do with them.
 
