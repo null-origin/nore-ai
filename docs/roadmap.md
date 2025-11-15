@@ -9,14 +9,23 @@ NORE-AI grows in layers, not branches. Each layer builds on the prior one withou
 # Version Overview
 
 v0.1 — Event Engine (current)
+
 v0.2 — Registers
+
 v0.3 — Weekly Windows
+
 v0.4 — Cycle Detection (mechanical)
+
 v0.5 — Law Activation (mechanical)
+
 v0.6 — Multi-Day FieldState
+
 v0.7 — CLI Expansion
+
 v0.8 — Runtime Interface
+
 v0.9 — Testing & Stability
+
 v1.0 — Full Foundational Release
 
 ---
