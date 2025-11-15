@@ -1,4 +1,4 @@
-# NORE Runtime Integration
+# NORE Runtime Integration · How NORE-AI Integrates with the NORE Runtime, IL-ARCHON, and Higher Structural Layers
 
 NORE-AI is the **input layer** of the larger NORE Runtime and IL-ARCHON system. Its job is not to interpret or predict but to produce a **clean, deterministic, validated representation of the field**.
 
