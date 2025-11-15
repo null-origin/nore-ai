@@ -1,4 +1,4 @@
-# NORE-AI Registers
+# NORE-AI Registers · Register Architecture & Output Specification
 
 Registers are structured collections of events — the intermediate layer between raw `Event` data and higher‑order structures such as `FieldState`, weekly/cycle windows, and dashboards.
 
