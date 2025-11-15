@@ -1,4 +1,4 @@
-# NORE-AI Laws
+# NORE-AI Laws · Definition, Structure, Constraints, and Lifecycle of Laws In NORE-AI
 
 A **Law** is a deterministic structural rule that governs how the NORE field model behaves once events are observed. Laws do not interpret or guess — they constrain, validate, and discipline the system.
 
