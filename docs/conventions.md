@@ -1,4 +1,4 @@
-# NORE-AI Conventions
+# NORE-AI Conventions · Global Conventions for Naming, Data Structure, Timestamps, IDs, and Filesystem Layout
 
 This document defines the **global rules** that govern naming, file structure, identifiers, timestamps, sources, channels, vectors, configuration, and code organization across the NORE-AI repository.
 
