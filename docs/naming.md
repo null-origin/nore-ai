@@ -167,7 +167,7 @@ cnbc
 espn
 reuters
 pandora
-personal-note
+personal
 mlb
 ```
 Rules:
