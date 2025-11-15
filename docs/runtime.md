@@ -20,7 +20,7 @@ The full system consists of four stacked layers:
 ```
 
 ## L1 — Raw Data
-Factual observations: news, market signals, Pandora sequences, filings, daily logs.
+Factual observations: news, market signals, Pandora sequences, filings, daily logs, etc.
 
 ## L2 — NORE-AI
 This repository. Handles:
