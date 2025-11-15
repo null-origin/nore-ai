@@ -1,4 +1,4 @@
-# NORE-AI Roadmap (v0.1 → v1.0)
+# NORE-AI Roadmap (v0.1 → v1.0) · Version Roadmap for NORE-AI, Structural Milestones, and Invariants
 
 This roadmap defines the controlled evolution of NORE-AI. The emphasis is stability, determinism, and architectural clarity — not feature volume.
 
