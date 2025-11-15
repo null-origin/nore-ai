@@ -117,7 +117,7 @@ Runtime derives:
 - weekly rollups
 - cycle detection
 - law activation patterns
-- collapse/exposure/retrieval/installation windows
+- collapse/exposure/retrieval/installation/etc. windows
 - continuity mapping
 - vector acceleration/decay curves
 - multi-day registers
