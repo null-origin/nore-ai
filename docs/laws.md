@@ -17,7 +17,7 @@ Laws provide:
 
 Laws do *not*:
 - generate content
-- classify by ML
+- classify by ML (machine-learning)
 - infer hidden meaning
 - forecast or predict
 
