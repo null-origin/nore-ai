@@ -19,11 +19,11 @@ Testing exists to *preserve the architecture* — not to chase edge cases.
 
 NORE-AI tests obey four core principles.
 
-## **1. Determinism**
+## **1.1 Determinism**
 
 Given the same input, the system must always produce the same output.
 
-## **2. Purity**
+## **1.2 Purity**
 
 Tests treat the system as pure functions:
 *(raw events) → (validated events + FieldState)*
@@ -35,7 +35,7 @@ No test relies on:
 * system time
 * randomness
 
-## **3. Isolation**
+## **1.3 Isolation**
 
 Tests must not interact with:
 
@@ -45,7 +45,7 @@ Tests must not interact with:
 
 Temporary, throwaway directories must be used.
 
-## **4. Minimality**
+## **1.4 Minimality**
 
 Tests are small, direct, and structural:
 
