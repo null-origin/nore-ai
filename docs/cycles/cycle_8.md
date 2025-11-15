@@ -1,8 +1,11 @@
 # **Cycle 8 Primer — Chaotic Disruption Purge (Nov 30 – Dec 2, 2025)**
 
 **Cycle Type:** Purge-Ignition
+
 **Ignition Window:** Nov 30 – Dec 2
+
 **Seal Window:** Dec 3 – Dec 5
+
 **Cycle Function:** Remove accumulated distortion, collapse unaligned structures, and reset the field for re-entry architecture.
 
 ---
