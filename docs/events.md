@@ -148,7 +148,7 @@ espn
 reuters
 pandora
 mlb
-personal-note
+personal note
 ```
 Rules:
 - lowercase
