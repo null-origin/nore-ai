@@ -125,10 +125,11 @@ Rules:
 - no naive timestamps
 
 ## 4.3 `channel`
-Allowed:
+Examples:
 ```
 corporate
 economic
+market
 sports
 music
 social
