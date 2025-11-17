@@ -44,7 +44,7 @@ IDs are immutable.
 
 ---
 
-# 3. Canonical Law Set (FL-00 → FL-12)
+# 3. Canonical Law Set (FL-00 → FL-13)
 
 This set forms the foundational laws for NORE-AI. All future law expansion derives from these.
 
