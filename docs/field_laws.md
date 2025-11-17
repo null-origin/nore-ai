@@ -103,6 +103,12 @@ This set forms the foundational laws for NORE-AI. All future law expansion deriv
 **No order exists outside alignment with origin.**
 - Disalignment produces collapse.
 
+## **FL-13 — Continuity Law**
+**Continuity is the persistence of origin across apparent change.**
+- Continuity is structural, not temporal.
+- Transitions do not break continuity unless causal reference shifts away from origin.
+- Motion persists only when aligned with origin; otherwise it decays into collapse. 
+
 ---
 
 # 4. How Laws Are Used in NORE-AI
