@@ -1,11 +1,11 @@
 # tests/test_fieldstate.py
+from __future__ import annotations
+
 from pathlib import Path
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
-
-from __future__ import annotations
 
 import unittest
 from datetime import date
@@ -60,19 +60,14 @@ class FieldStateTests(unittest.TestCase):
 
         fs = FieldState.from_events(day, [e1, e2])
 
-        # Basic structure
         self.assertEqual(fs.id, "fieldstate-2025-11-17")
         self.assertEqual(fs.day, day)
         self.assertEqual(fs.event_ids, ["s-2025-11-17-01", "s-2025-11-17-02"])
         self.assertEqual(fs.event_count, 2)
 
-        # Channels
         self.assertEqual(fs.channels, {"travel": 1, "macro-field": 1})
-
-        # Sources
         self.assertEqual(fs.sources, {"dad": 1, "cnbc": 1})
 
-        # Vectors
         self.assertEqual(
             fs.vectors,
             {
@@ -85,7 +80,6 @@ class FieldStateTests(unittest.TestCase):
             },
         )
 
-        # Laws (combined from both events)
         self.assertEqual(
             fs.laws,
             {
@@ -96,12 +90,10 @@ class FieldStateTests(unittest.TestCase):
             },
         )
 
-        # Time range
         self.assertIsNotNone(fs.time_start)
         self.assertIsNotNone(fs.time_end)
         self.assertLess(fs.time_start, fs.time_end)
 
-        # Summary is frequency-based, not interpretive
         self.assertIn("continuity", fs.summary)
         self.assertIn("dominant_themes", fs.summary)
         self.assertIn("notes", fs.summary)
