@@ -13,7 +13,6 @@ from .event import Event
 class FieldState:
     """
     Day-level aggregate of events.
-
     Backs data/registers/fieldstate-YYYY-MM-DD.json.
     """
     id: str
@@ -32,7 +31,6 @@ class FieldState:
     def from_events(cls, day: date, events: List[Event]) -> "FieldState":
         """
         Build a FieldState for a given calendar day from a list of events.
-
         Assumes all events belong to `day`.
         """
         if not events:
@@ -50,56 +48,51 @@ class FieldState:
                 summary={
                     "continuity": "empty",
                     "dominant_themes": [],
-                    "notes": "No events for this day."
+                    "notes": "No events for this day.",
                 },
             )
 
+        # --- Aggregate counts ---
         event_ids = [e.id for e in events]
         channels = Counter(e.channel for e in events)
         sources = Counter(e.source for e in events)
         vector_counts = Counter(v for e in events for v in e.vectors)
         law_counts = Counter(l for e in events for l in (getattr(e, "laws", []) or []))
 
-from datetime import datetime  # already imported at top of file
+        # --- Timestamp normalization and sorting ---
+        def _event_ts(e: Event) -> datetime:
+            """
+            Normalize Event timestamp for sorting.
+            Supports:
+            - e.ts: datetime
+            - e.timestamp: datetime or ISO string
+            """
+            if hasattr(e, "ts"):
+                return getattr(e, "ts")
 
-def _event_ts(e: Event) -> datetime:
-    """
-    Normalize an Event's timestamp to a datetime for sorting.
+            ts = getattr(e, "timestamp", None)
+            if isinstance(ts, datetime):
+                return ts
+            if isinstance(ts, str):
+                return datetime.fromisoformat(ts)
 
-    Supports either:
-    - e.ts (datetime)
-    - e.timestamp (datetime or ISO 8601 string)
-    """
-    # Preferred: explicit ts attribute
-    if hasattr(e, "ts"):
-        return getattr(e, "ts")
+            raise AttributeError("Event has no usable timestamp (ts/timestamp).")
 
-    # Fallback: timestamp / timestamp_str
-    ts = getattr(e, "timestamp", None)
-    if isinstance(ts, datetime):
-        return ts
-    if isinstance(ts, str):
-        return datetime.fromisoformat(ts)
+        sorted_by_time = sorted(events, key=_event_ts)
+        time_start = _event_ts(sorted_by_time[0])
+        time_end = _event_ts(sorted_by_time[-1])
 
-    raise AttributeError("Event has no usable timestamp attribute (ts / timestamp).")
+        # --- Simple FieldState summary ---
+        continuity = "stable" if len(events) <= 3 else "active"
+        dominant_vectors = [v for v, _ in vector_counts.most_common(3)]
 
-# Time range
-sorted_by_time = sorted(events, key=_event_ts)
-time_start = _event_ts(sorted_by_time[0])
-time_end  = _event_ts(sorted_by_time[-1])
+        summary = {
+            "continuity": continuity,
+            "dominant_themes": dominant_vectors,
+            "notes": "Auto-generated FieldState summary; frequency-based only.",
+        }
 
-# Very simple, mechanical summary
-continuity = "stable" if len(events) <= 3 else "active"
-dominant_vectors = [v for v, _ in vector_counts.most_common(3)]
-
-summary = {
-    "continuity": continuity,
-    "dominant_themes": dominant_vectors,
-    "notes": "Auto-generated FieldState summary; frequency-based only.",
-}
-
-
-    return cls(
+        return cls(
             id=f"fieldstate-{day.isoformat()}",
             day=day,
             event_ids=event_ids,
