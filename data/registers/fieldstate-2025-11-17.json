@@ -1,0 +1,42 @@
+{
+  "id": "fieldstate-2025-11-17",
+  "date": "2025-11-17",
+  "event_ids": [
+    "s-2025-11-17-01",
+    "s-2025-11-17-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "travel": 1,
+    "macro-field": 1
+  },
+  "sources": {
+    "dad": 1,
+    "cnbc": 1
+  },
+  "vectors": {
+    "alignment": 1,
+    "dual-arrival": 1,
+    "continuity": 1,
+    "exposure": 1,
+    "withdrawal": 1,
+    "legitimacy": 1
+  },
+  "laws": {
+    "FL-09": 1,
+    "FL-12": 2,
+    "FL-13": 2,
+    "FL-06": 1
+  },
+  "time_start": "2025-11-17T15:50:00-05:00",
+  "time_end": "2025-11-17T20:10:00-05:00",
+  "summary": {
+    "continuity": "stable",
+    "dominant_themes": [
+      "alignment",
+      "dual-arrival",
+      "continuity"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
