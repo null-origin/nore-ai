@@ -99,7 +99,7 @@ summary = {
 }
 
 
-        return cls(
+    return cls(
             id=f"fieldstate-{day.isoformat()}",
             day=day,
             event_ids=event_ids,
