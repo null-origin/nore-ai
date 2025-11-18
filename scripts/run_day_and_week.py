@@ -1,4 +1,11 @@
 # scripts/run_day_and_week.py
+from pathlib import Path
+import sys
+
+# Ensure src/ is on sys.path so we can import nore_ai without pip install -e .
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "src"))
+
 from __future__ import annotations
 
 import json
