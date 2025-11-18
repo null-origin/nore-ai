@@ -86,18 +86,18 @@ def _event_ts(e: Event) -> datetime:
 # Time range
 sorted_by_time = sorted(events, key=_event_ts)
 time_start = _event_ts(sorted_by_time[0])
-time_end = _event_ts(sorted_by_time[-1])
+time_end  = _event_ts(sorted_by_time[-1])
 
+# Very simple, mechanical summary
+continuity = "stable" if len(events) <= 3 else "active"
+dominant_vectors = [v for v, _ in vector_counts.most_common(3)]
 
-        # Very simple, mechanical summary
-        continuity = "stable" if len(events) <= 3 else "active"
-        dominant_vectors = [v for v, _ in vector_counts.most_common(3)]
+summary = {
+    "continuity": continuity,
+    "dominant_themes": dominant_vectors,
+    "notes": "Auto-generated FieldState summary; frequency-based only.",
+}
 
-        summary = {
-            "continuity": continuity,
-            "dominant_themes": dominant_vectors,
-            "notes": "Auto-generated FieldState summary; frequency-based only."
-        }
 
         return cls(
             id=f"fieldstate-{day.isoformat()}",
