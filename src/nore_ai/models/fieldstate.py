@@ -60,9 +60,34 @@ class FieldState:
         vector_counts = Counter(v for e in events for v in e.vectors)
         law_counts = Counter(l for e in events for l in (getattr(e, "laws", []) or []))
 
-        sorted_by_time = sorted(events, key=lambda e: e.ts)
-        time_start = sorted_by_time[0].ts
-        time_end = sorted_by_time[-1].ts
+from datetime import datetime  # already imported at top of file
+
+def _event_ts(e: Event) -> datetime:
+    """
+    Normalize an Event's timestamp to a datetime for sorting.
+
+    Supports either:
+    - e.ts (datetime)
+    - e.timestamp (datetime or ISO 8601 string)
+    """
+    # Preferred: explicit ts attribute
+    if hasattr(e, "ts"):
+        return getattr(e, "ts")
+
+    # Fallback: timestamp / timestamp_str
+    ts = getattr(e, "timestamp", None)
+    if isinstance(ts, datetime):
+        return ts
+    if isinstance(ts, str):
+        return datetime.fromisoformat(ts)
+
+    raise AttributeError("Event has no usable timestamp attribute (ts / timestamp).")
+
+# Time range
+sorted_by_time = sorted(events, key=_event_ts)
+time_start = _event_ts(sorted_by_time[0])
+time_end = _event_ts(sorted_by_time[-1])
+
 
         # Very simple, mechanical summary
         continuity = "stable" if len(events) <= 3 else "active"
