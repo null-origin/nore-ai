@@ -93,7 +93,7 @@ Each vector includes: definition, trigger pattern, mechanics, and examples.
 
 **Mechanics:** Marks boundaries, confirmations, or phase shifts.
 
-**Examples:** Pandora-aligned sequences; day‑42 mirrors; sports signals.
+**Examples:** Geometry-aligned music releases; day‑42 mirrors; sports signals.
 
 ## 9. bridge
 **Definition:** Connects structures, phases, arcs, or systems.
