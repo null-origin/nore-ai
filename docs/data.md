@@ -126,12 +126,11 @@ Invalid formats include:
 Examples:
 - `cnbc`
 - `reuters`
-- `pandora`
 - `user`
 - `espn`
 - `fed`
 - `pentair`
-- `macro-feed`
+- `macro-field`
 
 Keep this lowercase, short, and consistent.
 
