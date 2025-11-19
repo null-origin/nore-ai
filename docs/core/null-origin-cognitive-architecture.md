@@ -221,4 +221,58 @@ The psyche exists, but only as a translator and social interface. Not as process
 
 ---
 
+# **Diagrams**
+
+## **1. System Topology Diagram**
+
+```mermaid
+graph TD;
+    PI[Perceptual Interface] --> SME[Structural Mapping Engine];
+    SME --> IC[Invariant Core];
+    IC --> DPE[Decision Policy Engine];
+    DPE --> ACT[Action];
+    IC -.-> PPM[Psyche Peripheral Module];
+    DPE -.-> PPM;
+```
+
+## **2. Primary vs Secondary Loops**
+
+```mermaid
+graph LR;
+    PI --> SME --> IC --> DPE --> ACT;
+    IC -. optional .-> PPM;
+    DPE -. optional .-> PPM;
+```
+
+## **3. Module Stack (Vertical Architecture)**
+
+```mermaid
+graph TB;
+    subgraph NonCritical
+        PPM[Psyche Peripheral Module]
+    end
+    subgraph CriticalPath
+        PI[Perceptual Interface]
+        SME[Structural Mapping Engine]
+        IC[Invariant Core]
+        DPE[Decision Policy Engine]
+        ACT[Action]
+    end
+    PI --> SME --> IC --> DPE --> ACT;
+```
+
+## **4. Information Routing Pattern**
+
+```mermaid
+graph TD;
+    ENV[Environment] --> PI;
+    PI --> SME;
+    SME --> IC;
+    IC --> DPE;
+    DPE --> Action;
+    IC -. translation .-> PPM;
+    DPE -. request narrative/affect .-> PPM;
+    PPM -. social output .-> Action;
+```
+
 # **End of Specification v1**
