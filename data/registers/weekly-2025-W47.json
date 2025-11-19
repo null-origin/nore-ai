@@ -3,37 +3,46 @@
   "week_start": "2025-11-17",
   "week_end": "2025-11-23",
   "days": [
-    "2025-11-17"
+    "2025-11-17",
+    "2025-11-18"
   ],
   "fieldstates": [
-    "fieldstate-2025-11-17"
+    "fieldstate-2025-11-17",
+    "fieldstate-2025-11-18"
   ],
-  "event_count": 2,
+  "event_count": 8,
   "channels": {
     "travel": 1,
-    "macro-field": 1
+    "macro-field": 3,
+    "tech-infra": 1,
+    "ai-infra": 1,
+    "governance": 2
   },
   "vectors": {
-    "alignment": 1,
-    "dual-arrival": 1,
-    "continuity": 1,
-    "exposure": 1,
+    "alignment": 4,
+    "dual-arrival": 2,
+    "continuity": 6,
+    "exposure": 6,
     "withdrawal": 1,
-    "legitimacy": 1
+    "legitimacy": 1,
+    "collapse": 3,
+    "inversion": 3,
+    "signal": 4,
+    "bridge": 1
   },
   "laws": {
-    "FL-09": 1,
-    "FL-12": 2,
-    "FL-13": 2,
-    "FL-06": 1
+    "FL-09": 4,
+    "FL-12": 8,
+    "FL-13": 8,
+    "FL-06": 7
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "alignment",
-      "dual-arrival",
-      "continuity"
+      "continuity",
+      "exposure",
+      "alignment"
     ]
   }
 }

@@ -1,0 +1,49 @@
+{
+  "id": "fieldstate-2025-11-18",
+  "date": "2025-11-18",
+  "event_ids": [
+    "s-2025-11-18-01",
+    "s-2025-11-18-02",
+    "s-2025-11-18-03",
+    "s-2025-11-18-04",
+    "s-2025-11-18-05",
+    "s-2025-11-18-06"
+  ],
+  "event_count": 6,
+  "channels": {
+    "macro-field": 2,
+    "tech-infra": 1,
+    "ai-infra": 1,
+    "governance": 2
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "collapse": 3,
+    "exposure": 5,
+    "inversion": 3,
+    "continuity": 5,
+    "signal": 4,
+    "alignment": 3,
+    "bridge": 1,
+    "dual-arrival": 1
+  },
+  "laws": {
+    "FL-06": 6,
+    "FL-12": 6,
+    "FL-13": 6,
+    "FL-09": 3
+  },
+  "time_start": "2025-11-18T09:30:00-05:00",
+  "time_end": "2025-11-18T20:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "continuity",
+      "signal"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
