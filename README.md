@@ -186,7 +186,7 @@ Primary entrypoint:
 nore-ai run-day --events data/events/2025-11-17.jsonl
 ```
 
-Common workflows
+## Common workflows
 
 Validate a single day
 ```
