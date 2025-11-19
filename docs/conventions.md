@@ -158,8 +158,6 @@ Examples:
 cnbc
 reuters
 espn
-pandora
-mlb
 personal-note
 ```
 
