@@ -183,7 +183,16 @@ See `docs/io.md`.
 Primary entrypoint:
 
 ```
-nore-ai run-day --events data/events/2025-11-16.jsonl
+nore-ai run-day --events data/events/2025-11-17.jsonl
+
+
+### Common workflows
+
+#### Validate a single day
+nore-ai run-day -e data/events/2025-11-17.jsonl
+
+#### Run full daily + weekly aggregation
+python scripts/run_day_and_week.py 2025-11-17
 ```
 
 Future commands (v0.7+):
