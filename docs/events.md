@@ -147,8 +147,6 @@ Origin of the event. Examples:
 cnbc
 espn
 reuters
-pandora
-mlb
 personal
 ```
 Rules:
@@ -242,7 +240,7 @@ If yes → event is valid.
 
 ## 7.3 Multi-vector mechanics
 ```json
-{"id":"s-2025-11-16-09","timestamp":"2025-11-16T20:44:53-05:00","channel":"music","source":"pandora","vectors":["exposure","alignment","retrieval"],"laws":[],"text":"Mastodon track surfaces unexpectedly in rotation.","meta":{"tags":["mastodon"],"window":false}}
+{"id":"s-2025-11-19-04","timestamp":"2025-11-19T09:30:00-05:00","source":"converge","channel":"music","vectors":["collapse","exposure","purge","inversion","alignment","withdrawal","signal"],"laws":["FL-06","FL-09","FL-12","FL-13"],"text":"Converge released 'Love Is Not Enough' on an atypical Wednesday, carrying structural themes of collapse, exposure, truth-over-time inversion, and purge mechanics. Functions as a Cycle-8 precursor and early announcement for the Cycle-12 law installation window (Feb 13–27, 2026).","meta":{"tags":["converge","music","cycle-8","cycle-12","structural precursor"],"window":true,"note":"Nonstandard release timing marks a pre-ignition pulse; lyrical content aligns with purge and inversion mechanics expected for Cycle-12."}}
 ```
 
 ---
