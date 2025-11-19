@@ -188,7 +188,7 @@ Example:
   },
   "sources": {
     "cnbc": 1,
-    "pandora": 1
+    "converge": 1
   },
   "time_start": "2025-11-16T08:23:00-05:00",
   "time_end": "2025-11-16T21:12:45-05:00",
