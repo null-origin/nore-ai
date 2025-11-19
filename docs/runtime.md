@@ -165,7 +165,12 @@ weekly-YYYY-WW.json
 cycle-08-window-01.json
 systemstate.json
 ```
+## 7.3 Daily + Weekly Runtime Commands
 
+- `python scripts/run_day_and_week.py YYYY-MM-DD`
+  - runs the pipeline for that day
+  - writes `data/registers/fieldstate-YYYY-MM-DD.json`
+  - creates/updates `data/registers/weekly-YYYY-Www.json`
 ---
 
 # 8. Why This Separation Exists
