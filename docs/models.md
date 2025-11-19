@@ -45,7 +45,7 @@ Event is the sole on-disk input model. All higher-level objects derive from Even
 ## 2.2 Core Fields (Required)
 - **id: str** — `s-YYYY-MM-DD-NN` (e.g., `s-2025-11-14-02`)
 - **timestamp: datetime** — parsed ISO-8601 with timezone
-- **source: str** — e.g., `cnbc`, `reuters`, `pandora`, `user`
+- **source: str** — e.g., `cnbc`, `reuters`, `user`
 - **channel: str** — e.g., `corporate`, `macro`, `sports`, `music`, `user`
 - **vectors: list[str]** — structural role markers
 - **text: str** — human-readable description
