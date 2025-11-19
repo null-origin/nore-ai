@@ -166,9 +166,7 @@ Examples:
 cnbc
 espn
 reuters
-pandora
 personal
-mlb
 ```
 Rules:
 - lowercase
