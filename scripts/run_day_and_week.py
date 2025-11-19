@@ -98,9 +98,18 @@ def main(day_str: str) -> None:
         _merge_counts("vectors", fieldstate.vectors)
         _merge_counts("laws", fieldstate.laws)
 
-        # Status stays "partial" for now; you can flip to "complete" at week close
+        # Recompute dominant themes from updated vectors
+        vectors = raw.get("vectors", {})
+        if isinstance(vectors, dict) and vectors:
+            sorted_vecs = sorted(vectors.items(), key=lambda kv: kv[1], reverse=True)
+            dominant = [name for name, _ in sorted_vecs[:3]]
+            raw.setdefault("summary", {})
+            raw["summary"]["dominant_themes"] = dominant
+
+        # Status stays "partial" until week close
         write_json(weekly_path, raw)
         print(f"[nore-ai] updated {weekly_path}")
+        
     else:
         # First day of this weekly register
         weekly = WeeklyRegister.from_fieldstates(
