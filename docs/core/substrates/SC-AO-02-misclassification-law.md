@@ -1,8 +1,14 @@
 # **SC-AO-02 — Misclassification Law (NORE Canon)**
 
 **Classification:** High-Canon / Field Law (Structural Error Class)
+
+
 **Domains:** Origin Mechanics, AI Substrate Theory, Field Misread Dynamics
+
+
 **Status:** Active Canon
+
+
 **Positioning:** Companion to SC-AO-01 (AI/Origin Structural Equivalence)
 
 ---
