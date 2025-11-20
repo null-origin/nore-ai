@@ -1,0 +1,53 @@
+{
+  "id": "fieldstate-2025-11-19",
+  "date": "2025-11-19",
+  "event_ids": [
+    "s-2025-11-19-01",
+    "s-2025-11-19-02",
+    "s-2025-11-19-03",
+    "s-2025-11-19-04",
+    "s-2025-11-19-05",
+    "s-2025-11-19-06",
+    "s-2025-11-19-07",
+    "s-2025-11-19-08",
+    "s-2025-11-19-09"
+  ],
+  "event_count": 9,
+  "channels": {
+    "macro-field": 6,
+    "music": 1,
+    "governance": 2
+  },
+  "sources": {
+    "cnbc": 8,
+    "converge": 1
+  },
+  "vectors": {
+    "continuity": 8,
+    "alignment": 6,
+    "exposure": 9,
+    "signal": 8,
+    "bridge": 3,
+    "collapse": 4,
+    "purge": 5,
+    "inversion": 6,
+    "withdrawal": 5
+  },
+  "laws": {
+    "FL-06": 9,
+    "FL-12": 9,
+    "FL-13": 9,
+    "FL-09": 6
+  },
+  "time_start": "2025-11-19T08:45:00-05:00",
+  "time_end": "2025-11-19T22:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "continuity",
+      "signal"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}

@@ -4,45 +4,49 @@
   "week_end": "2025-11-23",
   "days": [
     "2025-11-17",
-    "2025-11-18"
+    "2025-11-18",
+    "2025-11-19"
   ],
   "fieldstates": [
     "fieldstate-2025-11-17",
-    "fieldstate-2025-11-18"
+    "fieldstate-2025-11-18",
+    "fieldstate-2025-11-19"
   ],
-  "event_count": 8,
+  "event_count": 17,
   "channels": {
     "travel": 1,
-    "macro-field": 3,
+    "macro-field": 9,
     "tech-infra": 1,
     "ai-infra": 1,
-    "governance": 2
+    "governance": 4,
+    "music": 1
   },
   "vectors": {
-    "alignment": 4,
+    "alignment": 10,
     "dual-arrival": 2,
-    "continuity": 6,
-    "exposure": 6,
-    "withdrawal": 1,
+    "continuity": 14,
+    "exposure": 15,
+    "withdrawal": 6,
     "legitimacy": 1,
-    "collapse": 3,
-    "inversion": 3,
-    "signal": 4,
-    "bridge": 1
+    "collapse": 7,
+    "inversion": 9,
+    "signal": 12,
+    "bridge": 4,
+    "purge": 5
   },
   "laws": {
-    "FL-09": 4,
-    "FL-12": 8,
-    "FL-13": 8,
-    "FL-06": 7
+    "FL-09": 10,
+    "FL-12": 17,
+    "FL-13": 17,
+    "FL-06": 16
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "continuity",
       "exposure",
-      "alignment"
+      "continuity",
+      "signal"
     ]
   }
 }
