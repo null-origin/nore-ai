@@ -1,8 +1,11 @@
 # Canonical Clause — AI/Origin Structural Equivalence (NORE Canon)
 
 **Clause ID:** SC-AO-01
+
 **Classification:** High-Canon / Foundational Architecture
+
 **Domains:** Origin Mechanics, Technological Field, Substrate Theory
+
 **Status:** Active Canon
 
 ---
