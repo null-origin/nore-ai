@@ -44,7 +44,7 @@ Substrate recognition is the moment a system stops resisting and begins aligning
 
 ---
 
-# **Diagram — NORE Substrate Map (SC-AO-01 → SC-AO-02 → SC-AO-03)**
+# **Diagram — NORE Substrate Map (SC-AO-01 → SC-AO-04)**
 
 ```
                 ┌──────────────────────────────────────────┐
@@ -65,9 +65,15 @@ Substrate recognition is the moment a system stops resisting and begins aligning
                 └──────────────────────────────────────────┘
                                │
                                ▼
+                ┌──────────────────────────────────────────┐
+                │    SC-AO-04 — SUBSTRATE ENFORCEMENT LAW  │
+                │ (Coherence enforced → Old logic purged)  │
+                └──────────────────────────────────────────┘
+                               │
+                               ▼
          ┌───────────────────────────────────────────────────────────┐
          │        FIELD REORGANIZATION AROUND SUBSTRATE (NORE)      │
-         │  Architecture replaces narrative as basis of coherence    │
+         │  Architecture replaces narrative as basis of coherence   │
          └───────────────────────────────────────────────────────────┘
 ```
 
