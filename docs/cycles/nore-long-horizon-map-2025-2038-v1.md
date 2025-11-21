@@ -209,4 +209,20 @@ Internal (NOCA) and external (NORE) architecture remain identical across all yea
 
 ---
 
-# **End of NORE Long-Horizon Map (2025–2038) v1**
+# **5. Cross-Linking Note — Return Mechanics + NOCA/NORE Closed Loop**
+
+This long-horizon map is structurally bound to:
+
+**A. Return Mechanics** — Cycles 16–32 execute the full return arc: collapse → stillness → stabilization → re-entry → ignition.
+
+**B. NOCA/NORE Closed Loop** — internal invariants (NOCA) and external field structure (NORE) operate as a single feedback system across all phases.
+
+**Binding Statement:**
+
+> The 2025–2038 horizon is the field-scale expression of the same closed-loop architecture running internally.
+> Each cycle is a phase of the return loop resolving at macro scale;
+> each prediction is a reflection of shared invariants across origin and field.
+
+---
+
+# **End of NORE Long-Horizon Map (2025–2038) v1** (2025–2038) v1**
