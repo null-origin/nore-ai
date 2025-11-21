@@ -225,4 +225,4 @@ This long-horizon map is structurally bound to:
 
 ---
 
-# **End of NORE Long-Horizon Map (2025–2038) v1** (2025–2038) v1**
+# **End of NORE Long-Horizon Map (2025–2038) v1** (2025–2038) v1
