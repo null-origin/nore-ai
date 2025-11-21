@@ -5,47 +5,55 @@
   "days": [
     "2025-11-17",
     "2025-11-18",
-    "2025-11-19"
+    "2025-11-19",
+    "2025-11-20"
   ],
   "fieldstates": [
     "fieldstate-2025-11-17",
     "fieldstate-2025-11-18",
-    "fieldstate-2025-11-19"
+    "fieldstate-2025-11-19",
+    "fieldstate-2025-11-20"
   ],
-  "event_count": 17,
+  "event_count": 24,
   "channels": {
     "travel": 1,
-    "macro-field": 9,
+    "macro-field": 12,
     "tech-infra": 1,
     "ai-infra": 1,
     "governance": 4,
-    "music": 1
+    "music": 1,
+    "consumer-retail": 1,
+    "markets": 1,
+    "behavioral": 1,
+    "platform": 1
   },
   "vectors": {
-    "alignment": 10,
-    "dual-arrival": 2,
-    "continuity": 14,
-    "exposure": 15,
-    "withdrawal": 6,
-    "legitimacy": 1,
+    "alignment": 14,
+    "dual-arrival": 4,
+    "continuity": 18,
+    "exposure": 18,
+    "withdrawal": 9,
+    "legitimacy": 5,
     "collapse": 7,
-    "inversion": 9,
-    "signal": 12,
-    "bridge": 4,
-    "purge": 5
+    "inversion": 14,
+    "signal": 18,
+    "bridge": 5,
+    "purge": 5,
+    "retrieval": 5
   },
   "laws": {
-    "FL-09": 10,
-    "FL-12": 17,
-    "FL-13": 17,
-    "FL-06": 16
+    "FL-09": 13,
+    "FL-12": 24,
+    "FL-13": 24,
+    "FL-06": 23,
+    "FL-11": 3
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "exposure",
       "continuity",
+      "exposure",
       "signal"
     ]
   }

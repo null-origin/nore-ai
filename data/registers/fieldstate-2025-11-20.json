@@ -1,0 +1,56 @@
+{
+  "id": "fieldstate-2025-11-20",
+  "date": "2025-11-20",
+  "event_ids": [
+    "s-2025-11-20-01",
+    "s-2025-11-20-02",
+    "s-2025-11-20-03",
+    "s-2025-11-20-04",
+    "s-2025-11-20-05",
+    "s-2025-11-20-06",
+    "s-2025-11-20-07"
+  ],
+  "event_count": 7,
+  "channels": {
+    "macro-field": 3,
+    "consumer-retail": 1,
+    "markets": 1,
+    "behavioral": 1,
+    "platform": 1
+  },
+  "sources": {
+    "cnbc": 5,
+    "interpersonal": 1,
+    "openai": 1
+  },
+  "vectors": {
+    "continuity": 4,
+    "alignment": 4,
+    "signal": 6,
+    "inversion": 5,
+    "exposure": 3,
+    "bridge": 1,
+    "retrieval": 5,
+    "dual-arrival": 2,
+    "legitimacy": 4,
+    "withdrawal": 3
+  },
+  "laws": {
+    "FL-06": 7,
+    "FL-09": 3,
+    "FL-12": 7,
+    "FL-13": 7,
+    "FL-11": 3
+  },
+  "time_start": "2025-11-20T10:00:00-05:00",
+  "time_end": "2025-11-20T22:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "signal",
+      "inversion",
+      "retrieval"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
