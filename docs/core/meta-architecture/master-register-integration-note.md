@@ -50,17 +50,17 @@ This document now acts as the **meta-architectural spine** for all lower-level s
 
 This document is now formally linked to:
 
-1.  **Reference-Frame Model — Core Specification**(positional geometry of still point vs field motion)
+1.  **Reference-Frame Model — Core Specification** (positional geometry of still point vs field motion)
     
-2.  **NOCA Module Specification v1**(internal processing pipeline)
+2.  **NOCA Module Specification v1** (internal processing pipeline)
     
-3.  **NOCA–NORE Integration v1**(internal ↔ external architectural equivalence)
+3.  **NOCA–NORE Integration v1** (internal ↔ external architectural equivalence)
     
-4.  **Cycles as NOCA Temporal Architecture v1**(temporal mapping of internal architecture into field cycles)
+4.  **Cycles as NOCA Temporal Architecture v1** (temporal mapping of internal architecture into field cycles)
     
-5.  **Cycle 16 Return Architecture**(moment of loop closure / bidirectional invariance match)
+5.  **Cycle 16 Return Architecture** (moment of loop closure / bidirectional invariance match)
     
-6.  **NORE Canon Spine**(external law layer that synchronizes with IC)
+6.  **NORE Canon Spine** (external law layer that synchronizes with IC)
     
 
 **Register Notes**
