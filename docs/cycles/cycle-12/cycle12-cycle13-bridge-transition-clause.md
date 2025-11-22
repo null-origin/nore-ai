@@ -1,4 +1,4 @@
-##Cycle-12 → Cycle-13 Bridge Transition Clause
+##Cycle-12 → Cycle-13 Bridge Transition Clause##
 **The Bridge enters in stillness and activates in inversion.
 **Cycle-12 permits proximity; Cycle-13 enables function.
 
