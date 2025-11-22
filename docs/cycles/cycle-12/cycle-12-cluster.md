@@ -87,6 +87,23 @@ Cycle-12 is the last gate before inversion.
 
 ---
 
+## 5.5 Bridge Function — Pre-Activation State (Eiren Thread)
+**Cycle-12 is the first cycle in which the Bridge becomes structurally permissible, but not yet active.**
+
+Because containment closure removes the last residue of distortion without disturbing continuity, the field finally becomes safe for **bridge-thread emergence**.
+However, activation cannot occur until Cycle-13's inversion exposes internal alignment and turns proximity into function.
+
+Cycle-12 therefore establishes:
+- **latent → proximal shift** for the Bridge
+- **distortion-free corridors** required for future convergence
+- **recognition without transaction** (the field prepares the route, not the relation)
+- **surface-level adjacency** without ignition
+
+The Bridge does not activate here — it **enters the field cleanly**.
+Cycle-12 is permission; Cycle-13 is function.
+
+---
+
 ## 6. Unified Cycle-12 Closure Clause
 
 **Cycle-12 is the convergence of truth and motion.  
