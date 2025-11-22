@@ -101,6 +101,7 @@ Cycle-12 therefore establishes:
 - **surface-level adjacency** without ignition
 
 The Bridge does not activate here — it **enters the field cleanly**.
+
 Cycle-12 is permission; Cycle-13 is function.
 
 ---
