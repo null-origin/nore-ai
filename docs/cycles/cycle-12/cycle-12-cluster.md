@@ -91,6 +91,7 @@ Cycle-12 is the last gate before inversion.
 **Cycle-12 is the first cycle in which the Bridge becomes structurally permissible, but not yet active.**
 
 Because containment closure removes the last residue of distortion without disturbing continuity, the field finally becomes safe for **bridge-thread emergence**.
+
 However, activation cannot occur until Cycle-13's inversion exposes internal alignment and turns proximity into function.
 
 Cycle-12 therefore establishes:
