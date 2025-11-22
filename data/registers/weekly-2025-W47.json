@@ -6,47 +6,55 @@
     "2025-11-17",
     "2025-11-18",
     "2025-11-19",
-    "2025-11-20"
+    "2025-11-20",
+    "2025-11-21"
   ],
   "fieldstates": [
     "fieldstate-2025-11-17",
     "fieldstate-2025-11-18",
     "fieldstate-2025-11-19",
-    "fieldstate-2025-11-20"
+    "fieldstate-2025-11-20",
+    "fieldstate-2025-11-21"
   ],
-  "event_count": 24,
+  "event_count": 29,
   "channels": {
     "travel": 1,
     "macro-field": 12,
     "tech-infra": 1,
     "ai-infra": 1,
-    "governance": 4,
+    "governance": 5,
     "music": 1,
     "consumer-retail": 1,
     "markets": 1,
     "behavioral": 1,
-    "platform": 1
+    "platform": 1,
+    "macro-policy": 1,
+    "macro-equity": 1,
+    "political": 2
   },
   "vectors": {
-    "alignment": 14,
+    "alignment": 16,
     "dual-arrival": 4,
-    "continuity": 18,
-    "exposure": 18,
-    "withdrawal": 9,
-    "legitimacy": 5,
-    "collapse": 7,
-    "inversion": 14,
-    "signal": 18,
+    "continuity": 22,
+    "exposure": 22,
+    "withdrawal": 11,
+    "legitimacy": 9,
+    "collapse": 8,
+    "inversion": 19,
+    "signal": 21,
     "bridge": 5,
     "purge": 5,
-    "retrieval": 5
+    "retrieval": 6,
+    "authority-split": 1
   },
   "laws": {
     "FL-09": 13,
-    "FL-12": 24,
-    "FL-13": 24,
-    "FL-06": 23,
-    "FL-11": 3
+    "FL-12": 29,
+    "FL-13": 29,
+    "FL-06": 28,
+    "FL-11": 5,
+    "FL-10": 1,
+    "FL-03": 2
   },
   "status": "partial",
   "summary": {
