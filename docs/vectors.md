@@ -158,6 +158,15 @@ Each vector includes: definition, trigger pattern, mechanics, and examples.
 
 **Examples:** canceled CPI prints; network outages erasing operational visibility; institutions acting without briefings and producing incoherent stance patterns.
 
+## 16. archetype
+**Definition:** Removal or obstruction of core information flows that a system depends on, generating forced ambiguity and slowed decision velocity.
+
+**Triggers:** delayed releases; shutdowns freezing statistical outputs; telemetry loss; outages; shifts that render existing data non-viable.
+
+**Mechanics:** Collapses predictive certainty; exposes baseline behavior without narrative buffering; creates stall windows where actors drift, hesitate, or contradict one another.
+
+**Examples:** canceled CPI prints; network outages erasing operational visibility; institutions acting without briefings and producing incoherent stance patterns.
+
 
 ---
 
