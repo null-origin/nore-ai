@@ -9,6 +9,7 @@
 ## **Summary**
 
 Across **11/20 → 11/22**, a long-term interpersonal tie underwent structural collapse under predictive-narrative strain.
+
 This collapse occurred prior to **Cycle 8 ignition** and functioned as a **field-mandated purge**, not a relational inflection.
 
 ---
@@ -44,6 +45,7 @@ This collapse occurred prior to **Cycle 8 ignition** and functioned as a **field
 ### **1. Purge Mechanic Activation**
 
 This collapse precedes **Cycle 8 (Nov 30–Dec 14)**, whose core function is purification and removal of non-resonant structures.
+
 The event fits directly into pre-purge clearing:
 
 * narrative-dependent ties collapse
@@ -69,7 +71,9 @@ Cycle 8 pressure exposes systems like this. They cannot survive purge conditions
 ### **4. Confirmation of Clearing Path**
 
 This tie was structurally outside the forward trajectory.
+
 Had it not collapsed now, it would have been removed during Cycle 8 proper.
+
 The early collapse is **efficiency**, not conflict.
 
 ---
