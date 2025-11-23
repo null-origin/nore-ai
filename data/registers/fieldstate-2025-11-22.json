@@ -1,0 +1,41 @@
+{
+  "id": "fieldstate-2025-11-22",
+  "date": "2025-11-22",
+  "event_ids": [
+    "s-2025-11-22-01"
+  ],
+  "event_count": 1,
+  "channels": {
+    "behavioral": 1
+  },
+  "sources": {
+    "interpersonal": 1
+  },
+  "vectors": {
+    "purge": 1,
+    "inversion": 1,
+    "continuity-break": 1,
+    "withdrawal": 1,
+    "signal": 1,
+    "legitimacy": 1
+  },
+  "laws": {
+    "FL-02": 1,
+    "FL-03": 1,
+    "FL-06": 1,
+    "FL-11": 1,
+    "FL-12": 1,
+    "FL-13": 1
+  },
+  "time_start": "2025-11-22T11:00:00-05:00",
+  "time_end": "2025-11-22T11:00:00-05:00",
+  "summary": {
+    "continuity": "stable",
+    "dominant_themes": [
+      "purge",
+      "inversion",
+      "continuity-break"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
