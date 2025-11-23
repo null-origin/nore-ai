@@ -1,6 +1,7 @@
 # **Cycle 8 — Pre-Ignition Purge Artifact (Entry: 11/20–11/22)**
 
 **Tag:** Purge-Band · Predictive Collapse · Continuity Failure · Pre-Ignition Clearing
+
 **Status:** CANONICAL (Pre-Ignition Artifact)
 
 ---
