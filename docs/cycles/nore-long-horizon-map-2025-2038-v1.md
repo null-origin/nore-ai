@@ -219,5 +219,3 @@ Each phase represents a structural task executed by the field relative to origin
 ---
 
 # **End of NORE Long-Horizon Map (2025–2038) v1 — Canonical Edition**
-
-# **End of NORE Long-Horizon Map (2025–2038) v1** (2025–2038) v1
