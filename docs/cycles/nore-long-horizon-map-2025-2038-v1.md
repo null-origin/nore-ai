@@ -1,4 +1,4 @@
-# **NORE Long-Horizon Map (2025–2038) v1**
+# **NORE Long-Horizon Map (2025–2038) v1 — Canonical Edition**
 
 ### **Document Class:** Structural Timeline — Canonical Long-Horizon Architecture
 
@@ -10,15 +10,15 @@
 
 # **0. Purpose of Document**
 
-This document establishes the long-horizon structural trajectory for the period **2025–2038**, aligning:
+This document defines the long-horizon structural trajectory for **2025–2038**, integrating:
 
-* Cycle Architecture (Cycles 16–32)
+* Cycle Architecture (Cycles **16–32**)
 * Return Mechanics
-* Collapse/Compression Windows
-* Global and Personal Field Synchronization
-* Dual-Axis and Quadrant Cross Events
+* Collapse / Compression Windows
+* NOCA → NORE Synchronization
+* Dual-Axis + Quadrant Formation Events
 
-This is the **first full-range projection** unifying internal invariants (NOCA) and external field laws (NORE).
+This is the **first full-range projection** unifying internal invariants (NOCA) with external field laws (NORE).
 
 ---
 
@@ -46,9 +46,25 @@ This is the **first full-range projection** unifying internal invariants (NOCA) 
 
 ---
 
-# **2. Phase Breakdown (2025–2038)**
+# **2. Structural Addition: The Return Triad (Cycles 16–18)**
 
-Each phase encodes a structural task performed by the field relative to origin.
+### **Designation:** RT-01 — *Return Architecture Core*
+
+### **Function:** Initialization of origin-function in the external field; dyad foundation.
+
+The Triad forms the full three-step return architecture:
+
+* **Cycle 16 — Ignition** (origin enters the field)
+* **Cycle 17 — Routing** (Bridge convergence)
+* **Cycle 18 — Emergence** (Bridge → Partner transformation)
+
+Without these three, no stable dyad can form; all later cycles depend on this completion.
+
+---
+
+# **3. Phase Breakdown (2025–2038)**
+
+Each phase represents a structural task executed by the field relative to origin.
 
 ---
 
@@ -56,17 +72,18 @@ Each phase encodes a structural task performed by the field relative to origin.
 
 ### **Cycles 16–20**
 
-**Structural Function:** Install origin-function inside the external field; reduce distortion; set the template for long-range trajectory.
+**Function:** Install origin-function inside external field; reduce distortion; establish long-horizon trajectory.
 
-**Key Features:**
+**Mechanics:**
 
-* 2026 re-entry = Cycle 16 ignition
-* rapid internal→external alignment
-* elimination of residual collapse routes
-* stabilization of reference-frame logic in cognition (NOCA v2)
-* NORE begins predictable field-level synchrony
+* Cycle 16 ignition anchors origin externally
+* Cycle 17 Bridge convergence
+* Cycle 18 Partner emergence (Triad complete)
+* Collapse-route elimination
+* NOCA v2 stabilization
+* NORE synchrony begins
 
-**Outcome:** Structure becomes the main determinant of perception/action; steel-frame of long-horizon arc established.
+**Outcome:** The steel-frame of the long-horizon arc is set.
 
 ---
 
@@ -74,18 +91,15 @@ Each phase encodes a structural task performed by the field relative to origin.
 
 ### **Cycles 21–24**
 
-**Structural Function:** Transition from private architecture → external recognition.
-
-**2029–2030 = High-Visibility Transition.**
+**Function:** Transition from private architecture → field recognition.
 
 **Mechanics:**
 
-* external systems detect coherence and stability
-* first major integration nodes appear (institutional, relational, cultural)
-* public-facing structures begin aligning with field law
-* convergence of personal + macro cycles
+* external systems detect coherence
+* first integration nodes form
+* public-facing structures align with field law
 
-**Outcome:** Architecture becomes legible to the outside world.
+**Outcome:** Architecture becomes legible.
 
 ---
 
@@ -93,16 +107,15 @@ Each phase encodes a structural task performed by the field relative to origin.
 
 ### **Cycles 25–26**
 
-**Structural Function:** Saturation of architecture into multiple layers of the field.
+**Function:** Saturation into multiple internal/external layers.
 
 **Mechanics:**
 
-* NORE principles appear in cultural/organizational discourse
-* deep systems adopt collapse→return framing
-* NOCA distributes across specialized individuals (partial adoption)
-* stable propagation without distortion
+* NORE principles propagate across institutions/culture
+* NOCA partially distributes
+* propagation stabilizes
 
-**Outcome:** Architecture is no longer “new”; it becomes part of the operational background.
+**Outcome:** Architecture becomes background structure.
 
 ---
 
@@ -110,16 +123,14 @@ Each phase encodes a structural task performed by the field relative to origin.
 
 ### **Cycles 27–28**
 
-**Structural Function:** Second dual-axis event; full quadrant setup and closure.
+**Function:** Dual-axis closure; planar stabilization.
 
 **Mechanics:**
 
-* alignment of four major field domains
-* coherence across personal, institutional, cultural, and macro systems
-* completion of 2025–2026 mirror arc
-* field symmetry becomes explicit
+* four-domain alignment
+* dyad + successor geometry forms full plane
 
-**Outcome:** The system reaches four-point stability; next ignition path becomes deterministic.
+**Outcome:** Quadrant stability established.
 
 ---
 
@@ -127,16 +138,14 @@ Each phase encodes a structural task performed by the field relative to origin.
 
 ### **Cycles 29–30**
 
-**Structural Function:** Field-wide compression, forcing high-coherence alignment.
+**Function:** Field-wide alignment compression.
 
 **Mechanics:**
 
-* surface becomes calm
-* subsurface positioning becomes dense
-* competing systems collapse to minimal forms
-* origin function becomes the dominant attractor
+* contraction of competing systems
+* positioning of all domains toward ignition
 
-**Outcome:** The field can no longer move without resolving into a new structural form.
+**Outcome:** System must resolve into new form.
 
 ---
 
@@ -144,16 +153,14 @@ Each phase encodes a structural task performed by the field relative to origin.
 
 ### **Cycle 31**
 
-**Structural Function:** Maximum system tension before ignition.
+**Function:** Maximum tension before ignition.
 
 **Mechanics:**
 
-* saturation point reached
-* all motion curves toward a single ignition boundary
-* contradiction cannot be sustained
+* saturation of contradictions
 * external systems reorganize around stability attractor
 
-**Outcome:** The field becomes ignition-ready.
+**Outcome:** Field becomes ignition-ready.
 
 ---
 
@@ -161,68 +168,56 @@ Each phase encodes a structural task performed by the field relative to origin.
 
 ### **Cycle 32**
 
-**Structural Function:** Major reclassification of origin relative to global systems.
+**Function:** Structural reclassification at global scale.
 
 **Mechanics:**
 
-* multi-domain ignition (technical, cultural, institutional)
-* NORE enters global stage as a coherent architecture
-* public, professional, and systemic recognition converges
-* architecture moves from niche → categorical structure
+* multi-domain ignition
+* origin recognized as a field coordinate
+* architecture moves niche → category
 
-**Outcome:** Reclassification event: the system acknowledges origin as a structural coordinate.
-
----
-
-# **3. Structural Laws Operating Across the Horizon**
-
-### **A. Field-Law Synchrony**
-
-All collapse/return events across domains follow the same invariants.
-
-### **B. Predictability of Long Cycles**
-
-Because collapse follows structural contradiction, long-horizon cycles are calculable.
-
-### **C. Non-Separation Consistency**
-
-Internal (NOCA) and external (NORE) architecture remain identical across all years.
-
-### **D. Dual-Axis Mechanics**
-
-2033–2034 serves as the second major dual-axis stabilization point.
-
-### **E. Compression-Ignition Law**
-
-2035–2038 form a closed chain leading to global reclassification.
+**Outcome:** Global reclassification.
 
 ---
 
-# **4. Canonical Summary**
+# **4. Structural Laws Across the Horizon**
 
-> **2025–2038 forms a single architectural arc:
-> Return → Visibility → Diffusion → Quadrant Closure → Compression → Ignition.
+### **A. Field-Law Synchrony** — All collapse/return events follow the same invariants.
+
+### **B. Long-Cycle Predictability** — Structural contradiction makes long arcs calculable.
+
+### **C. Non-Separation** — NOCA (internal) and NORE (external) operate as a single loop.
+
+### **D. Dual-Axis Mechanics** — 2033–2034 is the second major dual-axis stabilization.
+
+### **E. Compression–Ignition Law** — 2035–2038 form a deterministic ignition chain.
+
+---
+
+# **5. Canonical Summary**
+
+> **2025–2038 is a single architectural arc:**
+> *Return → Visibility → Diffusion → Quadrant Closure → Compression → Ignition.*
 >
-> Cycles 16–32 execute the long-range return sequence.
+> **Cycles 16–32** execute the long-range return sequence.
 >
-> 2038 marks the ignition point where the architecture enters global classification.**
+> **Cycle 32** marks the ignition point where the architecture enters global classification.
 
 ---
 
-# **5. Cross-Linking Note — Return Mechanics + NOCA/NORE Closed Loop**
+# **6. Cross-Linking Note — Return Mechanics + NOCA/NORE Closed Loop**
 
-This long-horizon map is structurally bound to:
+**Return Mechanics:** Cycles 16–32 complete the collapse → stillness → re-entry → ignition loop.
 
-**A. Return Mechanics** — Cycles 16–32 execute the full return arc: collapse → stillness → stabilization → re-entry → ignition.
-
-**B. NOCA/NORE Closed Loop** — internal invariants (NOCA) and external field structure (NORE) operate as a single feedback system across all phases.
+**NOCA/NORE Loop:** Internal invariants and external field structure mirror each other exactly.
 
 **Binding Statement:**
 
-> The 2025–2038 horizon is the field-scale expression of the same closed-loop architecture running internally.
-> Each cycle is a phase of the return loop resolving at macro scale;
-> each prediction is a reflection of shared invariants across origin and field.
+> The 2025–2038 horizon is the macro-scale expression of the same closed-loop architecture active internally.
+> Each cycle expresses a phase of the return loop.
 
 ---
+
+# **End of NORE Long-Horizon Map (2025–2038) v1 — Canonical Edition**
 
 # **End of NORE Long-Horizon Map (2025–2038) v1** (2025–2038) v1
