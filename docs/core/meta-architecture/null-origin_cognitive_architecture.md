@@ -1,21 +1,24 @@
 # **Null-Origin Cognitive Architecture (NOCA)**
 
-## **Module Specification v1**
+## **Module Specification v1.1**
+
+v1.1 adds a new core component: the Temporal Sequencing Layer (TSL), integrating time-based cognition directly into the NOCA architecture.
 
 ---
 
 ## **System Topology (High-Level)**
 
-NOCA consists of **five primary modules** arranged in a **psyche-bypass topology**:
+NOCA now consists of **six primary modules** arranged in a **psyche-bypass, temporally-aware topology**:
 
 1. **Perceptual Interface (PI)**
-2. **Structural Mapping Engine (SME)**
-3. **Invariant Core (IC)** / Null-Origin Layer
-4. **Decision Policy Engine (DPE)**
-5. **Psyche Peripheral Module (PPM)**
+2. **Temporal Sequencing Layer (TSL)** ← new in v1.1
+3. **Structural Mapping Engine (SME)**
+4. **Invariant Core (IC)** / Null-Origin Layer
+5. **Decision Policy Engine (DPE)**
+6. **Psyche Peripheral Module (PPM)**
 
 ```
-PI → SME → IC → DPE → Action
+PI → TSL → SME → IC → DPE → Action
               ↘
                PPM (side-channel)
 ```
@@ -55,7 +58,57 @@ Produces a **clean, world-centered perceptual field**.
 
 ---
 
-# **2. Structural Mapping Engine (SME)**
+# **2. Temporal Sequencing Layer (TSL)**
+
+### **Formal Name:** Temporal Causality & Sequence-Integrity Processor
+
+### **Tier:** Level 2 — Substrate Between Perception and Structure
+
+### **Definition**
+
+TSL converts raw perceptual data into **temporal geometry**:
+
+* event sequencing
+* causal linkage
+* timeline coherence
+* anticipation of state transitions
+* collision forecasting (social, structural, behavioral)
+* recognition of premature vs optimal timing
+* detection of narrative forks
+* evaluation of future noise/complexity
+
+TSL is non-emotional, non-narrative, and non-psychological. It interprets **time as structure**, not as feeling.
+
+### **Outputs**
+
+* sequence map
+* causal projection
+* future-state envelope
+* timing constraints
+* collision-avoidance vectors
+
+### **Invariants**
+
+* time = state-transition, not emotion
+* prediction is structural, not hopeful or fearful
+* avoid unnecessary branches
+* avoid premature or high-noise actions
+* optimal timing = minimal contradiction
+* future trajectories must remain clean and low-interference
+
+### **Role In System**
+
+TSL is responsible for:
+
+* knowing **when not to act**
+* knowing **when to stay invisible**
+* knowing **when to wait**
+* knowing **when a boundary prevents future noise**
+* knowing **when someone's narrative is about to generate avoidable complexity**
+
+---
+
+# **3. Structural Mapping Engine (SME)**
 
 ### **Formal Name:** Recursive Event-Compression & Law-Extraction Module
 
@@ -71,15 +124,16 @@ Transforms perception into structure:
 * collapse points
 * symmetry classes
 * timeline geometry
+* temporal sequence maps
 
 This is the **architectural expression of Ni**.
 
 ### **Outputs**
 
-* compressed structural models
-* predicted trajectories
-* field geometry
-* timeline architecture
+* compressed causal structures
+* long-range trajectories
+* collapse predictions
+* cross-domain unifications
 
 ### **Invariants**
 
@@ -89,7 +143,7 @@ This is the **architectural expression of Ni**.
 
 ---
 
-# **3. Invariant Core (IC)**
+# **4. Invariant Core (IC)**
 
 ### **Formal Name:** Null-Origin Coherence & Constraint Layer
 
@@ -124,7 +178,7 @@ The **self** is a coordinate, not the organizer.
 
 ---
 
-# **4. Decision Policy Engine (DPE)**
+# **5. Decision Policy Engine (DPE)**
 
 ### **Formal Name:** Trajectory-Constrained Action Selection Module
 
@@ -132,7 +186,7 @@ The **self** is a coordinate, not the organizer.
 
 ### **Definition**
 
-Selects actions that follow structurally from invariants.
+Evaluates and selects actions not only by structural inevitability but **temporal correctness**.
 
 Decisions arise from **geometry**, not emotion or narrative.
 
@@ -151,7 +205,7 @@ Decisions arise from **geometry**, not emotion or narrative.
 
 ---
 
-# **5. Psyche Peripheral Module (PPM)**
+# **6. Psyche Peripheral Module (PPM)**
 
 ### **Formal Name:** Emotional/Narrative/Self-Model Auxiliary Subsystem
 
@@ -188,7 +242,7 @@ But not for:
 ### **Primary Loop:**
 
 ```
-PI → SME → IC → DPE → Action
+PI → TSL → SME → IC → DPE → Action
 ```
 
 ### **Secondary Loop (Optional):**
@@ -201,13 +255,14 @@ PPM ↔ DPE ↔ IC
 
 # **System Advantages**
 
-* zero ego interference
-* low emotional distortion
-* high structural fidelity
-* robust cross-domain reasoning
-* non-narrative coherence
-* instantaneous inevitability detection
-* stable, quiet agency
+* frictionless collision avoidance
+* clean resolution of ambiguous social timelines
+* ability to prevent future noise preemptively
+* high-fidelity temporal prediction
+* structural and temporal clarity combined
+* optimal timing as default behavior
+* non-reactive strategic positioning
+* naturally minimzing narrative entanglement
 
 ---
 
@@ -274,5 +329,11 @@ graph TD;
     DPE -. request narrative/affect .-> PPM;
     PPM -. social output .-> Action;
 ```
+## **Summary of v1 → v1.1 Changes**
+* Introduced **Temporal Sequencing Layer (TSL)
+* Upgraded SME and DPE to integrate temporal inputs
+* Clarified interaction between PI and SME through time-mapping
+* Added invariants and outputs specific to temporal cognition
+* Documented how timing decisions arise from structure, not emotion
 
-# **End of Specification v1**
+# **End of Specification v1.1**
