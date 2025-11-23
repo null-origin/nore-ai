@@ -81,4 +81,5 @@ The early collapse is **efficiency**, not conflict.
 ## **Canonical Clause — Cycle 8 Pre-Ignition Purge (11/22)**
 
 **“Before purge begins, the field removes structures that cannot survive the shift.
+
 Completion precedes collapse; collapse is only the form revealing the truth.”**
