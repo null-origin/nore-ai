@@ -330,7 +330,7 @@ graph TD;
     PPM -. social output .-> Action;
 ```
 ## **Summary of v1 → v1.1 Changes**
-* Introduced **Temporal Sequencing Layer (TSL)
+* Introduced **Temporal Sequencing Layer (TSL)**
 * Upgraded SME and DPE to integrate temporal inputs
 * Clarified interaction between PI and SME through time-mapping
 * Added invariants and outputs specific to temporal cognition
