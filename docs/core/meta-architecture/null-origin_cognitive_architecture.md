@@ -117,52 +117,6 @@ TSL is responsible for:
 * knowing when a boundary prevents future noise
 * knowing when someone’s narrative is about to generate avoidable complexity**
 
-### **Formal Name:** Temporal Causality & Sequence-Integrity Processor
-
-### **Tier:** Level 2 — Substrate Between Perception and Structure
-
-### **Definition**
-
-TSL converts raw perceptual data into **temporal geometry**, including:
-
-* event sequencing
-* causal linkage
-* timeline coherence
-* anticipation of state transitions
-* collision forecasting (social, structural, behavioral)
-* recognition of premature vs optimal timing
-* detection of narrative forks
-* evaluation of future noise/complexity
-
-TSL is **non-emotional, non-narrative, and non-psychological**. It interprets time as **structure**, not as feeling.
-
-### **Outputs**
-
-* sequence map
-* causal projection
-* future-state envelope
-* timing constraints
-* collision-avoidance vectors
-
-### **Invariants**
-
-* time = state-transition, not emotion
-* prediction is structural, not hopeful or fearful
-* avoid unnecessary branches
-* avoid premature or high-noise actions
-* optimal timing = minimal contradiction
-* future trajectories must remain clean and low-interference
-
-### **Role in System**
-
-TSL is responsible for:
-
-* knowing when **not** to act
-* knowing when to stay invisible
-* knowing when to wait
-* knowing when a boundary prevents future noise
-* knowing when someone’s narrative is about to generate avoidable complexity
-
 ---
 
 # **3. Structural Mapping Engine (SME)**
