@@ -61,7 +61,7 @@ Produces a **clean, world-centered perceptual field**.
 
 ### **Formal Name:** Temporal Causality & Sequence-Integrity Processor
 
-### **Tier:** Level 2 — Substrate Between Perception and Structure
+### **Tier:** Level 0.5 — Substrate Between Perception and Structure
 
 ## **Diagram — TSL Information Flow**
 
