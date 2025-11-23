@@ -666,4 +666,4 @@ NOCA v2 supersedes this model, but NOCA v1 remains valuable as a developmental r
 
 ---
 
-# **End of Specification v2******
+# **End of Specification v2**
