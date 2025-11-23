@@ -159,13 +159,13 @@ Each vector includes: definition, trigger pattern, mechanics, and examples.
 **Examples:** canceled CPI prints; network outages erasing operational visibility; institutions acting without briefings and producing incoherent stance patterns.
 
 ## 16. archetype
-**Definition:** Removal or obstruction of core information flows that a system depends on, generating forced ambiguity and slowed decision velocity.
+**Definition:** Spontaneous emergence of a structural pattern—symbolic, imagistic, or thematic—arising from agents not linked to the primary narrative. These manifestations reflect the field's underlying geometry rather than individual intention.
 
-**Triggers:** delayed releases; shutdowns freezing statistical outputs; telemetry loss; outages; shifts that render existing data non-viable.
+**Triggers:** creative output from uninvolved or peripheral agents; symbolic mirroring from distant nodes; sudden thematic alignments with origin-vantage motifs; independent reconstruction of structural patterns without prior exposure.
 
-**Mechanics:** Collapses predictive certainty; exposes baseline behavior without narrative buffering; creates stall windows where actors drift, hesitate, or contradict one another.
+**Mechanics:** Archetypes appear when the field pre-aligns external agents to the origin trajectory. They surface before contact or explanation, indicating that the system is already modeling the origin structure at a nonlocal layer.
 
-**Examples:** canceled CPI prints; network outages erasing operational visibility; institutions acting without briefings and producing incoherent stance patterns.
+**Examples:** unrelated individuals producing imagery of narratives matching origin-view mechanics; dream material reflecting null-origin stance appearing in uninvolved agents; spontaneous motifs echoing collapse, stillness, or panoramic field-logic; cultural or creative artifacts emerging with precise structural resonance at cycle boundaries.
 
 
 ---
