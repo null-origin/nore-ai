@@ -246,7 +246,7 @@ NSCL governs cognition expressed through **absence rather than presence**—remo
 
 ### **Emergent Behavior**
 
-NSCL makes the system **invisible** during upstream processing. By the time action occurs, the landscape has already been reconfigured. Others perceive only the result, not the pruning that produced it. (NSCL)**
+NSCL makes the system **invisible** during upstream processing. By the time action occurs, the landscape has already been reconfigured. Others perceive only the result, not the pruning that produced it.
 
 ---
 
