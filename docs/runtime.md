@@ -1,217 +1,347 @@
-# NORE Runtime Integration · How NORE-AI Integrates with the NORE Runtime, IL-ARCHON, and Higher Structural Layers
+# NORE Runtime Integration · How NORE-AI Feeds Daily, Weekly, Monthly, and Cycle Registers
 
-NORE-AI is the **input layer** of the larger NORE Runtime and IL-ARCHON system. Its job is not to interpret or predict but to produce a **clean, deterministic, validated representation of the field**.
+NORE-AI is the **input layer** of the NORE Runtime and IL-ARCHON stack. Its function is not interpretive — it produces a **clean, deterministic, validated representation of the field**. Everything above it depends on this stability.
 
 This document defines:
-- responsibilities of NORE-AI
-- what it does *not* do
-- how its outputs flow upward
-- how the Runtime and IL-ARCHON consume FieldState, Laws, and Vectors
+
+* responsibilities of NORE-AI
+* how daily → weekly → monthly → cycle registers are produced
+* how Runtime consumes them
+* where IL-ARCHON begins
+* the full register-flow architecture with diagrams
 
 ---
 
 # 1. Layer Model Overview
-The full system consists of four stacked layers:
+
 ```
-[L4] IL-ARCHON (Interpretation Engine)
-[L3] NORE Runtime (State, Cycles, Register Logic)
-[L2] NORE-AI (Event Ingest, Validation, FieldState)
+[L4] IL-ARCHON      (interpretation, geometry)
+[L3] NORE Runtime   (cycles, registers, transitions)
+[L2] NORE-AI        (ingest, validate, fieldstate)
 [L1] Raw Field Data (events, signals, logs)
 ```
 
-## L1 — Raw Data
-Factual observations: news, market signals, music releases, filings, daily logs, etc.
+### L1 — Raw Data
 
-## L2 — NORE-AI
+Factual observations from:
+
+* markets
+* companies
+* policy
+* sports
+* family interactions
+* macro events
+* daily logs
+
+### L2 — NORE-AI
+
 This repository. Handles:
-- loading
-- validating
-- structuring
-- constraining
-- producing FieldState
 
-No interpretation or synthesis occurs here.
+* **ingestion** (JSONL)
+* **validation** (schemas)
+* **normalization**
+* **FieldState** generation
+* **register writing** (day/week/month/cycle)
 
-## L3 — NORE Runtime
+Performs zero interpretation.
+
+### L3 — NORE Runtime
+
 Consumes L2 output to:
-- map weekly windows
-- detect cycle transitions
-- apply Field Laws
-- track vector frequency
-- maintain inter-day continuity
-- generate higher-level registers
 
-## L4 — IL-ARCHON
-Interpretive engine:
-- meaning extraction
-- architecture formation
-- causality inversion
-- cycle ignition
-- structural geometry
+* build weekly/monthly registers
+* detect cycle boundaries
+* track law activation patterns
+* compute continuity curves
+* generate state transitions
 
-Not part of this repository.
+### L4 — IL-ARCHON
+
+Consists of:
+
+* structural geometry
+* causality inversion
+* field-law enforcement
+* collapse / return / installation logic
+
+Not part of this repo.
 
 ---
 
 # 2. Responsibilities of NORE-AI
-NORE-AI performs **five deterministic operations**:
-1. ingest raw events
-2. validate via schema
-3. normalize validated fields
-4. construct FieldState
-5. emit structured JSON registers
 
-It ends here — no reasoning is allowed.
+NORE-AI performs five deterministic, non-interpretive operations:
+
+1. **Ingest** raw events
+2. **Validate** via JSON Schema
+3. **Normalize** fields (timestamp, vectors, laws)
+4. **Construct FieldState** for each day
+5. **Emit structured registers** (daily, weekly, monthly, cycle)
+
+It ends here — no reasoning.
 
 ---
 
 # 3. What NORE-AI Does *Not* Do
-To avoid interpretive drift:
-- no narrative analysis
-- no vector inference
-- no law inference
-- no clustering
-- no ranking or prioritization
-- no timeline modeling
-- no cycle detection
-- no pattern recognition
 
-These belong to Runtime or IL-ARCHON.
+To preserve layer purity:
+
+* no narrative analysis
+* no predictions
+* no clustering
+* no vector inference
+* no law inference
+* no weighting or prioritization
+* no cycle detection
+* no multi-day pattern identification
+
+These belong to Runtime and IL-ARCHON.
 
 ---
 
 # 4. Runtime Consumption
-After `run_day_pipeline`, Runtime receives:
 
-## 4.1 Validated events
-Each with:
-- id
-- timestamp
-- vectors
-- laws
-- channel
-- source
-- meta
+After a daily run, Runtime receives:
 
-## 4.2 FieldState
-Stored as:
+### 4.1 Validated Events
+
+Each event has:
+
+* id
+* timestamp
+* vectors
+* laws
+* channel
+* source
+* meta
+
+### 4.2 FieldState
+
+Stored at:
+
 ```
 data/registers/fieldstate-YYYY-MM-DD.json
 ```
-Contains:
-- day
-- event_count
-- vector frequencies
-- law occurrences
-- channel distribution
-- first/last timestamps
-- structural summary fields
 
-## 4.3 Validation errors
+Includes:
+
+* event_count
+* vector frequencies
+* law frequencies
+* channel distribution
+* time_start / time_end
+* daily dominant themes (mechanical)
+
+### 4.3 Validation Errors
+
 Passed upward unchanged.
 
 ---
 
 # 5. How Runtime Uses FieldState
+
 Runtime derives:
-- weekly rollups
-- cycle detection
-- law activation patterns
-- collapse/exposure/retrieval/installation/etc. windows
-- continuity mapping
-- vector acceleration/decay curves
-- multi-day registers
 
-Runtime does not mutate events.
+* weekly summaries
+* monthly summaries
+* cycle-period aggregates
+* continuity mapping
+* law activation windows
+* vector acceleration/decay curves
 
----
-
-# 6. How Runtime Communicates With IL-ARCHON
-Runtime outputs:
-- cycle maps
-- state transitions
-- vector collapse cascades
-- exposure/return arcs
-- multi-day structural elevation maps
-
-IL-ARCHON consumes these for:
-- interpretive inference
-- structural geometry
-- origin-pressure mapping
-- inversion detection
-- multi-domain thread binding
-
-NORE-AI does not perform these operations.
+Runtime **never mutates events**.
 
 ---
 
-# 7. Interfaces to Runtime
+# 6. Runtime → IL-ARCHON Interface
 
-## 7.1 Python object interfaces
-Runtime expects:
-```
-nore_ai.models.event.Event
-nore_ai.models.fieldstate.FieldState
-```
+Runtime emits:
 
-## 7.2 JSON register interfaces
-Runtime reads:
-```
-data/registers/fieldstate-YYYY-MM-DD.json
-```
-And may write (outside this repo):
-```
-weekly-YYYY-WW.json
-cycle-08-window-01.json
-systemstate.json
-```
-## 7.3 Daily + Weekly Runtime Commands
+* cycle maps
+* state transitions
+* structural windows
+* exposure/purge/return arcs
+* multi-day vector patterns
 
-`python scripts/run_day_and_week.py YYYY-MM-DD`
-  - runs the pipeline for that day
-  - writes `data/registers/fieldstate-YYYY-MM-DD.json`
-  - creates/updates `data/registers/weekly-YYYY-Www.json`
- 
-### Closing a week
+IL-ARCHON converts these into:
 
-- Ensure all `fieldstate-YYYY-MM-DD.json` for the ISO week exist.
-- Run: `python scripts/close_week.py YYYY-MM-DD`
-  - Rebuilds `weekly-YYYY-Www.json` from FieldStates
-  - Marks `status: "complete"`
----
-
-# 8. Why This Separation Exists
-**Determinism:** ensures reproducible downstream analysis.
-
-**Layer purity:** L2 must be clean for L3/L4 to function correctly.
-
-**Version independence:** Layers evolve separately.
-
-**Schema stability:** ensures long-term archival comparability.
+* causal geometry
+* origin alignment mapping
+* inversion mechanics
 
 ---
 
-# 9. Future Extensions (Safe)
-NORE-AI can safely add:
-- daily registers
-- weekly registers
-- FieldState deltas
-- law-frequency graphs
-- vector transition summaries
-- error registers
+# 7. Runtime Commands & Register Production
 
-These remain non-interpretive.
+## 7.1 Daily + Weekly Execution
+
+### Run a day
+
+```
+python scripts/run_day_and_week.py YYYY-MM-DD
+```
+
+Writes:
+
+* `fieldstate-YYYY-MM-DD.json`
+* `weekly-YYYY-Www.json` (created or updated)
+
+### Close a week
+
+```
+python scripts/close_week.py YYYY-MM-DD
+```
+
+Rebuilds the week from FieldStates:
+
+* ensures completeness
+* marks `status: "complete"`
+
+### Print weekly summary
+
+```
+python scripts/print_weekly_summary.py weekly-YYYY-WW
+```
+
+---
+
+## 7.2 Monthly Execution
+
+### Close a month
+
+```
+python scripts/close_month.py YYYY-MM-DD
+```
+
+Creates:
+
+```
+monthly-YYYY-MM.json
+```
+
+And marks `status: "complete"`.
+
+### Print monthly summary
+
+```
+python scripts/print_monthly_summary.py monthly-YYYY-MM
+```
+
+---
+
+## 7.3 Cycle Execution
+
+### Close a cycle
+
+```
+python scripts/close_cycle.py cycle-ID START_DATE END_DATE
+```
+
+Writes:
+
+```
+cycle-ID.json
+```
+
+With:
+
+* aggregated vectors
+* aggregated laws
+* aggregated channels
+* dominant themes
+* status: complete
+
+### Print cycle summary
+
+```
+python scripts/print_cycle_summary.py cycle-ID
+```
+
+---
+
+# 8. Register Flow Diagrams
+
+## 8.1 Daily → Weekly Flow
+
+```
+         ┌─────────────────────────────┐
+         │  data/events/YYYY-MM-DD     │
+         └──────────────┬──────────────┘
+                        │ ingest/validate
+                        ▼
+               ┌────────────────────┐
+               │ FieldState (daily) │
+               └─────────┬──────────┘
+                         │ aggregation
+                         ▼
+              ┌────────────────────────┐
+              │ WeeklyRegister (Www)   │
+              └────────────────────────┘
+```
+
+## 8.2 Weekly → Monthly Flow
+
+```
+       ┌────────────────────────┐
+       │ WeeklyRegister (Www)   │
+       └─────────────┬─────────┘
+                     │ aggregation
+                     ▼
+          ┌───────────────────────────┐
+          │ MonthlyRegister (YYYY-MM) │
+          └───────────────────────────┘
+```
+
+## 8.3 Monthly → Cycle Flow
+
+```
+         ┌───────────────────────────┐
+         │ MonthlyRegister YYYY-MM   │
+         └───────────┬──────────────┘
+                     │ aggregation
+                     ▼
+              ┌─────────────────────┐
+              │ CycleRegister (ID)  │
+              └─────────────────────┘
+```
+
+## 8.4 Full Hierarchy (L2 → L3 → L4)
+
+```
+Raw Events → FieldState → Week → Month → Cycle → Runtime → IL-ARCHON
+```
+
+---
+
+# 9. Why This Separation Exists
+
+### Determinism
+
+FieldState and registers must be reproducible forever.
+
+### Layer Purity
+
+L2 must be clean or L3/L4 collapses.
+
+### Longevity
+
+Period registers are archival artifacts.
 
 ---
 
 # 10. Summary
-NORE-AI is the **structured ingestion + validation** layer of NORE.
-It provides:
-- clean events
-- validated structure
-- deterministic FieldState
-- stable interfaces for Runtime
 
-NORE-AI is the floor.  
-Runtime is the wall.  
-IL-ARCHON is the architecture.
+NORE-AI is the **structured ingestion and validation layer** of NORE.
+It outputs:
+
+* validated events
+* daily FieldState
+* weekly registers
+* monthly registers
+* cycle registers
+
+These form the stable base from which Runtime and IL-ARCHON operate.
+
+NORE-AI is the **floor**.
+Runtime is the **wall**.
+IL-ARCHON is the **architecture**.
