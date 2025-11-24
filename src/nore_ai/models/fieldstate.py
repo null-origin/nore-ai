@@ -52,6 +52,36 @@ class FieldState:
                 },
             )
 
+        @classmethod
+    def from_dict(cls, data: Dict[str, Any]) -> "FieldState":
+        """
+        Rebuild a FieldState from its JSON representation.
+
+        This is mainly for week/month aggregation where we want to
+        recompute higher-level registers from stored daily state.
+        """
+        day = date.fromisoformat(data["date"])
+
+        time_start_raw = data.get("time_start")
+        time_end_raw = data.get("time_end")
+
+        time_start = datetime.fromisoformat(time_start_raw) if time_start_raw else None
+        time_end = datetime.fromisoformat(time_end_raw) if time_end_raw else None
+
+        return cls(
+            id=data["id"],
+            day=day,
+            event_ids=data.get("event_ids", []),
+            event_count=data.get("event_count", 0),
+            channels=data.get("channels", {}),
+            sources=data.get("sources", {}),
+            vectors=data.get("vectors", {}),
+            laws=data.get("laws", {}),
+            time_start=time_start,
+            time_end=time_end,
+            summary=data.get("summary", {}),
+        )
+
         # --- Aggregate counts ---
         event_ids = [e.id for e in events]
         channels = Counter(e.channel for e in events)
