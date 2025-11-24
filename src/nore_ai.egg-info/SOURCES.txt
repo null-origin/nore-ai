@@ -22,12 +22,14 @@ src/nore_ai/io/__init__.py
 src/nore_ai/io/jsonl_io.py
 src/nore_ai/io/yaml_io.py
 src/nore_ai/models/__init__.py
+src/nore_ai/models/cycle.py
 src/nore_ai/models/event.py
 src/nore_ai/models/fieldstate.py
 src/nore_ai/models/law.py
 src/nore_ai/models/monthly.py
 src/nore_ai/models/register.py
 src/nore_ai/models/weekly.py
+tests/test_cycle.py
 tests/test_event_model.py
 tests/test_fieldstate.py
 tests/test_monthly.py
