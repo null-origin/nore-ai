@@ -159,7 +159,7 @@ The extended daily pipeline will:
 - compute metadata (vector counts, channels, time ranges)
 - write register JSON to `data/registers/`
 
-## 6.2 Weekly Pipeline (Planned)
+## 6.2 Weekly Pipeline
 Weekly pipeline will:
 - gather all daily files in a 7‑day span
 - generate daily registers
