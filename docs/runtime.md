@@ -171,6 +171,13 @@ systemstate.json
   - runs the pipeline for that day
   - writes `data/registers/fieldstate-YYYY-MM-DD.json`
   - creates/updates `data/registers/weekly-YYYY-Www.json`
+ 
+### Closing a week
+
+- Ensure all `fieldstate-YYYY-MM-DD.json` for the ISO week exist.
+- Run: `python scripts/close_week.py YYYY-MM-DD`
+  - Rebuilds `weekly-YYYY-Www.json` from FieldStates
+  - Marks `status: "complete"`
 ---
 
 # 8. Why This Separation Exists
