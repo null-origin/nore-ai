@@ -52,7 +52,7 @@ class FieldState:
                 },
             )
 
-        @classmethod
+    @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FieldState":
         """
         Rebuild a FieldState from its JSON representation.
