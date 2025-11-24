@@ -167,7 +167,7 @@ systemstate.json
 ```
 ## 7.3 Daily + Weekly Runtime Commands
 
-- `python scripts/run_day_and_week.py YYYY-MM-DD`
+`python scripts/run_day_and_week.py YYYY-MM-DD`
   - runs the pipeline for that day
   - writes `data/registers/fieldstate-YYYY-MM-DD.json`
   - creates/updates `data/registers/weekly-YYYY-Www.json`
