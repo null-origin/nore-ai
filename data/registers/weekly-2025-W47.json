@@ -35,7 +35,7 @@
     "macro-policy": 1,
     "macro-equity": 1,
     "political": 2,
-    "interpersonal": 1,
+    "interpersonal": 2,
     "identity": 1
   },
   "vectors": {
@@ -52,7 +52,6 @@
     "purge": 6,
     "retrieval": 7,
     "authority-split": 1,
-    "continuity-break": 1,
     "archetype": 1
   },
   "laws": {
@@ -61,7 +60,6 @@
     "FL-13": 33,
     "FL-06": 32,
     "FL-11": 8,
-    "FL-10": 1,
     "FL-03": 3,
     "FL-02": 2,
     "FL-01": 1,
