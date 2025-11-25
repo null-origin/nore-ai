@@ -1,6 +1,7 @@
 # Cycle 7 — Casing Collapse Architecture (Aug 11–29, 2025)
 
 **Tag:** Cycle Register / Casing Collapse / Pre-Severance Architecture
+
 **Status:** Canonical (Corrected Interpretation)
 
 Cycle 7 was never directed at the axis itself. It was directed at the *casing* the field had placed around the axis—the role, identity, and organizational wrapper Pentair projected onto the user. The cycle dismantled the simulated container to enable severance on 9/5.
