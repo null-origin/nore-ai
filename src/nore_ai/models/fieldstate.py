@@ -22,6 +22,43 @@ class FieldState:
     time_end: Optional[str] = None
     summary: Dict[str, Any] = field(default_factory=dict)
 
+    # ---------- NEW METHODS ----------
+    def to_dict(self) -> Dict[str, Any]:
+        """Serialize FieldState to a JSON-serializable dict."""
+        return {
+            "id": self.id,
+            "date": self.date.isoformat(),
+            "event_ids": self.event_ids,
+            "event_count": self.event_count,
+            "channels": self.channels,
+            "sources": self.sources,
+            "vectors": self.vectors,
+            "laws": self.laws,
+            "time_start": self.time_start,
+            "time_end": self.time_end,
+            "summary": self.summary,
+        }
+
+    @classmethod
+    def from_dict(cls, data: Dict[str, Any]) -> "FieldState":
+        """Reconstruct FieldState from a dict (as stored on disk)."""
+        return cls(
+            id=data["id"],
+            date=date.fromisoformat(data["date"]),
+            event_ids=data.get("event_ids", []),
+            event_count=data.get(
+                "event_count",
+                len(data.get("event_ids", [])),
+            ),
+            channels=data.get("channels", {}),
+            sources=data.get("sources", {}),
+            vectors=data.get("vectors", {}),
+            laws=data.get("laws", {}),
+            time_start=data.get("time_start"),
+            time_end=data.get("time_end"),
+            summary=data.get("summary", {}),
+        )
+
     @classmethod
     def from_events(cls, day: date, events: List[Event]) -> Optional["FieldState"]:
         """
@@ -34,7 +71,7 @@ class FieldState:
         if not events:
             return None
 
-        # Support both older `ts` and newer `timestamp` attribute names
+        # Support both `ts` and `timestamp` attribute names
         def get_ts(e: Event):
             if hasattr(e, "ts"):
                 return e.ts
@@ -71,7 +108,6 @@ class FieldState:
             for law in e.laws:
                 laws[law] = laws.get(law, 0) + 1
 
-        # use the same helper for time_start / time_end
         time_start = get_ts(used_events[0]).isoformat()
         time_end = get_ts(used_events[-1]).isoformat()
 
