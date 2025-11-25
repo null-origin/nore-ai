@@ -22,6 +22,14 @@ class FieldState:
     time_end: Optional[str] = None
     summary: Dict[str, Any] = field(default_factory=dict)
 
+    @property
+    def day(self) -> date:
+        """
+        Backwards-compat alias for older code that expects `fs.day`.
+        Internally we store this as `date`.
+        """
+        return self.date
+
     # ---------- NEW METHODS ----------
     def to_dict(self) -> Dict[str, Any]:
         """Serialize FieldState to a JSON-serializable dict."""
