@@ -1,6 +1,7 @@
 # Canonical Entry — Pentair Executive Chain Collapse (2022–2025)
 
 **Tag:** Pentair Binder / Structural Collapse Layer / CX Architecture Exposure
+
 **Status:** High-Canon (Structural)
 
 ## Summary
