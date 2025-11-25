@@ -22,8 +22,6 @@ class FieldState:
     time_end: Optional[str] = None
     summary: Dict[str, Any] = field(default_factory=dict)
 
-    # ... other methods (to_dict, from_dict, etc.) ...
-
     @classmethod
     def from_events(cls, day: date, events: List[Event]) -> Optional["FieldState"]:
         """
@@ -36,6 +34,14 @@ class FieldState:
         if not events:
             return None
 
+        # Support both older `ts` and newer `timestamp` attribute names
+        def get_ts(e: Event):
+            if hasattr(e, "ts"):
+                return e.ts
+            if hasattr(e, "timestamp"):
+                return e.timestamp
+            raise AttributeError("Event has neither 'ts' nor 'timestamp' attribute")
+
         window_events: List[Event] = []
         for e in events:
             meta = e.meta or {}
@@ -45,7 +51,7 @@ class FieldState:
         used_events = window_events if window_events else events
 
         # sort by timestamp
-        used_events = sorted(used_events, key=lambda e: e.ts)
+        used_events = sorted(used_events, key=get_ts)
 
         event_ids = [e.id for e in used_events]
         event_count = len(used_events)
@@ -65,8 +71,9 @@ class FieldState:
             for law in e.laws:
                 laws[law] = laws.get(law, 0) + 1
 
-        time_start = used_events[0].ts.isoformat()
-        time_end = used_events[-1].ts.isoformat()
+        # use the same helper for time_start / time_end
+        time_start = get_ts(used_events[0]).isoformat()
+        time_end = get_ts(used_events[-1]).isoformat()
 
         # dominant themes = top 3 vectors by frequency
         sorted_vectors = sorted(vectors.items(), key=lambda kv: kv[1], reverse=True)
