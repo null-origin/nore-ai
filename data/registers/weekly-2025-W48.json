@@ -1,0 +1,40 @@
+{
+  "id": "weekly-2025-W48",
+  "week_start": "2025-11-24",
+  "week_end": "2025-11-30",
+  "days": [
+    "2025-11-24"
+  ],
+  "fieldstates": [
+    "fieldstate-2025-11-24"
+  ],
+  "event_count": 2,
+  "channels": {
+    "macro-field": 1,
+    "macro-judicial": 1
+  },
+  "vectors": {
+    "collapse": 2,
+    "exposure": 2,
+    "purge": 2,
+    "inversion": 2,
+    "alignment": 1,
+    "legitimacy": 1,
+    "authority-split": 1
+  },
+  "laws": {
+    "FL-06": 2,
+    "FL-12": 2,
+    "FL-10": 2,
+    "FL-09": 2
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "collapse",
+      "exposure",
+      "purge"
+    ]
+  }
+}
