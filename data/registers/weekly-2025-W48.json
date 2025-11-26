@@ -3,38 +3,51 @@
   "week_start": "2025-11-24",
   "week_end": "2025-11-30",
   "days": [
-    "2025-11-24"
+    "2025-11-24",
+    "2025-11-25"
   ],
   "fieldstates": [
-    "fieldstate-2025-11-24"
+    "fieldstate-2025-11-24",
+    "fieldstate-2025-11-25"
   ],
-  "event_count": 2,
+  "event_count": 9,
   "channels": {
     "macro-field": 1,
-    "macro-judicial": 1
+    "macro-judicial": 1,
+    "macro-economic": 1,
+    "macro-tech": 2,
+    "macro-governance": 1,
+    "macro-retail": 1,
+    "macro-sentiment": 1,
+    "corporate-personal": 1
   },
   "vectors": {
-    "collapse": 2,
-    "exposure": 2,
-    "purge": 2,
-    "inversion": 2,
-    "alignment": 1,
-    "legitimacy": 1,
-    "authority-split": 1
+    "collapse": 6,
+    "exposure": 9,
+    "purge": 5,
+    "inversion": 8,
+    "alignment": 5,
+    "legitimacy": 3,
+    "authority-split": 2,
+    "signal": 7,
+    "data-vacuum": 2,
+    "return": 1,
+    "withdrawal": 1,
+    "continuity": 1
   },
   "laws": {
-    "FL-06": 2,
-    "FL-12": 2,
-    "FL-10": 2,
-    "FL-09": 2
+    "FL-06": 9,
+    "FL-12": 9,
+    "FL-10": 9,
+    "FL-09": 3
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "collapse",
       "exposure",
-      "purge"
+      "inversion",
+      "signal"
     ]
   }
 }

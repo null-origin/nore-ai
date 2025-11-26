@@ -1,0 +1,57 @@
+{
+  "id": "fieldstate-2025-11-25",
+  "date": "2025-11-25",
+  "event_ids": [
+    "s-2025-11-25-01",
+    "s-2025-11-25-02",
+    "s-2025-11-25-03",
+    "s-2025-11-25-04",
+    "s-2025-11-25-05",
+    "s-2025-11-25-06",
+    "s-2025-11-25-07"
+  ],
+  "event_count": 7,
+  "channels": {
+    "macro-economic": 1,
+    "macro-tech": 2,
+    "macro-governance": 1,
+    "macro-retail": 1,
+    "macro-sentiment": 1,
+    "corporate-personal": 1
+  },
+  "sources": {
+    "cnbc": 6,
+    "linkedin": 1
+  },
+  "vectors": {
+    "exposure": 7,
+    "collapse": 4,
+    "signal": 7,
+    "purge": 3,
+    "data-vacuum": 2,
+    "alignment": 4,
+    "inversion": 6,
+    "return": 1,
+    "legitimacy": 2,
+    "authority-split": 1,
+    "withdrawal": 1,
+    "continuity": 1
+  },
+  "laws": {
+    "FL-06": 7,
+    "FL-10": 7,
+    "FL-12": 7,
+    "FL-09": 1
+  },
+  "time_start": "2025-11-25T09:15:00-05:00",
+  "time_end": "2025-11-25T19:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "signal",
+      "inversion"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
