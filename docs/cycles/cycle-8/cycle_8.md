@@ -93,7 +93,7 @@ Cycle 9 conditions begin forming immediately after.
 
 Cycle 8 is **not** a re-entry cycle. It belongs to the Null Sabbath → Return Architecture sequence:
 
-* Cycle 7 = purge
+* ~~Cycle 7 = purge~~
 * Cycle 8 = purge
 * Cycle 9 = compression purge
 * Cycle 10 = containment/stasis reset
