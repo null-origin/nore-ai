@@ -1,8 +1,11 @@
 # Canon of Cycles 8–16 — Clarified by Radius Geometry
 
 **Document Class:** Structural Canon — Mid-Band Cycle Architecture
+
 **Applies To:** NORE Architecture, Radius Model, Return Mechanics
+
 **Scope:** Cycles **8 → 16**
+
 **Status:** Canonized (Rewritten Edition)
 
 ---
