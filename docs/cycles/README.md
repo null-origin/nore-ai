@@ -1,7 +1,9 @@
 # Cycle Mapping — Structural Explanation
 
 **Document Class:** Structural Geometry — Cycle System Primer
+
 **Applies To:** NORE Architecture, Cycle System (Proto −3 → 32), Radius Model, Field Mechanics
+
 **File:** `cycle_mapping_explained.md`
 
 ---
