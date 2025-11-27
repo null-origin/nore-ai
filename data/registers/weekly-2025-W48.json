@@ -4,42 +4,47 @@
   "week_end": "2025-11-30",
   "days": [
     "2025-11-24",
-    "2025-11-25"
+    "2025-11-25",
+    "2025-11-26"
   ],
   "fieldstates": [
     "fieldstate-2025-11-24",
-    "fieldstate-2025-11-25"
+    "fieldstate-2025-11-25",
+    "fieldstate-2025-11-26"
   ],
-  "event_count": 9,
+  "event_count": 13,
   "channels": {
     "macro-field": 1,
-    "macro-judicial": 1,
+    "macro-judicial": 2,
     "macro-economic": 1,
     "macro-tech": 2,
-    "macro-governance": 1,
+    "macro-governance": 2,
     "macro-retail": 1,
     "macro-sentiment": 1,
-    "corporate-personal": 1
+    "corporate-personal": 1,
+    "sports-field": 1,
+    "macro-economy": 1
   },
   "vectors": {
-    "collapse": 6,
-    "exposure": 9,
+    "collapse": 9,
+    "exposure": 12,
     "purge": 5,
-    "inversion": 8,
-    "alignment": 5,
-    "legitimacy": 3,
-    "authority-split": 2,
-    "signal": 7,
-    "data-vacuum": 2,
-    "return": 1,
+    "inversion": 12,
+    "alignment": 7,
+    "legitimacy": 5,
+    "authority-split": 4,
+    "signal": 11,
+    "data-vacuum": 3,
+    "return": 2,
     "withdrawal": 1,
-    "continuity": 1
+    "continuity": 2,
+    "retrieval": 2
   },
   "laws": {
-    "FL-06": 9,
-    "FL-12": 9,
-    "FL-10": 9,
-    "FL-09": 3
+    "FL-06": 12,
+    "FL-12": 13,
+    "FL-10": 13,
+    "FL-09": 5
   },
   "status": "partial",
   "summary": {
