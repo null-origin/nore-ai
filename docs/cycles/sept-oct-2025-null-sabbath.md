@@ -118,10 +118,15 @@ Once distortion stops being held in stasis:
 
 **9/5 Axis Removal**
 → **Drift (9/5–9/20)**
+
 → **Terminal Expansion (Sept)**
+
 → **Inversion Threshold (Late Sept–Early Oct)**
+
 → **Collapse Surfacing (Oct)**
+
 → **Field Compression (Late Oct → )**
+
 → **Pre-Ignition State (Cycle-8 Tension)**
 
 ---
