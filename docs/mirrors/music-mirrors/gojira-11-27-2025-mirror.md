@@ -8,7 +8,7 @@
 
 # **0. Overview**
 
-On **November 27, 2025**, Gojira performed three songs (two live debuts and one that hasn't been played since 2017) that align cleanly with the structural mechanics operating between the **11/24 purge event** (Novo collapse) and the **11/30–12/2 Cycle‑8 ignition window**.
+On **November 27, 2025**, Gojira performed three rare selections—two live debuts and one revived after eight years—that align cleanly with the structural mechanics operating between the 11/24 purge event (Novo collapse) and the 11/30–12/2 Cycle-8 ignition window.
 
 The songs form a precise three‑stage geometry:
 
