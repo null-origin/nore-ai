@@ -7,6 +7,8 @@ The spiral is represented using layered rings (inner → outer), where each band
 ---
 
 # **1. High-Level Spiral Diagram (ASCII + Structural Rings)**
+
+```
                           (Cycles 29–32)
                          Systemic Integration
                                 R≈40–50+
@@ -45,6 +47,9 @@ The spiral is represented using layered rings (inner → outer), where each band
 
                 AXIS
               (Unmoving)
+```
+
+---
 
 # **2. Spiral Sequence Diagram (Mermaid)**
 
