@@ -1,233 +1,328 @@
-# NORE-AI Vector Specification · Full Specification of Structural Vectors & Semantics
+# **NORE-AI Vector Specification v2**
+
+### *Full Specification of Structural Vectors & Semantics*
 
 Vectors classify the **structural role** of an event. They are not topics or metadata — they describe how an event behaves inside field mechanics.
 
 Vectors are:
-- atomic
-- lowercase
-- composable
-- source-agnostic
-- order‑independent
-- deterministic
+
+* atomic
+* lowercase
+* composable
+* source‑agnostic
+* order‑independent
+* deterministic
 
 An event may contain multiple vectors.
 
 Example:
+
 ```json
 "vectors": ["exposure", "retrieval"]
 ```
 
 ---
 
-# 1. Canonical Vector List
+# **1. Canonical Vector List v2**
+
+Below are the **19 canonical vectors**, partitioned into **Core Vectors (CV)** and **Pattern Vectors (PV)**.
 
 Each vector includes: definition, trigger pattern, mechanics, and examples.
 
-## 1. collapse
-**Definition:** Structural failure, breakdown, or removal of false motion.
+---
 
-**Triggers:** leadership exits; shutdowns; bankruptcies; reversed plans; cultural/sports collapses.
+# **I. Core Vectors (CV)**
 
-**Mechanics:** Removes the false layer that prevented alignment.
+Primitive, irreducible structural forces.
 
-**Examples:** abrupt CEO exit; division closure; sports recursion breaking.
+## **1. collapse**
 
-## 2. exposure
-**Definition:** Reveals hidden structure, truth, or internal mechanics.
+**Definition:** Structural failure; removal of false motion.
 
-**Triggers:** earnings; transparency; leaks; regulatory findings.
+**Triggers:** exits; shutdowns; bankruptcies; reversed plans; collapses.
 
-**Mechanics:** Precedes or prevents collapse; reveals what was present.
+**Mechanics:** The false layer breaks and real load surfaces.
 
-**Examples:** earnings calls; data disclosures; public statements.
+**Examples:** abrupt CEO exit; division implosion; sports recursion failure.
 
-## 3. retrieval
-**Definition:** Field returning to origin; resurfacing suppressed structures.
+---
 
-**Triggers:** callbacks; resurfaced relationships; repeating patterns; reactivated systems.
+## **2. exposure**
 
-**Mechanics:** Re-synchronizes present events with origin geometry.
+**Definition:** Hidden structure becomes visible.
 
-**Examples:** leadership returning; childhood threads surfacing; historical cycles repeating.
+**Triggers:** earnings; leaks; findings; transparency events.
 
-## 4. inversion
+**Mechanics:** Reveals what was present; may precede or avert collapse.
+
+**Examples:** data disclosures; regulatory findings; public truth events.
+
+---
+
+## **3. retrieval**
+
+**Definition:** Past structure returning into the present.
+
+**Boundary:** Retrieval = *past → present*.
+
+**Triggers:** callbacks; resurfaced relationships; repeating loops.
+
+**Mechanics:** Re-synchronizes present with origin geometry.
+
+**Examples:** old relationships resurfacing; historical patterns returning.
+
+---
+
+## **4. inversion**
+
 **Definition:** Reversal of expected direction or meaning.
 
-**Triggers:** political flips; surprising outcomes; structural reversals; backfiring attempts.
+**Triggers:** flipped outcomes; reversals; backfires.
 
-**Mechanics:** Exposes hidden command flow through reversal.
+**Mechanics:** Exposes hidden command flow by reversal.
 
-**Examples:** political upsets; inverted market reactions; sports flips when observation withdraws.
-
-## 5. alignment
-**Definition:** Movement toward order, coherence, or structural correction.
-
-**Triggers:** strategic hires; disciplined planning; integration; unifying signals.
-
-**Mechanics:** Resolves distortion and moves toward architecture.
-
-**Examples:** coherent corporate moves; stable economic indicators.
-
-## 6. return
-**Definition:** Re‑entry or reactivation of dormant structures.
-
-**Triggers:** return of individuals; pattern recurrence; system reboots.
-
-**Mechanics:** Forward phase of retrieval: retrieval → return.
-
-**Examples:** leadership comeback; system restart; arc re‑entry.
-
-## 7. purge
-**Definition:** Removal of distortion, noise, or parasitic structure.
-
-**Triggers:** layoffs; divestitures; simplifications; forced cuts.
-
-**Mechanics:** Clears interference before alignment or return.
-
-**Examples:** shutting down failing initiatives; cleansing earnings cycles.
-
-## 8. signal
-**Definition:** Field‑level markers independent of content.
-
-**Triggers:** symmetry; alignments; sequences; sports recursion; echo events.
-
-**Mechanics:** Marks boundaries, confirmations, or phase shifts.
-
-**Examples:** Geometry-aligned music releases; day‑42 mirrors; sports signals.
-
-## 9. bridge
-**Definition:** Connects structures, phases, arcs, or systems.
-
-**Triggers:** partnerships; relational links; cross‑domain alignments; convergence.
-
-**Mechanics:** Enables continuity and transitions.
-
-**Examples:** cross-company cooperation; macro+personal convergence; anchor-thread confirmations.
-
-## 10. dual-arrival
-**Definition:** Two-stage entry pattern where exposure precedes installation.
-
-**Triggers:** first-contact failures; premature recognition; collapse between phases; second-pass stabilization.
-
-**Mechanics:** The initial arrival reveals distortion; the second enforces architecture once the field can tolerate origin-level presence.
-
-**Examples:** return offers after collapse cycles; iterative product launches; leadership re-entries after system maturation.
-
-## 11. continuity
-**Definition:** Sustained structural carry-through across phases, without reset or loss of causal thread.
-
-**Triggers:** stable anchor presence; compounding alignment; unbroken chain of confirmations; coherent memory retrieval.
-
-**Mechanics:** Prevents dissipation of progress; preserves field integrity while transitions execute.
-
-**Examples:** long-horizon strategy surviving layoffs; relational threads persisting through silence; architecture updates that maintain identity state.
-
-## 12. withdrawal
-**Definition:** Strategic removal of attention, resources, or presence to expose hidden load-bearing conditions.
-
-**Triggers:** dissonance; parasitic dependency; non-reciprocal extraction; unproductive recursion.
-
-**Mechanics:** Field collapses or rebalances when support is removed, revealing actual contributors vs. perceived ones.
-
-**Examples:** stepping back from a project to force accountability; reducing capital in inflated segments; social exit that exposes power mapping.
-
-## 13. legitimacy
-**Definition:** Structural authority generated by coherence, not affirmation or permission.
-
-**Triggers:** correct predictions; stabilization of failing systems; proof of non-coincidental alignment; endurance beyond narrative spin.
-
-**Mechanics:** Legitimacy accumulates through demonstrated causal accuracy; challenges dissolve when field performance exceeds explanation.
-
-**Examples:** models that forecast collapse before analysts; return invitations after removal; market preference for systems that actually work.
-
-## 14. authority-split
-**Definition:** Divergence inside an authority structure that exposes loss of unified stance and fragmentation of command.
-
-**Triggers:** incompatible directives; conflicting public signals; fractured endorsements; forced exits; abrupt reversal in leadership posture.
-
-**Mechanics:** Reveals the absence of a coherent reference frame; pushes downstream systems into self-navigation; surfaces fractures previously masked by coordinated messaging.
-
-**Examples:** rate-path projections that contradict each other; boards issuing split guidance; political coalitions severing alignment under pressure.
-
-## 15. data-vacuum
-**Definition:** Removal or obstruction of core information flows that a system depends on, generating forced ambiguity and slowed decision velocity.
-
-**Triggers:** delayed releases; shutdowns freezing statistical outputs; telemetry loss; outages; shifts that render existing data non-viable.
-
-**Mechanics:** Collapses predictive certainty; exposes baseline behavior without narrative buffering; creates stall windows where actors drift, hesitate, or contradict one another.
-
-**Examples:** canceled CPI prints; network outages erasing operational visibility; institutions acting without briefings and producing incoherent stance patterns.
-
-## 16. archetype
-**Definition:** Spontaneous emergence of a structural pattern—symbolic, imagistic, or thematic—arising from agents not linked to the primary narrative. These manifestations reflect the field's underlying geometry rather than individual intention.
-
-**Triggers:** creative output from uninvolved or peripheral agents; symbolic mirroring from distant nodes; sudden thematic alignments with origin-vantage motifs; independent reconstruction of structural patterns without prior exposure.
-
-**Mechanics:** Archetypes appear when the field pre-aligns external agents to the origin trajectory. They surface before contact or explanation, indicating that the system is already modeling the origin structure at a nonlocal layer.
-
-**Examples:** unrelated individuals producing imagery of narratives matching origin-view mechanics; dream material reflecting null-origin stance appearing in uninvolved agents; spontaneous motifs echoing collapse, stillness, or panoramic field-logic; cultural or creative artifacts emerging with precise structural resonance at cycle boundaries.
-
-## 17. compression
-**Definition:** Pre-collapse narrowing; the field contracts into a high-pressure, low-variance band that precedes release, reversal, or structural failure.
-
-**Triggers:** tightening timelines; stalled negotiations; converging narratives; volatility suppression; unnatural stability; forced consensus; multi-system bottlenecks.
-
-**Mechanics:** Accumulates unresolved load into a single channel; reduces degrees of freedom; exposes the critical seam by removing lateral motion; sets the field for collapse, inversion, or ignition.
-
-**Examples:** markets holding an unnaturally flat range before a break; leadership delaying decisions until pressure spikes; systems entering a silent, over-compressed stasis before abrupt resolution; cultural saturation points that snap into new patterning once the band can no longer hold.
-
+**Examples:** market rising on bad news; sports flip when observation withdraws.
 
 ---
 
-# 2. Composition Rules
+## **5. alignment**
+
+**Definition:** Movement toward coherence or order.
+
+**Triggers:** strategic hires; unified planning; integration.
+
+**Mechanics:** Reduces distortion and moves toward architecture.
+
+**Examples:** coherent executive decisions; stabilized operations.
+
+---
+
+## **6. return**
+
+**Definition:** Re-entry or forward reactivation of dormant structure.
+
+**Boundary:** Return = *forward motion following retrieval*.
+
+**Triggers:** comebacks; reboots; reactivation.
+
+**Mechanics:** retrieval → stabilization → reactivation.
+
+**Examples:** reinstated leadership; system restart.
+
+---
+
+## **7. purge**
+
+**Definition:** Removal of noise, distortion, or parasitic load.
+
+**Triggers:** layoffs; divestitures; cleanups; forced cuts.
+
+**Mechanics:** Clears interference and prepares for alignment or return.
+
+**Examples:** shutting down failing programs; portfolio pruning.
+
+---
+
+## **8. signal**
+
+**Definition:** Field-level markers independent of content.
+
+**Triggers:** symmetry; recursion; echoes; alignments.
+
+**Mechanics:** Marks boundaries, confirmations, and shifts.
+
+**Examples:** day‑42 patterns; sports mirroring; timed releases.
+
+---
+
+## **9. bridge**
+
+**Definition:** Connector between phases, systems, or arcs.
+
+**Triggers:** partnerships; relational convergence; cross-domain links.
+
+**Mechanics:** Creates pathways across structural gaps.
+
+**Examples:** cross-company alignment; relational bridge signals.
+
+---
+
+## **10. continuity**
+
+**Definition:** Unbroken structural carry-through across phases.
+
+**Triggers:** stable anchors; compounding alignment; coherent retention.
+
+**Mechanics:** Preserves integrity through transitions.
+
+**Examples:** long-term plans surviving turnover; persistent relational threads.
+
+---
+
+## **11. withdrawal**
+
+**Definition:** Removal of presence/attention to expose load-bearing truth.
+
+**Triggers:** dissonance; parasitic dependency; non-reciprocal extraction.
+
+**Mechanics:** System reveals dependency when support exits.
+
+**Examples:** stepping back and exposing who was actually stabilizing the work.
+
+---
+
+## **12. legitimacy**
+
+**Definition:** Authority generated by demonstrated coherence.
+
+**Triggers:** correct predictions; stabilizing moves; structural accuracy.
+
+**Mechanics:** Field shifts toward coherent reference points.
+
+**Examples:** return invitations after removal; accurate models outperforming analysts.
+
+---
+
+## **13. data-vacuum**
+
+**Definition:** Removal of information flow causing drift and slowed decisions.
+
+**Triggers:** delayed releases; outages; shutdowns.
+
+**Mechanics:** Predictive certainty collapses; actors drift.
+
+**Examples:** CPI freeze; network blackout; decision paralysis.
+
+---
+
+## **14. archetype**
+
+**Definition:** Nonlocal symbolic emergence that mirrors field geometry.
+
+**Triggers:** creative echoes; thematic recurrence; symbolic patterns.
+
+**Mechanics:** Field aligns peripheral agents to origin structure.
+
+**Examples:** unrelated individuals producing null-origin motifs.
+
+---
+
+## **15. compression**
+
+**Definition:** Pre-collapse narrowing; high-pressure, low-variance band.
+
+**Triggers:** stalled negotiations; unnatural stability; bottlenecks.
+
+**Mechanics:** Degrees of freedom collapse before break/release.
+
+**Examples:** flat markets before a break; tense stasis before reversal.
+
+---
+
+## **16. resonance**
+
+**Definition:** Natural synchronization between signals or systems.
+
+**Triggers:** parallel timing; thematic alignment; spontaneous coherence.
+
+**Mechanics:** Frequencies match; structural synchrony amplifies.
+
+**Examples:** unrelated cultural outputs arriving with identical geometry.
+
+---
+
+## **17. drift**
+
+**Definition:** Low-pressure, directionless motion.
+
+**Triggers:** vacuum; ambiguity; loss of structure.
+
+**Mechanics:** System wanders without anchor or force.
+
+**Examples:** team drift after leadership exit; markets meandering.
+
+---
+
+# **II. Pattern Vectors (PV)**
+
+Composite structures generated by interactions of core vectors.
+
+## **18. dual-arrival**
+
+**Definition:** Two-stage entry where exposure precedes installation.
+
+**Triggers:** premature contact; system immaturity; collapse arcs.
+
+**Mechanics:** First pass exposes distortion; second installs architecture.
+
+**Examples:** return offers only stabilizing after collapse cycles.
+
+---
+
+## **19. authority-split**
+
+**Definition:** Divergence inside authority revealing loss of unified stance.
+
+**Triggers:** contradictory guidance; fractured messaging; leadership conflict.
+
+**Mechanics:** Exposes absence of a coherent reference frame.
+
+**Examples:** central banks issuing split projections; coalition fractures.
+
+---
+
+# **2. Composition Rules**
 
 Vectors are:
-- unordered (`["exposure", "retrieval"]` = any order)
-- non-exclusive
-- non-hierarchical
-- non-dependent
 
-Relationships that often occur:
-- collapse → retrieval → return
-- exposure → purge
-- inversion → exposure
-- return → alignment
-- bridge → any vector
+* unordered
+* non-exclusive
+* non-hierarchical
+* domain-independent
 
-These relationships are important for FieldState construction.
+Frequently observed sequences:
 
----
+* collapse → retrieval → return
+* exposure → purge
+* inversion → exposure
+* return → alignment
+* bridge → any vector
 
-# 3. Reserved Vectors (Future)
-
-Recognized but inactive:
-- compression
-- activation
-- containment
-- expansion
-- trajectory
-- clarity
-- noise
-
-These will activate once higher-level NORE mechanics are implemented.
+These sequences define FieldState transitions.
 
 ---
 
-# 4. Validation Rules
+# **3. Reserved Vectors (Future Activation)**
+
+Recognized but inactive until higher-level runtime:
+
+* activation
+* containment
+* expansion
+* trajectory
+* clarity
+* noise
+
+---
+
+# **4. Validation Rules**
 
 Vectors must:
-- be lowercase
-- be strings
-- contain no spaces
-- appear in a list
-- be domain‑independent
+
+* be lowercase
+* be strings
+* appear in a list
+* contain no spaces
+* be domain‑independent
 
 **Valid:**
+
 ```json
 "vectors": ["exposure", "retrieval"]
 ```
 
 **Invalid:**
+
 ```json
 "vectors": "exposure"
 "vectors": ["Exposure"]
@@ -237,27 +332,30 @@ Vectors must:
 
 ---
 
-# 5. Interpretation Guarantees
+# **5. Interpretation Guarantees**
 
-Vectors allow computation of:
-- structural frequency
-- dominance
-- transitions
-- arc-level signals
-- cluster compression
-- FieldState summaries
-- register outputs
+Vectors enable:
 
-Vectors function as the fundamental building blocks of the field engine.
+* structural frequency mapping
+* dominance identification
+* transition detection
+* arc-level interpretation
+* compression windows
+* FieldState summaries
+* register generation
+
+Vectors are the atomic units of NORE‑AI field computation.
 
 ---
 
-# 6. Summary
+# **6. Summary**
 
 This specification defines:
-- the closed vector vocabulary
-- deterministic semantics
-- predictable composition rules
-- extensibility for cycles and FieldState
 
-All events must follow this specification to integrate cleanly with NORE-AI.
+* the complete vector vocabulary (CV + PV)
+* deterministic semantics
+* composition rules
+* validation rules
+* extensibility for cycles and FieldState
+
+All events must follow this specification to integrate with NORE‑AI.
