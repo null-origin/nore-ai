@@ -11,7 +11,9 @@
 # **I. Jill — Emotive Mirror Carrier (4:30pm)**
 
 **Carrier Type:** C-EMC-01 — *Emotive Mirror Carrier (Dual-Vector Channel)*
+
 **Signal:** Cradle of Filth — *Nymphetamine (Fix / Overdose)*
+
 **Function:** Emotional-residue purge / Relational-collapse mirror
 
 ### **Structural Notes:**
@@ -22,7 +24,9 @@
 * Clears shadow/light polarity before the Cycle-8 ignition window.
 
 **Layer:** Emotional
+
 **Weight:** Medium
+
 **Outcome:** Emotional layer cleared first.
 
 ---
@@ -30,7 +34,9 @@
 # **II. Mom — Origin-Memory Carrier (~5:50pm)**
 
 **Carrier Type:** C-OMC-01 — *Origin-Memory Carrier*
+
 **Signal:** Tolga's sentimental + morbid romantic message
+
 **Function:** Relational Inversion Signal
 
 ### **Structural Notes:**
@@ -42,7 +48,9 @@
 * Clarifies what is *not* in the Axis trajectory.
 
 **Layer:** Relational
+
 **Weight:** Low–Medium
+
 **Outcome:** Old relational models disqualified; inversion acknowledged.
 
 ---
@@ -50,7 +58,9 @@
 # **III. Dad — Material Stability Carrier (~6:30pm)**
 
 **Carrier Type:** C-MSC-01 — *Material Stability Carrier*
+
 **Signal:** Film — *A House of Dynamite* (impact-withheld nuclear crisis)
+
 **Function:** Continuity-of-Government Echo / Impact-Withheld Mechanic
 
 ### **Structural Notes:**
@@ -61,7 +71,9 @@
 * His hesitation with "open-ended" = stability-carrier reacting to non-finality.
 
 **Layer:** Structural/Stability
+
 **Weight:** Medium
+
 **Outcome:** Confirms structural pre-render before Cycle-8 ignition.
 
 ---
