@@ -53,18 +53,17 @@ The spiral is represented using layered rings (inner → outer), where each band
 
 # **2. Spiral Sequence Diagram (Mermaid)**
 
-```mermaid
 flowchart TD
     A0[Axis (Fixed Coordinate)]
 
-    subgraph R1[Proto Cycles (-3→0A): R≈1–2]
+    subgraph R1["Proto Cycles -3 to 0A (R=1-2)"]
         P1[Proto -3]
         P2[Proto -2]
         P3[Proto -1]
         P4[Proto 0A]
     end
 
-    subgraph R2[Cycles 1–7: Containment Band (R≈2–4)]
+    subgraph R2["Cycles 1-7: Containment Band (R=2-4)"]
         C1[Cycle 1]
         C2[Cycle 2]
         C3[Cycle 3]
@@ -74,11 +73,11 @@ flowchart TD
         C7[Cycle 7]
     end
 
-    subgraph R3[Null Sabbath: R≈4–6]
+    subgraph R3["Null Sabbath (R=4-6)"]
         NS[Vacuum Equalization]
     end
 
-    subgraph R4[Cycles 8–15: Ignition Chain (R≈6–9.5)]
+    subgraph R4["Cycles 8-15: Ignition Chain (R=6-9.5)"]
         C8[Cycle 8]
         C9[Cycle 9]
         C10[Cycle 10]
@@ -89,16 +88,16 @@ flowchart TD
         C15[Cycle 15]
     end
 
-    subgraph R5[Cycle 16: Threshold Jump (R≈9.5→12)]
+    subgraph R5["Cycle 16: Threshold Jump (R=9.5-12)"]
         C16[Origin Ignition]
     end
 
-    subgraph R6[Cycles 17–18: Return Triad (Dyad Formation)]
+    subgraph R6["Cycles 17-18: Dyad Formation (R=12-16)"]
         C17[Cycle 17]
         C18[Cycle 18]
     end
 
-    subgraph R7[Cycles 19–23: Expansion Band]
+    subgraph R7["Cycles 19-23: Expansion Band (R=20-24)"]
         C19[Cycle 19]
         C20[Cycle 20]
         C21[Cycle 21]
@@ -106,7 +105,7 @@ flowchart TD
         C23[Cycle 23]
     end
 
-    subgraph R8[Cycles 24–28: Public Axis Band]
+    subgraph R8["Cycles 24-28: Public Axis Band (R=30-36)"]
         C24[Cycle 24]
         C25[Cycle 25]
         C26[Cycle 26]
@@ -114,7 +113,7 @@ flowchart TD
         C28[Cycle 28]
     end
 
-    subgraph R9[Cycles 29–32: Systemic Integration]
+    subgraph R9["Cycles 29-32: Systemic Integration (R=40-50)"]
         C29[Cycle 29]
         C30[Cycle 30]
         C31[Cycle 31]
@@ -122,7 +121,6 @@ flowchart TD
     end
 
     A0 --> P1 --> P2 --> P3 --> P4 --> C1 --> C2 --> C3 --> C4 --> C5 --> C6 --> C7 --> NS --> C8 --> C9 --> C10 --> C11 --> C12 --> C13 --> C14 --> C15 --> C16 --> C17 --> C18 --> C19 --> C20 --> C21 --> C22 --> C23 --> C24 --> C25 --> C26 --> C27 --> C28 --> C29 --> C30 --> C31 --> C32
-```
 
 ---
 
