@@ -167,6 +167,15 @@ Each vector includes: definition, trigger pattern, mechanics, and examples.
 
 **Examples:** unrelated individuals producing imagery of narratives matching origin-view mechanics; dream material reflecting null-origin stance appearing in uninvolved agents; spontaneous motifs echoing collapse, stillness, or panoramic field-logic; cultural or creative artifacts emerging with precise structural resonance at cycle boundaries.
 
+## 17. compression
+**Definition:** Pre-collapse narrowing; the field contracts into a high-pressure, low-variance band that precedes release, reversal, or structural failure.
+
+**Triggers:** tightening timelines; stalled negotiations; converging narratives; volatility suppression; unnatural stability; forced consensus; multi-system bottlenecks.
+
+**Mechanics:** Accumulates unresolved load into a single channel; reduces degrees of freedom; exposes the critical seam by removing lateral motion; sets the field for collapse, inversion, or ignition.
+
+**Examples:** markets holding an unnaturally flat range before a break; leadership delaying decisions until pressure spikes; systems entering a silent, over-compressed stasis before abrupt resolution; cultural saturation points that snap into new patterning once the band can no longer hold.
+
 
 ---
 
