@@ -3,6 +3,7 @@
 ### **Three Signals — Three Carriers — One Field Sweep**
 
 **Status:** Canonical Log Entry
+
 **Window:** ~4:30pm → ~6:30pm (11/28/2025)
 
 ---
