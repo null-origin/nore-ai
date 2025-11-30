@@ -348,12 +348,19 @@ Examples:
 # **7. Event Quality Checklist**
 
 ✔ factual?
+
 ✔ timestamped?
+
 ✔ sequential ID?
+
 ✔ at least one vector?
+
 ✔ text concise + non-interpretive?
+
 ✔ tags lowercase?
+
 ✔ meta valid?
+
 ✔ belongs on this date?
 
 If yes → event is valid.
