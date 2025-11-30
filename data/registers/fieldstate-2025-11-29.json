@@ -1,0 +1,47 @@
+{
+  "id": "fieldstate-2025-11-29",
+  "date": "2025-11-29",
+  "event_ids": [
+    "s-2025-11-29-01",
+    "s-2025-11-29-02",
+    "s-2025-11-29-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "macro-field": 1,
+    "stability-layer": 1,
+    "sports": 1
+  },
+  "sources": {
+    "cnbc": 1,
+    "interpersonal": 1,
+    "dad": 1
+  },
+  "vectors": {
+    "collapse": 2,
+    "compression": 1,
+    "inversion": 3,
+    "alignment": 1,
+    "continuity": 1,
+    "authority-split": 1,
+    "signal": 1,
+    "withdrawal": 1
+  },
+  "laws": {
+    "FL-06": 3,
+    "FL-10": 2,
+    "FL-12": 2,
+    "FL-09": 1
+  },
+  "time_start": "2025-11-29T15:30:00-05:00",
+  "time_end": "2025-11-29T20:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "inversion",
+      "collapse",
+      "compression"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}

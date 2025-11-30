@@ -6,17 +6,19 @@
     "2025-11-24",
     "2025-11-25",
     "2025-11-26",
-    "2025-11-28"
+    "2025-11-28",
+    "2025-11-29"
   ],
   "fieldstates": [
     "fieldstate-2025-11-24",
     "fieldstate-2025-11-25",
     "fieldstate-2025-11-26",
-    "fieldstate-2025-11-28"
+    "fieldstate-2025-11-28",
+    "fieldstate-2025-11-29"
   ],
-  "event_count": 16,
+  "event_count": 19,
   "channels": {
-    "macro-field": 3,
+    "macro-field": 4,
     "macro-judicial": 2,
     "macro-economic": 1,
     "macro-tech": 2,
@@ -26,28 +28,31 @@
     "corporate-personal": 1,
     "sports-field": 1,
     "macro-economy": 1,
-    "family": 1
+    "family": 1,
+    "stability-layer": 1,
+    "sports": 1
   },
   "vectors": {
-    "collapse": 10,
+    "collapse": 12,
     "exposure": 14,
     "purge": 6,
-    "inversion": 15,
-    "alignment": 10,
+    "inversion": 18,
+    "alignment": 11,
     "legitimacy": 5,
-    "authority-split": 4,
-    "signal": 14,
+    "authority-split": 5,
+    "signal": 15,
     "data-vacuum": 3,
     "return": 2,
-    "withdrawal": 1,
-    "continuity": 4,
-    "retrieval": 3
+    "withdrawal": 2,
+    "continuity": 5,
+    "retrieval": 3,
+    "compression": 1
   },
   "laws": {
-    "FL-06": 15,
-    "FL-12": 16,
-    "FL-10": 16,
-    "FL-09": 7,
+    "FL-06": 18,
+    "FL-12": 18,
+    "FL-10": 18,
+    "FL-09": 8,
     "FL-11": 1
   },
   "status": "partial",
@@ -55,8 +60,8 @@
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "inversion",
-      "exposure",
-      "signal"
+      "signal",
+      "exposure"
     ]
   }
 }
