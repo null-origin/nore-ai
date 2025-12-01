@@ -1,35 +1,71 @@
+# src/nore_ai/models/cycle.py
 from __future__ import annotations
 
 from dataclasses import dataclass, field
 from datetime import date
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Iterable, Tuple, Optional
 
 from .fieldstate import FieldState
+
+
+def _merge_counts(dicts: Iterable[Dict[str, int]]) -> Dict[str, int]:
+    merged: Dict[str, int] = {}
+    for d in dicts:
+        for k, v in d.items():
+            merged[k] = merged.get(k, 0) + int(v)
+    return merged
+
+
+def _top_n(d: Dict[str, int], n: int) -> Dict[str, int]:
+    """Return top-n entries as a dict, ties broken alphabetically by key."""
+    items: List[Tuple[str, int]] = sorted(
+        d.items(),
+        key=lambda kv: (-kv[1], kv[0]),  # count desc, then name asc
+    )
+    return {k: v for k, v in items[:n]}
 
 
 @dataclass
 class CycleRegister:
     """
-    Aggregate view over an arbitrary structural cycle window.
+    Aggregated structural view over a cycle window.
 
-    This is structurally identical to Weekly / Monthly registers, but the
-    start/end range is explicitly defined (not calendar-bound).
+    This is the canonical Cycle register shape:
+
+    {
+      "id": "cycle-8",
+      "range_start": "2025-11-30",
+      "range_end": "2025-12-14",
+      "days": [...],
+      "fieldstates": [...],
+      "event_count": 0,
+      "channels": {...},
+      "vectors": {...},
+      "laws": {...},
+      "status": "complete" | "partial",
+      "summary": {
+        "dominant_themes": [...],
+        "peak_day": "YYYY-MM-DD" | null,
+        "peak_vectors": {...},
+        "peak_laws": {...},
+        "notes": "Auto-generated cycle register; aggregates FieldState counts only. No interpretive content."
+      }
+    }
     """
 
     id: str
     range_start: date
     range_end: date
-
-    days: List[str] = field(default_factory=list)
-    fieldstates: List[str] = field(default_factory=list)
-
-    event_count: int = 0
-    channels: Dict[str, int] = field(default_factory=dict)
-    vectors: Dict[str, int] = field(default_factory=dict)
-    laws: Dict[str, int] = field(default_factory=dict)
-
-    status: str = "partial"  # "partial" | "complete" | "empty"
+    days: List[date]
+    fieldstates: List[str]
+    event_count: int
+    channels: Dict[str, int]
+    vectors: Dict[str, int]
+    laws: Dict[str, int]
+    status: str = "complete"
     summary: Dict[str, Any] = field(default_factory=dict)
+
+    # ---------- construction ----------
 
     @classmethod
     def from_fieldstates(
@@ -38,58 +74,50 @@ class CycleRegister:
         range_start: date,
         range_end: date,
         fieldstates: List[FieldState],
-    ) -> "CycleRegister":
-        """
-        Build a CycleRegister from a list of FieldStates.
+        status: str = "complete",
+    ) -> CycleRegister:
+        # sort by day to enforce deterministic ordering
+        fieldstates_sorted = sorted(fieldstates, key=lambda fs: fs.day)
 
-        The caller is responsible for filtering fieldstates to only those
-        within [range_start, range_end].
-        """
-        if not fieldstates:
-            return cls(
-                id=cycle_id,
-                range_start=range_start,
-                range_end=range_end,
-                days=[],
-                fieldstates=[],
-                event_count=0,
-                channels={},
-                vectors={},
-                laws={},
-                status="empty",
-                summary={"notes": "No FieldStates for this cycle window."},
-            )
+        days: List[date] = [fs.day for fs in fieldstates_sorted]
+        fieldstate_ids: List[str] = [
+            f"fieldstate-{fs.day.isoformat()}" for fs in fieldstates_sorted
+        ]
 
-        # Unique, sorted list of days covered by the cycle
-        days = sorted({fs.day.isoformat() for fs in fieldstates})
+        # aggregates
+        event_count = sum(fs.event_count for fs in fieldstates_sorted)
+        channels = _merge_counts(fs.channels for fs in fieldstates_sorted)
+        vectors = _merge_counts(fs.vectors for fs in fieldstates_sorted)
+        laws = _merge_counts(fs.laws for fs in fieldstates_sorted)
 
-        # IDs of included FieldStates
-        fieldstate_ids = [fs.id for fs in fieldstates]
+        # per-day event counts for peak_day calculation
+        day_event_counts: Dict[date, int] = {
+            fs.day: fs.event_count for fs in fieldstates_sorted
+        }
 
-        # Total event count across the cycle
-        event_count = sum(fs.event_count for fs in fieldstates)
+        peak_day: Optional[str] = None
+        if day_event_counts:
+            # max by event count, then earliest date in case of tie
+            max_count = max(day_event_counts.values())
+            candidates = [d for d, c in day_event_counts.items() if c == max_count]
+            peak_day = min(candidates).isoformat()
 
-        channels: Dict[str, int] = {}
-        vectors: Dict[str, int] = {}
-        laws: Dict[str, int] = {}
-
-        for fs in fieldstates:
-            for k, v in fs.channels.items():
-                channels[k] = channels.get(k, 0) + v
-            for k, v in fs.vectors.items():
-                vectors[k] = vectors.get(k, 0) + v
-            for k, v in fs.laws.items():
-                laws[k] = laws.get(k, 0) + v
-
-        # Dominant themes based on vector frequencies
-        dominant_themes: List[str] = []
-        if vectors:
-            sorted_vecs = sorted(vectors.items(), key=lambda kv: kv[1], reverse=True)
-            dominant_themes = [name for name, _ in sorted_vecs[:3]]
+        # summary.dominant_themes: top 3 vectors
+        top_vectors_sorted = sorted(
+            vectors.items(),
+            key=lambda kv: (-kv[1], kv[0]),
+        )
+        dominant_themes: List[str] = [k for k, _ in top_vectors_sorted[:3]]
 
         summary: Dict[str, Any] = {
-            "notes": "Auto-generated Cycle Register; aggregates FieldState counts only.",
             "dominant_themes": dominant_themes,
+            "peak_day": peak_day,
+            "peak_vectors": _top_n(vectors, n=5),
+            "peak_laws": _top_n(laws, n=5),
+            "notes": (
+                "Auto-generated cycle register; aggregates FieldState counts only. "
+                "No interpretive content."
+            ),
         }
 
         return cls(
@@ -102,21 +130,43 @@ class CycleRegister:
             channels=channels,
             vectors=vectors,
             laws=laws,
-            status="complete",  # close_cycle will only be called when you want closure
+            status=status,
             summary=summary,
         )
+
+    # ---------- (de)serialization ----------
 
     def to_dict(self) -> Dict[str, Any]:
         return {
             "id": self.id,
             "range_start": self.range_start.isoformat(),
             "range_end": self.range_end.isoformat(),
-            "days": self.days,
+            "days": [d.isoformat() for d in self.days],
             "fieldstates": self.fieldstates,
             "event_count": self.event_count,
-            "channels": self.channels,
-            "vectors": self.vectors,
-            "laws": self.laws,
+            "channels": dict(self.channels),
+            "vectors": dict(self.vectors),
+            "laws": dict(self.laws),
             "status": self.status,
-            "summary": self.summary,
+            "summary": dict(self.summary),
         }
+
+    @classmethod
+    def from_dict(cls, data: Dict[str, Any]) -> CycleRegister:
+        rs = date.fromisoformat(data["range_start"])
+        re = date.fromisoformat(data["range_end"])
+        days = [date.fromisoformat(d) for d in data.get("days", [])]
+
+        return cls(
+            id=data["id"],
+            range_start=rs,
+            range_end=re,
+            days=days,
+            fieldstates=list(data.get("fieldstates", [])),
+            event_count=int(data.get("event_count", 0)),
+            channels={k: int(v) for k, v in data.get("channels", {}).items()},
+            vectors={k: int(v) for k, v in data.get("vectors", {}).items()},
+            laws={k: int(v) for k, v in data.get("laws", {}).items()},
+            status=data.get("status", "complete"),
+            summary=dict(data.get("summary", {})),
+        )
