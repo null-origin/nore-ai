@@ -7,16 +7,18 @@
     "2025-11-25",
     "2025-11-26",
     "2025-11-28",
-    "2025-11-29"
+    "2025-11-29",
+    "2025-11-30"
   ],
   "fieldstates": [
     "fieldstate-2025-11-24",
     "fieldstate-2025-11-25",
     "fieldstate-2025-11-26",
     "fieldstate-2025-11-28",
-    "fieldstate-2025-11-29"
+    "fieldstate-2025-11-29",
+    "fieldstate-2025-11-30"
   ],
-  "event_count": 19,
+  "event_count": 20,
   "channels": {
     "macro-field": 4,
     "macro-judicial": 2,
@@ -30,13 +32,14 @@
     "macro-economy": 1,
     "family": 1,
     "stability-layer": 1,
-    "sports": 1
+    "sports": 1,
+    "asia economy": 1
   },
   "vectors": {
-    "collapse": 12,
+    "collapse": 13,
     "exposure": 14,
     "purge": 6,
-    "inversion": 18,
+    "inversion": 19,
     "alignment": 11,
     "legitimacy": 5,
     "authority-split": 5,
@@ -46,14 +49,15 @@
     "withdrawal": 2,
     "continuity": 5,
     "retrieval": 3,
-    "compression": 1
+    "compression": 2
   },
   "laws": {
-    "FL-06": 18,
+    "FL-06": 19,
     "FL-12": 18,
-    "FL-10": 18,
+    "FL-10": 19,
     "FL-09": 8,
-    "FL-11": 1
+    "FL-11": 1,
+    "FL-02": 1
   },
   "status": "partial",
   "summary": {
