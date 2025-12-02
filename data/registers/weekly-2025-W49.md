@@ -19,24 +19,20 @@ pie showData
 
 ## Channel distribution (top 5)
 
-```mermaid
-bar
-    title Channels (top 5)
-    "global aviation" : 1
-    "global tech" : 1
-```
+| channel | count | bar |
+|---------|-------|-----|
+| global aviation | 1 | ████████████████████ |
+| global tech | 1 | ████████████████████ |
 
 ## Law distribution (top 5)
 
-```mermaid
-bar
-    title Laws (top 5)
-    "FL-02" : 2
-    "FL-03" : 2
-    "FL-04" : 2
-    "FL-05" : 2
-    "FL-06" : 2
-```
+| law | count | bar |
+|-----|-------|-----|
+| FL-02 | 2 | ████████████████████ |
+| FL-03 | 2 | ████████████████████ |
+| FL-04 | 2 | ████████████████████ |
+| FL-05 | 2 | ████████████████████ |
+| FL-06 | 2 | ████████████████████ |
 
 ## Notes
 
