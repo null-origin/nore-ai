@@ -1,0 +1,43 @@
+{
+  "id": "weekly-2025-W49",
+  "week_start": "2025-12-01",
+  "week_end": "2025-12-07",
+  "days": [
+    "2025-12-01"
+  ],
+  "fieldstates": [
+    "fieldstate-2025-12-01"
+  ],
+  "event_count": 2,
+  "channels": {
+    "global aviation": 1,
+    "global tech": 1
+  },
+  "vectors": {
+    "collapse": 2,
+    "exposure": 2,
+    "inversion": 1,
+    "signal": 2,
+    "retrieval": 2,
+    "alignment": 1
+  },
+  "laws": {
+    "FL-02": 2,
+    "FL-06": 2,
+    "FL-03": 2,
+    "FL-04": 2,
+    "FL-07": 2,
+    "FL-05": 2,
+    "FL-10": 2,
+    "FL-09": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "collapse",
+      "exposure",
+      "signal"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fieldstate-2025-12-01",
+  "date": "2025-12-01",
+  "event_ids": [
+    "s-2025-12-01-01",
+    "s-2025-12-01-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "global aviation": 1,
+    "global tech": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "collapse": 2,
+    "exposure": 2,
+    "inversion": 1,
+    "signal": 2,
+    "retrieval": 2,
+    "alignment": 1
+  },
+  "laws": {
+    "FL-02": 2,
+    "FL-06": 2,
+    "FL-03": 2,
+    "FL-04": 2,
+    "FL-07": 2,
+    "FL-05": 2,
+    "FL-10": 2,
+    "FL-09": 1
+  },
+  "time_start": "2025-12-01T09:30:00-05:00",
+  "time_end": "2025-12-01T17:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "collapse",
+      "exposure",
+      "signal"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
