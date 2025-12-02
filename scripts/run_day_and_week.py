@@ -5,7 +5,7 @@ import json
 import sys
 from datetime import date, timedelta
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
@@ -93,8 +93,12 @@ def rebuild_weekly_register(week_start: date, week_end: date, week_id: str) -> W
     )
     return weekly
 
+
+# ---------- NEW MARKDOWN HELPERS ----------
+
 def _top_n(d: Dict[str, int], n: int = 5) -> List[Tuple[str, int]]:
     return sorted(d.items(), key=lambda kv: (-kv[1], kv[0]))[:n]
+
 
 def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
     """
@@ -186,6 +190,9 @@ def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text("\n".join(lines), encoding="utf-8")
 
+
+# ---------- MAIN PIPELINE ----------
+
 def main(date_str: str) -> None:
     day = parse_date(date_str)
 
@@ -211,6 +218,11 @@ def main(date_str: str) -> None:
     weekly_path = ROOT / "data" / "registers" / f"{week_id}.json"
     write_json(weekly_path, weekly.to_dict())
     print(f"[nore-ai] updated WeeklyRegister: {weekly_path}")
+
+    # 4) Write a Markdown snapshot for the same weekly register
+    weekly_md_path = ROOT / "data" / "registers" / f"{week_id}.md"
+    write_weekly_markdown(weekly, weekly_md_path)
+    print(f"[nore-ai] wrote WeeklyRegister markdown: {weekly_md_path}")
 
 
 if __name__ == "__main__":
