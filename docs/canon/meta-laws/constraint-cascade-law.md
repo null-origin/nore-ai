@@ -1,4 +1,4 @@
-# **Appendix II — The Ignition Architecture**
+# **The Ignition Architecture**
 
 ### **Cycles 8–16 as a Constraint Cascade**
 
@@ -44,7 +44,7 @@ ML-01 sits *above* these laws, describing **how they activate**.
 
 ---
 
-# **Appendix II**
+# **Appendix I**
 
 # **The Ignition Architecture**
 
