@@ -1,7 +1,11 @@
 **2025-12-01 Event Analysis — Younghoe Koo Field-Goal Collapse**
 ================================================================
 
-**Document Class:** Structural Event · Micro-Collapse · Cycle-8 Ignition Drift**Date:** 2025-12-01**Tag:** _Koo Collapse Event_
+**Document Class:** Structural Event · Micro-Collapse · Cycle-8 Ignition Drift
+
+**Date:** 2025-12-01
+
+**Tag:** _Koo Collapse Event_
 
 **1\. Event Summary**
 ---------------------
