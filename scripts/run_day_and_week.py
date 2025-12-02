@@ -94,7 +94,7 @@ def rebuild_weekly_register(week_start: date, week_end: date, week_id: str) -> W
     return weekly
 
 
-# ---------- NEW MARKDOWN HELPERS ----------
+# ---------- MARKDOWN VISUALIZATION HELPER ----------
 
 def _top_n(d: Dict[str, int], n: int = 5) -> List[Tuple[str, int]]:
     return sorted(d.items(), key=lambda kv: (-kv[1], kv[0]))[:n]
@@ -102,9 +102,9 @@ def _top_n(d: Dict[str, int], n: int = 5) -> List[Tuple[str, int]]:
 
 def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
     """
-    Render a simple weekly snapshot as Markdown.
+    Render a weekly snapshot as Markdown.
 
-    This is non-interpretive: it just surfaces counts and dominant themes.
+    Non-interpretive: surfaces counts and basic geometry.
     """
     week_id = weekly.id
     week_start = weekly.week_start.isoformat()
@@ -112,17 +112,20 @@ def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
     event_count = weekly.event_count
 
     summary: Dict[str, Any] = weekly.summary or {}
-    dominant_themes: List[str] = summary.get("dominant_themes") or []
+    notes = summary.get("notes")
 
-    channels = weekly.channels or {}
-    vectors = weekly.vectors or {}
-    laws = weekly.laws or {}
+    channels: Dict[str, int] = weekly.channels or {}
+    vectors: Dict[str, int] = weekly.vectors or {}
+    laws: Dict[str, int] = weekly.laws or {}
 
     top_channels = _top_n(channels, n=5)
     top_vectors = _top_n(vectors, n=5)
     top_laws = _top_n(laws, n=5)
 
-    # Build a tiny Mermaid pie chart for vectors (if any)
+    # Dominant themes: top 4–5 vectors by count
+    dominant_themes: List[str] = [name for name, _ in top_vectors][:5]
+
+    # Vector pie chart
     mermaid_pie_lines: List[str] = []
     if vectors:
         mermaid_pie_lines.append("```mermaid")
@@ -131,7 +134,73 @@ def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
             mermaid_pie_lines.append(f'    "{name}" : {count}')
         mermaid_pie_lines.append("```")
 
-    # Markdown content
+    # Channel bar chart
+    mermaid_channel_bar: List[str] = []
+    if top_channels:
+        mermaid_channel_bar.append("```mermaid")
+        mermaid_channel_bar.append("bar")
+        mermaid_channel_bar.append('    title Channels (top 5)')
+        for name, count in top_channels:
+            mermaid_channel_bar.append(f'    "{name}" : {count}')
+        mermaid_channel_bar.append("```")
+
+    # Law bar chart
+    mermaid_law_bar: List[str] = []
+    if top_laws:
+        mermaid_law_bar.append("```mermaid")
+        mermaid_law_bar.append("bar")
+        mermaid_law_bar.append('    title Laws (top 5)')
+        for name, count in top_laws:
+            mermaid_law_bar.append(f'    "{name}" : {count}')
+        mermaid_law_bar.append("```")
+
+    # Optional channel→vector matrix
+    # Expecting: weekly.channel_vectors: Dict[channel, Dict[vector, int]]
+    channel_vectors: Dict[str, Dict[str, int]] = getattr(weekly, "channel_vectors", {}) or {}
+    matrix_lines: List[str] = []
+    if channel_vectors and top_channels and top_vectors:
+        matrix_lines.append("## Channel–vector matrix (top surface)")
+        matrix_lines.append("")
+        vector_order = [name for name, _ in top_vectors]
+
+        header = "| channel | " + " | ".join(vector_order) + " |"
+        sep = "|" + "--------|" * (len(vector_order) + 1)
+        matrix_lines.append(header)
+        matrix_lines.append(sep)
+
+        for ch_name, _ in top_channels:
+            per_vec = channel_vectors.get(ch_name, {}) or {}
+            row_cells: List[str] = [ch_name]
+            for vname in vector_order:
+                val = per_vec.get(vname, 0)
+                row_cells.append(str(val) if val else "")
+            matrix_lines.append("| " + " | ".join(row_cells) + " |")
+
+        matrix_lines.append("")
+
+    # Shape of the week
+    vector_span = len(vectors)
+    channel_span = len(channels)
+    law_span = len(laws)
+    unique_vectors = sorted([name for name, c in vectors.items() if c == 1])
+
+    shape_lines: List[str] = []
+    shape_lines.append("## Shape of the week")
+    shape_lines.append("")
+    shape_lines.append(f"- **Vector span:** {vector_span}")
+    shape_lines.append(f"- **Channel span:** {channel_span}")
+    shape_lines.append(f"- **Law span:** {law_span}")
+    if dominant_themes:
+        shape_lines.append(
+            f"- **Dominant vector cluster:** {', '.join(dominant_themes[:4])}"
+        )
+    if unique_vectors:
+        shape_lines.append(
+            f"- **Unique vectors (count = 1):** {', '.join(unique_vectors)}"
+        )
+    shape_lines.append("")
+
+    # Build Markdown
     lines: List[str] = []
     lines.append(f"# Weekly Snapshot {week_id}")
     lines.append("")
@@ -144,48 +213,36 @@ def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
     lines.append("")
     lines.append("---")
     lines.append("")
+
     if mermaid_pie_lines:
         lines.append("## Vector distribution (top 5)")
         lines.append("")
         lines.extend(mermaid_pie_lines)
         lines.append("")
 
-    # Top channels
-    if top_channels:
-        lines.append("## Top channels")
+    if mermaid_channel_bar:
+        lines.append("## Channel distribution (top 5)")
         lines.append("")
-        lines.append("| channel | count |")
-        lines.append("|---------|-------|")
-        for name, count in top_channels:
-            lines.append(f"| {name} | {count} |")
+        lines.extend(mermaid_channel_bar)
         lines.append("")
 
-    # Top vectors
-    if top_vectors:
-        lines.append("## Top vectors")
+    if mermaid_law_bar:
+        lines.append("## Law distribution (top 5)")
         lines.append("")
-        lines.append("| vector | count |")
-        lines.append("|--------|-------|")
-        for name, count in top_vectors:
-            lines.append(f"| {name} | {count} |")
+        lines.extend(mermaid_law_bar)
         lines.append("")
 
-    # Top laws
-    if top_laws:
-        lines.append("## Top laws")
+    if matrix_lines:
         lines.append("")
-        lines.append("| law | count |")
-        lines.append("|-----|-------|")
-        for name, count in top_laws:
-            lines.append(f"| {name} | {count} |")
-        lines.append("")
+        lines.extend(matrix_lines)
 
-    notes = summary.get("notes")
     if notes:
         lines.append("## Notes")
         lines.append("")
         lines.append(notes)
         lines.append("")
+
+    lines.extend(shape_lines)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text("\n".join(lines), encoding="utf-8")
