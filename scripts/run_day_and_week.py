@@ -96,8 +96,21 @@ def rebuild_weekly_register(week_start: date, week_end: date, week_id: str) -> W
 
 # ---------- MARKDOWN VISUALIZATION HELPER ----------
 
+from typing import Dict, Any, List, Tuple
+from pathlib import Path
+from nore_ai.models.weekly import WeeklyRegister
+
+
 def _top_n(d: Dict[str, int], n: int = 5) -> List[Tuple[str, int]]:
     return sorted(d.items(), key=lambda kv: (-kv[1], kv[0]))[:n]
+
+
+def _bar(count: int, max_count: int, width: int = 20) -> str:
+    if max_count <= 0:
+        return ""
+    # scale to width, at least 1 block if count > 0
+    blocks = max(1 if count > 0 else 0, round(count / max_count * width))
+    return "█" * blocks
 
 
 def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
@@ -134,28 +147,7 @@ def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
             mermaid_pie_lines.append(f'    "{name}" : {count}')
         mermaid_pie_lines.append("```")
 
-    # Channel bar chart
-    mermaid_channel_bar: List[str] = []
-    if top_channels:
-        mermaid_channel_bar.append("```mermaid")
-        mermaid_channel_bar.append("bar")
-        mermaid_channel_bar.append('    title Channels (top 5)')
-        for name, count in top_channels:
-            mermaid_channel_bar.append(f'    "{name}" : {count}')
-        mermaid_channel_bar.append("```")
-
-    # Law bar chart
-    mermaid_law_bar: List[str] = []
-    if top_laws:
-        mermaid_law_bar.append("```mermaid")
-        mermaid_law_bar.append("bar")
-        mermaid_law_bar.append('    title Laws (top 5)')
-        for name, count in top_laws:
-            mermaid_law_bar.append(f'    "{name}" : {count}')
-        mermaid_law_bar.append("```")
-
     # Optional channel→vector matrix
-    # Expecting: weekly.channel_vectors: Dict[channel, Dict[vector, int]]
     channel_vectors: Dict[str, Dict[str, int]] = getattr(weekly, "channel_vectors", {}) or {}
     matrix_lines: List[str] = []
     if channel_vectors and top_channels and top_vectors:
@@ -220,16 +212,26 @@ def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
         lines.extend(mermaid_pie_lines)
         lines.append("")
 
-    if mermaid_channel_bar:
+    # Channel distribution: Markdown table + ASCII bar
+    if top_channels:
         lines.append("## Channel distribution (top 5)")
         lines.append("")
-        lines.extend(mermaid_channel_bar)
+        lines.append("| channel | count | bar |")
+        lines.append("|---------|-------|-----|")
+        max_c = top_channels[0][1]
+        for name, count in top_channels:
+            lines.append(f"| {name} | {count} | {_bar(count, max_c)} |")
         lines.append("")
 
-    if mermaid_law_bar:
+    # Law distribution: Markdown table + ASCII bar
+    if top_laws:
         lines.append("## Law distribution (top 5)")
         lines.append("")
-        lines.extend(mermaid_law_bar)
+        lines.append("| law | count | bar |")
+        lines.append("|-----|-------|-----|")
+        max_l = top_laws[0][1]
+        for name, count in top_laws:
+            lines.append(f"| {name} | {count} | {_bar(count, max_l)} |")
         lines.append("")
 
     if matrix_lines:
