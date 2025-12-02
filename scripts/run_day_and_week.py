@@ -93,6 +93,98 @@ def rebuild_weekly_register(week_start: date, week_end: date, week_id: str) -> W
     )
     return weekly
 
+def _top_n(d: Dict[str, int], n: int = 5) -> List[Tuple[str, int]]:
+    return sorted(d.items(), key=lambda kv: (-kv[1], kv[0]))[:n]
+
+def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
+    """
+    Render a simple weekly snapshot as Markdown.
+
+    This is non-interpretive: it just surfaces counts and dominant themes.
+    """
+    week_id = weekly.id
+    week_start = weekly.week_start.isoformat()
+    week_end = weekly.week_end.isoformat()
+    event_count = weekly.event_count
+
+    summary: Dict[str, Any] = weekly.summary or {}
+    dominant_themes: List[str] = summary.get("dominant_themes") or []
+
+    channels = weekly.channels or {}
+    vectors = weekly.vectors or {}
+    laws = weekly.laws or {}
+
+    top_channels = _top_n(channels, n=5)
+    top_vectors = _top_n(vectors, n=5)
+    top_laws = _top_n(laws, n=5)
+
+    # Build a tiny Mermaid pie chart for vectors (if any)
+    mermaid_pie_lines: List[str] = []
+    if vectors:
+        mermaid_pie_lines.append("```mermaid")
+        mermaid_pie_lines.append("pie showData")
+        for name, count in top_vectors:
+            mermaid_pie_lines.append(f'    "{name}" : {count}')
+        mermaid_pie_lines.append("```")
+
+    # Markdown content
+    lines: List[str] = []
+    lines.append(f"# Weekly Snapshot {week_id}")
+    lines.append("")
+    lines.append(f"- **Range:** {week_start} → {week_end}")
+    lines.append(f"- **Total events:** {event_count}")
+    if dominant_themes:
+        lines.append(f"- **Dominant themes:** {', '.join(dominant_themes)}")
+    else:
+        lines.append("- **Dominant themes:** (none)")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    if mermaid_pie_lines:
+        lines.append("## Vector distribution (top 5)")
+        lines.append("")
+        lines.extend(mermaid_pie_lines)
+        lines.append("")
+
+    # Top channels
+    if top_channels:
+        lines.append("## Top channels")
+        lines.append("")
+        lines.append("| channel | count |")
+        lines.append("|---------|-------|")
+        for name, count in top_channels:
+            lines.append(f"| {name} | {count} |")
+        lines.append("")
+
+    # Top vectors
+    if top_vectors:
+        lines.append("## Top vectors")
+        lines.append("")
+        lines.append("| vector | count |")
+        lines.append("|--------|-------|")
+        for name, count in top_vectors:
+            lines.append(f"| {name} | {count} |")
+        lines.append("")
+
+    # Top laws
+    if top_laws:
+        lines.append("## Top laws")
+        lines.append("")
+        lines.append("| law | count |")
+        lines.append("|-----|-------|")
+        for name, count in top_laws:
+            lines.append(f"| {name} | {count} |")
+        lines.append("")
+
+    notes = summary.get("notes")
+    if notes:
+        lines.append("## Notes")
+        lines.append("")
+        lines.append(notes)
+        lines.append("")
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text("\n".join(lines), encoding="utf-8")
 
 def main(date_str: str) -> None:
     day = parse_date(date_str)
