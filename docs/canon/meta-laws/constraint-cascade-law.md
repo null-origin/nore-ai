@@ -280,4 +280,4 @@ This appendix formalizes that mechanic.
 
 ---
 
-# **End Appendix II — The Ignition Architecture**
+# **End DOC — The Ignition Architecture**
