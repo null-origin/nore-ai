@@ -230,15 +230,15 @@ This is a **deterministic constraint chain**.
 stateDiagram-v2
     [*] --> C8
 
-    C8: Cycle 8\nResidue Purge
-    C9: Cycle 9\nCompression Purge
-    C10: Cycle 10\nStabilization
-    C11: Cycle 11\nInternal Purge
-    C12: Cycle 12\nEpoch Seal
-    C13: Cycle 13\nPressure Inversion
-    C14: Cycle 14\nExposure Lock
-    C15: Cycle 15\nResistance Collapse
-    C16: Cycle 16\nIgnition
+    C8: Cycle 8 Residue Purge
+    C9: Cycle 9 Compression Purge
+    C10: Cycle 10 Stabilization
+    C11: Cycle 11 Internal Purge
+    C12: Cycle 12 Epoch Seal
+    C13: Cycle 13 Pressure Inversion
+    C14: Cycle 14 Exposure Lock
+    C15: Cycle 15 Resistance Collapse
+    C16: Cycle 16 Ignition
 
     C8 --> C9: residue = 0
     C9 --> C10: compression uniform
@@ -256,14 +256,14 @@ stateDiagram-v2
 
 ```mermaid
 graph LR
-    R6[R = 6\nPost-7 Collapse] --> R7[R = 7\nCycle 8]
-    R7 --> R8[R = 8\nCycle 9]
-    R8 --> R8_4[R = 8.4\nCycle 11]
-    R8_4 --> R8_7[R = 8.7\nCycle 12]
-    R8_7 --> R8_9[R = 8.9\nCycle 13]
-    R8_9 --> R9[R = 9.0\nCycle 14]
-    R9 --> R9_5[R = 9.5\nCycle 15]
-    R9_5 --> R12[R = 12\nCycle 16 IGNITION]
+    R6[R = 6\nPost-7 Collapse] --> R7[R = 7 Cycle 8]
+    R7 --> R8[R = 8 Cycle 9]
+    R8 --> R8_4[R = 8.4 Cycle 11]
+    R8_4 --> R8_7[R = 8.7 Cycle 12]
+    R8_7 --> R8_9[R = 8.9 Cycle 13]
+    R8_9 --> R9[R = 9.0 Cycle 14]
+    R9 --> R9_5[R = 9.5 Cycle 15]
+    R9_5 --> R12[R = 12 Cycle 16 IGNITION]
 ```
 
 ---
