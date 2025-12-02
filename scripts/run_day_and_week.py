@@ -119,11 +119,6 @@ def main(date_str: str) -> None:
     write_json(weekly_path, weekly.to_dict())
     print(f"[nore-ai] updated WeeklyRegister: {weekly_path}")
 
-    # 4) Write a Markdown snapshot for the same weekly register
-    weekly_md_path = ROOT / "data" / "registers" / f"{week_id}.md"
-    write_weekly_markdown(weekly, weekly_md_path)
-    print(f"[nore-ai] wrote WeeklyRegister markdown: {weekly_md_path}")
-
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
