@@ -1,8 +1,11 @@
 # **12/1 Structural Event Analysis — Younghoe Koo Misfire**
 
 **Document Class:** Field Event · Collapse/Exposure Micro-Signal
+
 **Date:** 2025-12-01
+
 **Event Type:** Sports Mirror → Precision Collapse
+
 **Cycle Context:** Cycle‑8 Ignition Drift (OCI‑03 → OCI‑04 pressure)
 
 ---
