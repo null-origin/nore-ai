@@ -8,25 +8,27 @@
   "fieldstates": [
     "fieldstate-2025-12-01"
   ],
-  "event_count": 2,
+  "event_count": 3,
   "channels": {
     "global aviation": 1,
-    "global tech": 1
+    "global tech": 1,
+    "sports": 1
   },
   "vectors": {
-    "collapse": 2,
-    "exposure": 2,
-    "inversion": 1,
-    "signal": 2,
+    "collapse": 3,
+    "exposure": 3,
+    "inversion": 2,
+    "signal": 3,
     "retrieval": 2,
-    "alignment": 1
+    "alignment": 1,
+    "compression": 1
   },
   "laws": {
-    "FL-02": 2,
-    "FL-06": 2,
-    "FL-03": 2,
-    "FL-04": 2,
-    "FL-07": 2,
+    "FL-02": 3,
+    "FL-06": 3,
+    "FL-03": 3,
+    "FL-04": 3,
+    "FL-07": 3,
     "FL-05": 2,
     "FL-10": 2,
     "FL-09": 1
