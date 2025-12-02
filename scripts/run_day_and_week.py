@@ -108,9 +108,8 @@ def _top_n(d: Dict[str, int], n: int = 5) -> List[Tuple[str, int]]:
 def _bar(count: int, max_count: int, width: int = 20) -> str:
     if max_count <= 0:
         return ""
-    # scale to width, at least 1 block if count > 0
     blocks = max(1 if count > 0 else 0, round(count / max_count * width))
-    return "█" * blocks
+    return "■" * blocks
 
 
 def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
