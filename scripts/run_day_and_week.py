@@ -105,11 +105,18 @@ def _top_n(d: Dict[str, int], n: int = 5) -> List[Tuple[str, int]]:
     return sorted(d.items(), key=lambda kv: (-kv[1], kv[0]))[:n]
 
 
-def _bar(count: int, max_count: int, width: int = 20) -> str:
-    if max_count <= 0:
+def _bar(count: int, max_count: int, max_width: int = 20, char: str = "▰") -> str:
+    """
+    Draw a bar whose length is:
+      - proportional to count
+      - but never explodes when max_count is very small
+    """
+    if count <= 0:
         return ""
-    blocks = max(1 if count > 0 else 0, round(count / max_count * width))
-    return "■" * blocks
+    # Use at least 10 as the scale so tiny weeks don't give full-width bars.
+    denom = max(max_count, 10)
+    blocks = max(1, round(count / denom * max_width))
+    return char * blocks
 
 
 def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
@@ -232,6 +239,7 @@ def write_weekly_markdown(weekly: WeeklyRegister, out_path: Path) -> None:
         for name, count in top_laws:
             lines.append(f"| {name} | {count} | {_bar(count, max_l)} |")
         lines.append("")
+
 
     if matrix_lines:
         lines.append("")
