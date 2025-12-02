@@ -1,162 +1,126 @@
-**Bands · Structural Windows & Field-Level Temporal Maps**
-==========================================================
+# **Bands · Time-Bounded Structural Windows**
 
-Bands are **time-bounded field windows** that capture _what the field does when a specific structural condition is active_.They are not cycles, and they are not event logs.They are **meso-scale intervals** where the field expresses a coherent, identifiable geometry.
+The **bands** directory contains documents that map **time‑bounded field behaviors**—windows where the external field responds as a coherent unit to an axis-level event. These bands sit *above* single-cycle documents and *below* long-horizon architecture. They represent the field’s short- to mid-range structural adjustments.
 
-Bands answer the question:
+Bands are not cycles. They are:
 
-> **“What was the field doing during this window, and why?”**
+* **temporal compression windows**,
+* **inversion or collapse bands**, or
+* **field‑level diagnostic sequences**.
 
-They provide a middle layer between **daily events** and **cycle-wide architecture**, making them essential for analysis, compression logic, and cross-band comparison.
+Each band captures how the field reorganizes around a structural action or absence.
 
-**1\. Purpose of the bands/ Folder**
-------------------------------------
+---
 
-This folder stores all documents that describe:
+## **1. Purpose of Band Documents**
 
-*   **Temporal inversion or correction windows**
-    
-*   **Pre-/post-cycle compression intervals**
-    
-*   **Macro-field reflection periods**
-    
-*   **Axis-removal or axis-return responses**
-    
-*   **Sudden cluster windows where field data coheres**
-    
+Band documents explain:
 
-Bands provide:
+* What triggered the window
+* How the field reacted
+* The sequence of inversion → exposure → collapse → stabilization
+* How the window interfaces with active cycles
+* What structural information the field reveals under compression
 
-*   A **narrative-free structural read** of what happened
-    
-*   The **conditions** that produced the behavior
-    
-*   The **vectors** and **field laws** that governed the window
-    
-*   How the band **connects to active cycles**
-    
+Bands create clarity in moments where multiple signals cluster tightly and behave as a unified pattern.
 
-They sit alongside mid-band (8–16) and long-horizon (16–32) architecture, giving crucial temporal texture.
+---
 
-**2\. What Qualifies as a Band?**
----------------------------------
+## **2. Placement Within the Cycle Architecture**
 
-A band must satisfy **at least two** of the following:
+Bands fill the gap between:
 
-### **A. Field coherence across multiple domains**
+**Cycle-level structure** — long-form correction passes bound to radius geometry.
 
-Markets, politics, cultural systems, personal vectors all echo the same geometry.
+**Event-level logs** — granular, per-day event documentation.
 
-### **B. Sudden compression or acceleration**
+A band explains why a series of events form a *single structural response* rather than isolated occurrences.
 
-Time tightens, signals cluster, narratives dissolve.
+---
 
-### **C. A definable structural trigger**
+## **3. When a Band Is Created**
+
+A time-bounded band is created when:
+
+* The field enters a **rapid structural reconfiguration window**
+* Signals cluster across domains (macro, relational, cultural, corporate)
+* The geometry expresses **coherence** rather than noise
+* The window influences or pressures the active cycle band
+
+Typically, bands form around:
+
+* Axis removal or re-entry
+* Systemic inversion thresholds
+* Pre-ignition compression sequences
+* Contact or reflection windows
+
+---
+
+## **4. Current Band Documents in This Folder**
+
+### **• September–October 2025 Global Inversion Band (v1)**
+
+`band-2025-09-10_global-inversion-map.md`
+
+Covers 9/1 → 10/31/2025.
+
+Maps the field’s global inversion cascade immediately following the 9/5 axis removal event. Explains drift, inversion, terminal expansion, collapse surfacing, and compression.
+
+---
+
+## **5. How to Add New Bands**
+
+Use the following naming convention:
+
+```
+band-YYYY-MM[-DD]_short-title.md
+```
 
 Examples:
 
-*   axis removal
-    
-*   origin-pressure onset
-    
-*   inversion threshold
-    
-*   containment collapse
-    
+* `band-2026-05_pre-ignition-bridge.md`
+* `band-2027-02_contact-window.md`
 
-### **D. A mappable entrance and exit**
+Each band document should include:
 
-The band has a **where it starts** and **how it ends**, even if approximate.
+* **Window definition:** exact dates
+* **Trigger event:** what initiated the band
+* **Field behavior:** inversion, collapse, exposure, retrieval, alignment
+* **Sequence:** step-by-step progression inside the window
+* **Cycle interaction:** how the band modifies or pressures the active cycle
+* **Structural takeaway:** what this window revealed
 
-If these conditions are not met, the interval belongs in a **daily log** or **cycle register**, not as a band.
+---
 
-**3\. Naming Convention**
--------------------------
+## **6. Relationship to Registers and Cycles**
 
-Files follow this structure:
+**Bands are interpretive layers.** They integrate:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   band-YYYY-MM[_DD]-short-title.md   `
+* Event logs
+* Cycle canon
+* Field laws
+* Radius geometry
 
-Examples:
+They do *not* replace cycle definitions. Instead, they:
 
-*   band-2025-09-10\_global-inversion-map.md
-    
-*   band-2026-03\_pre-bridge-convergence.md
-    
-*   band-2027-08\_partner-stabilization-window.md
-    
+* Provide clarity for dense or ambiguous periods
+* Show how the field reacts at scale
+* Highlight inversion mechanics or collapse cascades
+* Create clean boundaries inside the longer arcs
 
-Use the **earliest date that defines the window**, not the date the document was written.
+---
 
-Short titles should reflect **function**, not emotion or narrative.
+## **7. Summary**
 
-**4\. Current Bands**
----------------------
+The **bands** directory is the home for:
 
-*   **Sept–Oct 2025 Global Inversion Band — Structural Map (v1)**File: band-2025-09-10\_global-inversion-map.mdFunction: Field-wide inversion triggered by Axis removal on 9/5/2025.
-    
+* **Time-bounded structural windows**
+* **Compression or inversion periods**
+* **Field-wide responses to axis-level events**
+* **Short-arc patterns that influence cycle behavior**
 
-More bands will appear as windows become structurally identifiable.
+Each band helps contextualize rapid change by mapping the field’s coherent behavior inside a defined temporal shell.
 
-**5\. How Bands Connect to Cycles**
------------------------------------
+---
 
-Bands are not cycles.They are **temporal overlays** that:
-
-*   reveal how the field expresses the current cycle’s pressure
-    
-*   segment the cycle into meaningful operational windows
-    
-*   expose transitions between cycle phases
-    
-*   provide triggers or resolution points for mid-band (8–16) and horizon (16–32) logic
-    
-
-Example:
-
-*   The **Sept–Oct 2025 inversion band** is not Cycle 8.It’s the **pre-ignition inversion window** that explains why Cycle 8 behaves the way it does.
-    
-
-Bands = the operating **texture** of cycles.
-
-**6\. Adding a New Band**
--------------------------
-
-When creating a new band document:
-
-1.  Identify the **start condition** (collapse, inversion, drift, compression, ignition pressure).
-    
-2.  Identify the **end condition** (field stabilization, closure, ignition, signal dissipation).
-    
-3.  Map the window using:
-    
-    *   vectors
-        
-    *   field laws
-        
-    *   relevant cycle pressures
-        
-    *   any cross-domain resonance
-        
-4.  Save using the naming convention (Section 3).
-    
-5.  Link it in this README under _Current Bands_.
-    
-
-A band should never contradict cycle architecture—only reveal **how** the cycle expresses itself across time.
-
-**7\. Why Bands Matter**
-------------------------
-
-Cycles define **structure**.Bands define **behavior**.
-
-Cycles = invariant geometry.Bands = temporal expression of that geometry.
-
-Together, they form the complete model:
-
-*   **Cycles:** what the field _is doing_ structurally
-    
-*   **Bands:** how the field _behaves_ across time
-    
-
-Understanding both is required for accurate NORE/NOCA synchronization and long-horizon prediction.
+**End of bands README**
