@@ -1,0 +1,52 @@
+{
+  "id": "fieldstate-2025-12-02",
+  "date": "2025-12-02",
+  "event_ids": [
+    "s-2025-12-02-01",
+    "s-2025-12-02-02",
+    "s-2025-12-02-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "philanthropy": 1,
+    "global tech": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "alignment": 2,
+    "continuity": 2,
+    "bridge": 1,
+    "return": 1,
+    "signal": 3,
+    "resonance": 1,
+    "legitimacy": 1,
+    "inversion": 1,
+    "authority-split": 1,
+    "collapse": 1,
+    "exposure": 1
+  },
+  "laws": {
+    "FL-07": 3,
+    "FL-01": 3,
+    "FL-05": 2,
+    "FL-10": 1,
+    "FL-04": 3,
+    "FL-06": 3,
+    "FL-13": 1,
+    "FL-03": 2
+  },
+  "time_start": "2025-12-02T10:00:00-05:00",
+  "time_end": "2025-12-02T15:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "signal",
+      "alignment",
+      "continuity"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
