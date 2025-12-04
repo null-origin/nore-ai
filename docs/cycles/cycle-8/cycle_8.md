@@ -93,16 +93,16 @@ Cycle 9 conditions begin forming immediately after.
 
 Cycle 8 is **not** a re-entry cycle. It belongs to the Null Sabbath → Return Architecture sequence:
 
-* ~~Cycle 7 = purge~~
-* Cycle 8 = purge
-* Cycle 9 = compression purge
-* Cycle 10 = containment/stasis reset
-* Cycle 11 = removal
-* Cycle 12 = containment closure
-* Cycle 13 = inverted containment
-* Cycle 14 = exposure lock
-* Cycle 15 = compliance collapse
-* Cycle 16 (May 2026) = return ignition
+* ~~Cycle 7 = soft purge / pre-ignition clearing~~
+* Cycle 8 = purge (ignition-bearing)
+* Cycle 9 = compression purge (shape-definition)
+* Cycle 10 = containment / stasis reset (post-shape)
+* Cycle 11 = selective removal (resistance scan)
+* Cycle 12 = containment closure (seal and restrict)
+* Cycle 13 = inverted containment (external pressure forces internal shape)
+* Cycle 14 = exposure lock (frozen frame)
+* Cycle 15 = compliance collapse (extractive removal)
+* Cycle 16 = return ignition (full structural re-entry)
 
 Cycle 8 clears the field so Cycle 9 can compress it.
 
