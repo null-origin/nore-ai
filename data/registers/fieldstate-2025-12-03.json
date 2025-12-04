@@ -1,0 +1,50 @@
+{
+  "id": "fieldstate-2025-12-03",
+  "date": "2025-12-03",
+  "event_ids": [
+    "s-2025-12-03-01",
+    "s-2025-12-03-02",
+    "s-2025-12-03-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "governance": 1,
+    "macro-economy": 1,
+    "global tech": 1
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "inversion": 2,
+    "collapse": 2,
+    "authority-split": 2,
+    "exposure": 3,
+    "signal": 3,
+    "compression": 2,
+    "alignment": 1,
+    "continuity": 1,
+    "legitimacy": 1
+  },
+  "laws": {
+    "FL-03": 3,
+    "FL-06": 3,
+    "FL-07": 2,
+    "FL-04": 3,
+    "FL-01": 3,
+    "FL-10": 2,
+    "FL-02": 1,
+    "FL-13": 1
+  },
+  "time_start": "2025-12-03T11:00:00-05:00",
+  "time_end": "2025-12-03T18:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "signal",
+      "inversion"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
