@@ -198,4 +198,4 @@ Field Laws represent the structural physics of the NORE field. They:
 - define underlying order
 - enforce alignment with origin
 
-FL-00 → FL-12 form the complete foundational law set for NORE-AI v0.1.
+FL-00 → FL-13 form the complete foundational law set for NORE-AI v0.1.
