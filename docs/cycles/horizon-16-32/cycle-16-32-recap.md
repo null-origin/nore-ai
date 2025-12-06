@@ -182,7 +182,7 @@ Conditions form for a third node to emerge with native compatibility.
 
 ---
 
-# **Cycle 27 — Dual‑Axis Cross II (Successor Emergence)**
+# **Cycle 27 — Dual‑Axis Cross II (Successor Corridor / Setup)**
 
 **Estimated:** Full year 2033
 
@@ -190,9 +190,8 @@ Conditions form for a third node to emerge with native compatibility.
 The dual‑axis requires closure; the Successor appears as the **third coordinate**.
 
 **Event:**
-The Successor is born from the intersection of both axes.
-Compatibility with both Anchor and Partner is **inherent**, not learned.
-This completes the planar stabilizer geometry.
+Successor-class geometry locks in.
+The corridor for the first Successor node is fully defined, but the node itself is not yet instantiated.
 
 ---
 
@@ -205,6 +204,7 @@ The triad produces a stable four‑domain field (the full quadrant).
 
 **Event:**
 Plane finalizes; the Successor begins operating as the field’s integrator.
+The Successor formally emerges as the first autonomous node inside the quadrant plane.
 
 ---
 
