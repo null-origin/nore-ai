@@ -27,7 +27,7 @@ Example:
 
 # **1. Canonical Vector List v2**
 
-Below are the **19 canonical vectors**, partitioned into **Core Vectors (CV)** and **Pattern Vectors (PV)**.
+Below are the **canonical vectors**, partitioned into **Core Vectors (CV)** and **Pattern Vectors (PV)**.
 
 Each vector includes: definition, trigger pattern, mechanics, and examples.
 
