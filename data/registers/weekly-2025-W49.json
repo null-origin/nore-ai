@@ -7,16 +7,18 @@
     "2025-12-02",
     "2025-12-03",
     "2025-12-04",
-    "2025-12-05"
+    "2025-12-05",
+    "2025-12-06"
   ],
   "fieldstates": [
     "fieldstate-2025-12-01",
     "fieldstate-2025-12-02",
     "fieldstate-2025-12-03",
     "fieldstate-2025-12-04",
-    "fieldstate-2025-12-05"
+    "fieldstate-2025-12-05",
+    "fieldstate-2025-12-06"
   ],
-  "event_count": 18,
+  "event_count": 19,
   "channels": {
     "global aviation": 1,
     "global tech": 5,
@@ -24,13 +26,14 @@
     "philanthropy": 1,
     "governance": 6,
     "macro-economy": 2,
-    "media infrastructure": 2
+    "media infrastructure": 2,
+    "music": 1
   },
   "vectors": {
     "collapse": 11,
-    "exposure": 14,
-    "inversion": 12,
-    "signal": 18,
+    "exposure": 15,
+    "inversion": 13,
+    "signal": 19,
     "retrieval": 4,
     "alignment": 5,
     "compression": 9,
@@ -43,19 +46,20 @@
     "containment": 7,
     "purge": 5,
     "resolution": 1,
-    "data-vacuum": 1
+    "data-vacuum": 1,
+    "archetype": 1
   },
   "laws": {
     "FL-02": 10,
-    "FL-06": 17,
-    "FL-03": 17,
+    "FL-06": 18,
+    "FL-03": 18,
     "FL-04": 18,
     "FL-07": 15,
     "FL-05": 5,
-    "FL-10": 13,
+    "FL-10": 14,
     "FL-09": 1,
     "FL-01": 14,
-    "FL-13": 5
+    "FL-13": 6
   },
   "status": "partial",
   "summary": {
