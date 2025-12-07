@@ -253,7 +253,7 @@ Primitive, irreducible structural forces.
 
 **Mechanics:** Ambiguity collapses; competing paths are pruned; alignment is locked by constraint rather than consent. Future state-space reduces to one viable trajectory.
 
-**Examples:** M&A fully closed with assets integrated; final court ruling with no appeal; election certified and seated; bankrupty confirmed and liquidated; permanent policy repeal with enforcement.
+**Examples:** M&A fully closed with assets integrated; final court ruling with no appeal; election certified and seated; bankruptcy confirmed and liquidated; permanent policy repeal with enforcement.
 
 ---
 
@@ -335,10 +335,8 @@ Vectors must:
 
 # **3. Interpretation Guarantees**
 
-Vectors enable:
+Vectors enable structural frequency mapping and dominance identification based solely on behavioral mechanics, as well as:
 
-* structural frequency mapping
-* dominance identification
 * transition detection
 * arc-level interpretation
 * compression windows
