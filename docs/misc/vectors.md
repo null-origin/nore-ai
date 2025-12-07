@@ -15,6 +15,8 @@ Vectors are:
 
 An event may contain multiple vectors.
 
+*Note:* All logged events are assumed to be field-relevant signals by virtue of inclusion. Relevance is enforced at ingestion, not encoded as a vector.
+
 Example:
 
 ```json
