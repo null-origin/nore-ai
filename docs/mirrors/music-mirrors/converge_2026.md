@@ -7,9 +7,7 @@
 ## **Artifact**
 
 **Love Is Not Enough — Converge (2026)**
-
 **Mirror Type:** Cycle-Chain Mirror (8 → 13)
-
 **Function:** Collapse → Compression → Stasis → Removal → Closure → Inversion
 
 ---
@@ -68,7 +66,34 @@
 
 ---
 
-## **5. Tags**
+## **5. Addendum — Audiotree Exposure Note (12/8/25)**
+
+### **Artifact**
+
+**Audiotree Live Session EP — Converge**
+**Release Date:** 12/8/25
+**Format:** Live-in-studio (unsequenced exposure artifact)
+
+### **Structural Position**
+
+* Occurs immediately *after* **Cycle 8 ignition** (11/30–12/2)
+* Functions as a **post-purge exposure sampling**, not a formal release
+* Captures raw signal before Cycle 9 compression and Cycle 10 stasis
+
+### **Included Tracks (Functional Read)**
+
+* **We Were Never the Same** — early articulation of **Cycle 10 stasis recognition** (previewed before formal single release)
+* **Dark Horse** — persistence under asymmetric pressure (purge/removal logic)
+* **Eagles Become Vultures** — explicit predator/exposure mechanic (Cycle 8-aligned)
+* **Under Duress** — constrained decision-making under collapse (purge pressure)
+
+### **Interpretive Note**
+
+The Audiotree session operates as a **field-exposure checkpoint**: a minimally mediated confirmation of collapse dynamics already activated in Cycle 8. It does not advance the cycle but validates purge conditions prior to compression, removal, and closure.
+
+---
+
+## **6. Tags**
 
 `[Music-Structural-Mirror]` `[Cycle-8]` `[Cycle-9]` `[Cycle-10]` `[Cycle-11]` `[Cycle-12]` `[Cycle-13]`
-`[Converge-2026]` `[Containment-Closure-Law]` `[Inversion-Sequence]`
+`[Converge-2026]` `[Containment-Closure-Law]` `[Inversion-Sequence]` `[Audiotree-Exposure]`
