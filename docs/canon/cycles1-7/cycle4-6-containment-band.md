@@ -1,6 +1,6 @@
 # **Cycle 4–6 Canon — The Containment Misinterpretation Band**
 
-### **(2023–2025) — Praise → Dependency → Drift → Suppression → Collapse**
+### **(2023–2025) — Praise → Dependency → Drift → Suppression → Failure**
 
 ---
 
@@ -8,106 +8,110 @@
 
 Cycles **4, 5, and 6** form a single structural phenomenon:
 
-> **Containment Misinterpretation Band** — the stage where a system praises the axis for stabilizing it, becomes dependent on that stabilization, and collapses when that dependency becomes intolerable.
+> **Containment Misinterpretation Band** — the stage where a system praises an axis for stabilizing it, becomes dependent on that stabilization, and fails when that dependency becomes structurally intolerable.
 
-This period precedes **Cycle 7 (Containment Failure)** and explains the mechanics that produced the 2025 severance.
+This band precedes **Cycle 7 (Containment Failure)** and explains the internal mechanics that made the 2025 severance unavoidable.
 
 ---
 
-# **1. Praise as Misinterpretation (Cycle 4)**
+## **1. Praise as Misinterpretation (Cycle 4)**
 
-Containment systems cannot recognize a fixed axis. They only see:
+Containment systems cannot perceive a fixed axis. They only register secondary effects:
 
 * reliability
 * initiative
 * strategic clarity
 * stabilizing presence
-* cross-functional fluency
+* cross‑functional fluency
 
-Thus praise emerges as **misclassification**:
+Praise therefore emerges as **misclassification**:
 
-> *The system applauds the artifact of stability without understanding the origin of stability.*
+> *The system applauds the artifact of stability without recognizing the source of stability.*
 
-Jillian’s 2023 praise reflects this dynamic exactly.
+This praise is not insight. It is a surface reading of invariant output.
 
 ---
 
-# **2. Load Routing into the Axis**
+## **2. Load Routing into the Axis**
 
-As instability increases, the system silently routes load into the axis:
+As ambient instability rises, the system reflexively routes load into the stillest point:
 
 * leadership drift compensation
-* CX journey architecture
-* analytics + segmentation
-* narrative continuity
-* AOP glue-work
+* CX and journey coherence
+* analytics and segmentation continuity
+* narrative glue work
+* AOP and planning reconciliation
 
-This is not reward; it is **reflexive stabilization**.
+This is not reward. It is **reflexive stabilization**.
 
-> **Load always flows to the stillest point.**
-
----
-
-# **3. Recognition without Understanding**
-
-Containment sees output but not architecture.
-
-Thus, it:
-
-* praises the artifacts,
-* increases dependency,
-* tightens its orbit around the axis,
-* relies on the axis to maintain coherence.
-
-This produces the *illusion* of upward motion.
+> **Load always migrates toward invariant structure.**
 
 ---
 
-# **4. Inversion Begins (Cycle 5)**
+## **3. Recognition Without Understanding**
 
-Cycle 5 corresponds with the Bridge’s emergence.
+Containment can observe output but not architecture.
+
+As a result, it:
+
+* praises artifacts instead of causes,
+* increases reliance without comprehension,
+* tightens operational orbit around the axis,
+* confuses dependency with growth.
+
+This produces the **illusion of upward trajectory** while silently increasing load.
+
+---
+
+## **4. Inversion and Drift (Cycle 5)**
+
+Cycle 5 marks the onset of inversion.
 
 Structural effects:
 
 * relational tension increases,
 * proximity amplifies pressure,
-* praise peaks,
-* drift begins,
-* contradictions sharpen.
+* praise peaks and destabilizes,
+* contradictions sharpen,
+* drift becomes visible.
 
-Bridge drift = radius pressure, not rejection.
+Drift at this stage is not rejection.
+
+> **Drift is a radius response to excessive central pressure.**
 
 ---
 
-# **5. Suppression (Cycle 6)**
+## **5. Suppression as Defense (Cycle 6)**
 
-When dependency becomes intolerable:
+When dependency exceeds tolerable bounds, containment engages defensive contraction:
 
 * visibility narrows,
 * authority blurs,
 * relational signals withdraw,
 * leadership narrative constricts,
-* performance-to-recognition ratio distorts.
+* performance‑to‑recognition ratios distort.
 
-> **Suppression is a defense mechanism against acknowledging the axis.**
+> **Suppression is containment’s defense against acknowledging the axis.**
+
+This is not personal. It is structural avoidance.
 
 ---
 
-# **6. Collapse (Cycle 7)**
+## **6. Cycle 7 — Containment Failure (Severance Event)**
 
-Once load exceeds the containment threshold:
+Once routed load exceeds the containment threshold:
 
 * coherence fractures,
 * dependency becomes unsustainable,
-* contradictions can’t be masked,
-* Bridge cannot attach,
-* severance becomes the release valve.
+* contradictions can no longer be masked,
+* attachment mechanisms fail,
+* severance emerges as the release valve.
 
-This mechanically produced the 9/5/25 collapse.
+The 9/5/25 event is explained mechanically by this sequence.
 
 ---
 
-# **Structural Diagram — Praise → Collapse Sequence**
+## **Structural Diagram — Praise → Failure Sequence**
 
 ```
          ┌─────────────┐
@@ -118,38 +122,38 @@ This mechanically produced the 9/5/25 collapse.
                 │
                 ▼
         ┌──────────────┐
-        │  CYCLE 4-5   │
+        │  CYCLE 4–5   │
         │ Load Routing │
         │ (Dependency) │
         └──────┬───────┘
                │
                ▼
       ┌────────────────┐
-      │   CYCLE 5     │
-      │ Inversion     │
-      │ (Bridge Arc)  │
-      └──────┬────────┘
+      │   CYCLE 5      │
+      │ Inversion      │
+      │ (Drift)        │
+      └──────┬─────────┘
              │
              ▼
     ┌──────────────────┐
     │    CYCLE 6       │
     │ Suppression      │
-    │ (Overload Band)  │
+    │ (Defense Band)   │
     └───────┬──────────┘
              │
              ▼
-      ┌────────────────┐
-      │   CYCLE 7     │
-      │  Collapse     │
-      │ (Severance)   │
-      └────────────────┘
+      ┌────────────────────┐
+      │   CYCLE 7          │
+      │ Containment Failure│
+      │ (Severance)        │
+      └────────────────────┘
 ```
 
 ---
 
-# **Canonical Clause**
+## **Canonical Clause**
 
-> **Containment applauds the stabilizer until the stabilizer reveals the structure. Once the structure is revealed, containment collapses. Praise is not recognition — it is the last breath before inversion.**
+> **Containment applauds the stabilizer until the stabilizer reveals structure. Once structure becomes legible, containment fails. Praise is not recognition — it is the final signal before inversion.**
 
 ---
 
