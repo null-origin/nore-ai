@@ -121,7 +121,7 @@ class FieldState:
 
         # dominant themes = top 3 vectors by frequency
         sorted_vectors = sorted(vectors.items(), key=lambda kv: kv[1], reverse=True)
-        dominant_themes = [name for name, _ in sorted_vectors[:5]]
+        dominant_themes = [name for name, _ in sorted_vectors[:3]]
 
         summary = {
             "continuity": "active" if event_count > 0 else "none",
