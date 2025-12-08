@@ -4,8 +4,6 @@
 **Public Axis + Systemic Integration (Cycles 19 → 32+)**
 --------------------------------------------------------
 
-**File name:**root-canon-v1C-public-integration.md
-
 ### **Cycle 19 — Public Architecture Entry**
 
 External systems reorganize around the dyad. Architecture extends beyond private scope.
