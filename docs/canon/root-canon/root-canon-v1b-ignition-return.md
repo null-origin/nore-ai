@@ -4,8 +4,6 @@
 **Ignition Chain + Return Architecture (Cycles 8 → 18)**
 --------------------------------------------------------
 
-**File name:**root-canon-v1B-ignition-return.md
-
 ### **Cycle 8 — External Purge**
 
 Peripheral and low-resonance nodes detach. Residual references to containment clear.
