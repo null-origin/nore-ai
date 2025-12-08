@@ -1,6 +1,6 @@
-# **OCI Sequence — Full Phase Specification (v1.0)**
+# **OCI Sequence — Full Phase Specification (v1.1)**
 
-A precise, structural, non‑interpretive description of the four phases that make up the **Origin Collapse / Contact Sequence (OCI‑01 → OCI‑04)**. Each phase corresponds to a distinct transformation in **field mechanics** and **causal geometry**. This document establishes canonical definitions for archive use.
+A precise, structural, non-interpretive specification of the four phases comprising the Origin Collapse / Contact Sequence (OCI-01 → OCI-04). Each phase corresponds to a discrete transformation in field mechanics and causal geometry. This document defines canonical OCI behavior for archive reference..
 
 ---
 
@@ -13,114 +13,114 @@ OCI is a **four‑phase mechanical sequence**:
 3. **OCI‑03 — Threshold Exposure**
 4. **OCI‑04 — Origin Contact**
 
-Each phase eliminates a specific distortion layer, culminating in the rerouting of causal flow through origin.
+Each phase removes a specific distortion layer, culminating in the rerouting of causal flow through origin.
 
 ---
 
-# **OCI‑01 — Obsession Collapse**
+# **OCI-01 — Obsession Collapse**
 
-**Purpose:** Break the outward-facing projection vector that prevents the field from routing back to origin.
+**Function:** Terminate outward-facing projection vectors that prevent field reversion toward origin.
 
-**Mechanic:** Projection → overload → collapse.
+**Mechanic:** projection → overload → collapse.
 
 ## What Occurs
 
-* External fixation loops lose stability.
-* The field removes sustaining energy from these loops.
-* Collapse happens automatically, not by effort or insight.
-* The "object" of fixation loses its gravitational pull.
+* External fixation loops lose field support.
+* Sustaining energy is withdrawn automatically.
+* Collapse occurs without effort, insight, or intervention.
+* The fixation object loses gravitational coherence.
 
 ## Observable Indicators
 
-* Former obsessions/attachments lack renewal.
-* Attempts to re-engage feel hollow.
-* Internal pressure shifts from “toward” to “away.”
+* Former obsessions fail to renew.
+* Re-engagement attempts feel inert.
+* Internal vector orientation shifts from *toward* to *away*.
 
 ## Completion Condition
 
-The field stops generating motion around the projection.
-Internal signature: **"It’s gone, and I did not remove it."**
+The field ceases generating motion around the projection.
+Internal signature: **"It is no longer present, without having been removed."**
 
 ---
 
 # **OCI‑02 — Inversion Lock**
 
-**Purpose:** Reverse false causality; reveal that external events never originate independently of origin.
+**Function:** Reverse false causality; establish origin as causally prior.
 
-**Mechanic:** cause ↔ effect inversion.
+**Mechanic:** apparent cause–effect inversion.
 
 ## What Occurs
 
-* Events begin responding after internal shifts, not before.
-* The external world loses its apparent initiating power.
-* Causality is shown to be reflexive.
+* External events register *after* internal state changes.
+* Independent external initiation loses plausibility.
+* Causality is revealed as reflexive rather than directional.
 
 ## Observable Indicators
 
-* Coincidences behave like mirrors, not random events.
-* Field pressure emerges from misalignment rather than circumstance.
-* Increasing inability to sustain the belief that events “come from outside.”
+* Coincidences function as mirrors rather than stochastic events.
+* Field pressure arises from misalignment, not circumstance.
+* Belief in independently originating external causation degrades.
 
 ## Completion Condition
 
-The system exposes external causation as non-primary.
-Functional belief in independent external cause becomes untenable.
+External causation is exposed as non-primary.
+Functional belief in independent initiation becomes untenable.
 
 ---
 
 # **OCI‑03 — Threshold Exposure**
 
-**Purpose:** Surface and remove remaining distortion-layers, false identity structures, and narrative casing.
+**Function:** Expose and eliminate remaining distortion layers, identity casings, and narrative scaffolds.
 
 **Mechanic:** structural exposure → interface dissolution.
 
 ## What Occurs
 
-* Identity constructs lose coherence.
+* Identity structures lose coherence.
 * Relational distortions surface without emotional framing.
-* The architecture of the field (its mechanisms, illusions, scaffolds) becomes visible.
-* Everything that could interfere with OCI‑04 is stripped.
+* Field architecture (mechanisms, scaffolds, illusions) becomes observable.
+* All residual interference with OCI-04 is stripped.
 
 ## Observable Indicators
 
-* Mechanical/architectural motifs appear in media, events, and patterns.
-* Observer-self feels hollow or transparent.
-* Purge sequences align with pre-scripted patterns.
-* Field behavior becomes diagnostic, not supportive.
+* Mechanical or architectural motifs recur in perception and events.
+* Observer-self becomes hollow or transparent.
+* Purge sequences align with non-negotiable patterns.
+* Field behavior becomes diagnostic rather than supportive.
 
 ## Completion Condition
 
 No distortion remains concealed.
 Identity casing becomes nonfunctional.
-This phase must fully complete before OCI‑04 can initiate.
+Completion of OCI-03 is a prerequisite for OCI-04 initiation..
 
 ---
 
 # **OCI‑04 — Origin Contact**
 
-**Purpose:** Reassign causal flow to origin; activate origin as the operative node.
+**Function:** Route causal flow through origin; activate origin as the operative node.
 
 **Mechanic:** field recognition → causal reroute → structural ignition.
 
 ## What Occurs
 
-* The field shifts from purge/exposure into coordination.
-* External systems behave as though responding to a central causal node.
-* Alignments appear with precision beyond probability.
-* Events interface rather than "impact."
+* Field behavior shifts from purge/exposure into coordination.
+* External systems behave as if responding to a central causal axis.
+* Alignments occur with precision exceeding probabilistic explanation.
+* Events interface with origin rather than imposing upon it.
 
 ## Observable Indicators
 
-* A contact event emerges that cannot be attributed to chance, intention, correlation, or narrative logic.
+* A contact event occurs that cannot be attributed to chance, intention, correlation, or narrative framing.
 * Systems reorganize around the axis without resistance.
-* Openings appear *exactly* where needed.
-* People/institutions behave as if recognizing a structural presence, not a persona.
+* Openings emerge exactly at structurally necessary locations.
+* Individuals or institutions respond to structural presence rather than persona.
 
 ## Completion Condition
 
 Causal flow routes through origin.
-Field behavior changes *externally* — not internally.
-OCI‑04 is unmistakable.
+Field behavior changes **externally**, not internally.
+OCI-04 is unambiguous.
 
 ---
 
@@ -128,23 +128,24 @@ OCI‑04 is unmistakable.
 
 | **Phase**  | **Function**        | **Mechanic**            | **Completion Signal**            |
 | ---------- | ------------------- | ----------------------- | -------------------------------- |
-| **OCI‑01** | Collapse projection | Loop breaks             | No pull remains                  |
-| **OCI‑02** | Reverse causality   | Field becomes reflexive | External no longer initiates     |
-| **OCI‑03** | Expose distortion   | Reveal + purge          | No hidden layers left            |
-| **OCI‑04** | Activate origin     | Contact + reroute       | Field behavior shifts externally |
+| **OCI‑01** | Collapse projection | Loop collapse           | No remaining pull                |
+| **OCI‑02** | Reverse causality   | Reflexive field         | External no longer initiates     |
+| **OCI‑03** | Expose distortion   | Reveal + purge          | No concealed layers              |
+| **OCI‑04** | Activate origin     | Contact + reroute       | External field shift             |
 
 ---
 
 # **Lifecycle Placement**
 
-OCI is not psychological progression; it is a **field correction sequence**.
+OCI is not a psychological progression.
+It is a **field-level correction sequence**.
 
-* OCI‑01 removes outward distortion.
-* OCI‑02 restores correct causality.
-* OCI‑03 strips interference.
-* OCI‑04 completes the realignment.
+* OCI-01 removes outward distortion.
+* OCI-02 restores correct causal ordering.
+* OCI-03 eliminates residual interference.
+* OCI-04 completes structural realignment.
 
-Current status: **late-band OCI‑03**.
+**Current status**: late-band OCI-03.
 
 ---
 
