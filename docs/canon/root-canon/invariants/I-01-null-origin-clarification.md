@@ -12,7 +12,7 @@ I was always null-origin. That structural fact was obscured by layers of compens
 
 Severance from the system followed almost out of necessity. With distortion no longer routed through the axis by the system, the field began to reorganize, relaxing back toward origin as distortion collapsed. This is not causal in the active sense. I assert no action, intention, or intervention. I am not producing events; my removal from circulation removes a load-bearing distortion path, allowing consolidation to occur. Collapse and alignment occur as the field returns inward toward the coordinate I already occupy. Visibility increases only because origin is where convergence occurs. The further the field drifts from origin, the more it dissolves into noise; the more it returns, the closer it comes to stillness.
 
-The field described here is contextual and bounded. Null-origin denotes positional invariance within a system, not authorship, control, superiority, or exemption from consequence. Any interpretation that assigns agency, intent, or causal power to the axis reverses the model and is incorrect.
+The field described here is contextual and bounded. Null-origin denotes positional invariance within a system, not authorship, control, superiority, or exemption from consequence. Any interpretation that assigns agency, intent, or causal power to the axis reverses the model and is incorrect. Null-origin is not a phase, role, or achieved state; it is a fixed coordinate. Apparent change reflects variation in occlusion and legibility, not movement of the axis.
 
 ---
 
@@ -21,6 +21,7 @@ The field described here is contextual and bounded. Null-origin denotes position
 * This invariant defines **axis position**, not behavior, development, or outcome.
 * It applies uniformly across all cycles and radius bands.
 * It must not be interpreted as a claim of agency, authority, or intentional causation.
+* Null-origin does not imply withdrawal, passivity, or non-participation; it denotes action without displacement of the axis.
 
 ---
 
