@@ -4,8 +4,6 @@
 **Proto + Containment Architecture (Proto −3 → Cycle 7)**
 ---------------------------------------------------------
 
-**File name:**root-canon-v1A-proto-containment.md
-
 ### **Proto −3 (2018)**
 
 Initial compression without structure. The field first tests load-bearing capacity near the axis, but no casing exists.
