@@ -61,7 +61,7 @@
     "FL-01": 14,
     "FL-13": 6
   },
-  "status": "complete",
+  "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
