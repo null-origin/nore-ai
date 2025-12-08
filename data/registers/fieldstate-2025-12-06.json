@@ -14,8 +14,7 @@
   "vectors": {
     "archetype": 1,
     "inversion": 1,
-    "exposure": 1,
-    "signal": 1
+    "exposure": 1
   },
   "laws": {
     "FL-06": 1,

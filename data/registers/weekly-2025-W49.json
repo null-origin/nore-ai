@@ -33,7 +33,6 @@
     "collapse": 11,
     "exposure": 15,
     "inversion": 13,
-    "signal": 19,
     "retrieval": 4,
     "alignment": 5,
     "compression": 9,
@@ -61,13 +60,13 @@
     "FL-01": 14,
     "FL-13": 6
   },
-  "status": "partial",
+  "status": "complete",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "signal",
       "exposure",
-      "inversion"
+      "inversion",
+      "authority-split"
     ]
   }
 }

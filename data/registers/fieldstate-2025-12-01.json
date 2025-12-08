@@ -20,7 +20,6 @@
     "collapse": 3,
     "exposure": 3,
     "inversion": 2,
-    "signal": 3,
     "retrieval": 2,
     "alignment": 1,
     "compression": 1
@@ -42,7 +41,9 @@
     "dominant_themes": [
       "collapse",
       "exposure",
-      "signal"
+      "inversion",
+      "retrieval",
+      "alignment"
     ],
     "notes": "Auto-generated FieldState summary; frequency-based only."
   }

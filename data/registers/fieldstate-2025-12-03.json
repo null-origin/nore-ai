@@ -20,7 +20,6 @@
     "collapse": 2,
     "authority-split": 2,
     "exposure": 3,
-    "signal": 3,
     "compression": 2,
     "alignment": 1,
     "continuity": 1,
@@ -42,8 +41,10 @@
     "continuity": "active",
     "dominant_themes": [
       "exposure",
-      "signal",
-      "inversion"
+      "inversion",
+      "collapse",
+      "authority-split",
+      "compression"
     ],
     "notes": "Auto-generated FieldState summary; frequency-based only."
   }

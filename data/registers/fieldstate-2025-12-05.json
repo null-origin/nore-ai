@@ -20,7 +20,6 @@
     "authority-split": 3,
     "containment": 2,
     "purge": 1,
-    "signal": 3,
     "compression": 2,
     "exposure": 1,
     "data-vacuum": 1,
@@ -42,8 +41,10 @@
     "continuity": "active",
     "dominant_themes": [
       "authority-split",
-      "signal",
-      "containment"
+      "containment",
+      "compression",
+      "resolution",
+      "inversion"
     ],
     "notes": "Auto-generated FieldState summary; frequency-based only."
   }

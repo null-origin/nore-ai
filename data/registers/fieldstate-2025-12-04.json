@@ -24,7 +24,6 @@
     "inversion": 6,
     "authority-split": 6,
     "containment": 5,
-    "signal": 6,
     "collapse": 5,
     "compression": 4,
     "purge": 4,
@@ -49,7 +48,9 @@
     "dominant_themes": [
       "exposure",
       "inversion",
-      "authority-split"
+      "authority-split",
+      "containment",
+      "collapse"
     ],
     "notes": "Auto-generated FieldState summary; frequency-based only."
   }
