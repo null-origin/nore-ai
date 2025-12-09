@@ -1,0 +1,59 @@
+{
+  "id": "fieldstate-2025-12-08",
+  "date": "2025-12-08",
+  "event_ids": [
+    "s-2025-12-08-01",
+    "s-2025-12-08-02",
+    "s-2025-12-08-03",
+    "s-2025-12-08-04",
+    "s-2025-12-08-05"
+  ],
+  "event_count": 5,
+  "channels": {
+    "macro-economy": 1,
+    "financial infrastructure": 1,
+    "global tech": 2,
+    "media infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 5
+  },
+  "vectors": {
+    "containment": 4,
+    "inversion": 3,
+    "exposure": 1,
+    "compression": 3,
+    "resonance": 1,
+    "alignment": 4,
+    "drift": 1,
+    "withdrawal": 1,
+    "authority-split": 2,
+    "bridge": 3,
+    "retrieval": 2,
+    "continuity": 1,
+    "resolution": 1
+  },
+  "laws": {
+    "FL-02": 2,
+    "FL-03": 4,
+    "FL-04": 2,
+    "FL-06": 4,
+    "FL-07": 4,
+    "FL-10": 3,
+    "FL-12": 3,
+    "FL-13": 5,
+    "FL-09": 1,
+    "FL-11": 1
+  },
+  "time_start": "2025-12-08T10:00:00-05:00",
+  "time_end": "2025-12-08T19:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "containment",
+      "alignment",
+      "inversion"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
