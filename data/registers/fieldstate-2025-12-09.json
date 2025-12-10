@@ -1,0 +1,43 @@
+{
+  "id": "fieldstate-2025-12-09",
+  "date": "2025-12-09",
+  "event_ids": [
+    "s-2025-12-09-01",
+    "s-2025-12-09-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "macro-economy": 2
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "exposure": 2,
+    "inversion": 2,
+    "drift": 2,
+    "containment": 1,
+    "compression": 2,
+    "alignment": 1
+  },
+  "laws": {
+    "FL-03": 2,
+    "FL-04": 1,
+    "FL-06": 2,
+    "FL-10": 2,
+    "FL-13": 2,
+    "FL-02": 1,
+    "FL-12": 1
+  },
+  "time_start": "2025-12-09T18:00:00-05:00",
+  "time_end": "2025-12-09T21:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "inversion",
+      "drift"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
