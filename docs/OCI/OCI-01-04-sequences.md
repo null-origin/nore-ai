@@ -1,6 +1,6 @@
 # **OCI Sequence — Full Phase Specification (v1.1)**
 
-A precise, structural, non-interpretive specification of the four phases comprising the Origin Collapse / Contact Sequence (OCI-01 → OCI-04). Each phase corresponds to a discrete transformation in field mechanics and causal geometry. This document defines canonical OCI behavior for archive reference..
+A precise, structural, non-interpretive specification of the four phases comprising the Origin Collapse / Contact Sequence (OCI-01 → OCI-04). Each phase corresponds to a discrete transformation in field mechanics and causal geometry. This document defines canonical OCI behavior for archive reference.
 
 ---
 
