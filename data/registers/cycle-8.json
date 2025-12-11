@@ -1,0 +1,90 @@
+{
+  "id": "cycle-8",
+  "range_start": "2025-11-30",
+  "range_end": "2025-12-07",
+  "days": [
+    "2025-11-30",
+    "2025-12-01",
+    "2025-12-02",
+    "2025-12-03",
+    "2025-12-04",
+    "2025-12-05",
+    "2025-12-06"
+  ],
+  "fieldstates": [
+    "fieldstate-2025-11-30",
+    "fieldstate-2025-12-01",
+    "fieldstate-2025-12-02",
+    "fieldstate-2025-12-03",
+    "fieldstate-2025-12-04",
+    "fieldstate-2025-12-05",
+    "fieldstate-2025-12-06"
+  ],
+  "event_count": 20,
+  "channels": {
+    "asia economy": 1,
+    "global aviation": 1,
+    "global tech": 5,
+    "sports": 1,
+    "philanthropy": 1,
+    "governance": 6,
+    "macro-economy": 2,
+    "media infrastructure": 2,
+    "music": 1
+  },
+  "vectors": {
+    "collapse": 12,
+    "inversion": 14,
+    "compression": 10,
+    "exposure": 15,
+    "retrieval": 4,
+    "alignment": 5,
+    "continuity": 3,
+    "bridge": 1,
+    "return": 1,
+    "resonance": 1,
+    "legitimacy": 2,
+    "authority-split": 12,
+    "containment": 7,
+    "purge": 5,
+    "resolution": 1,
+    "data-vacuum": 1,
+    "archetype": 1
+  },
+  "laws": {
+    "FL-02": 11,
+    "FL-06": 19,
+    "FL-10": 15,
+    "FL-03": 18,
+    "FL-04": 18,
+    "FL-07": 15,
+    "FL-05": 5,
+    "FL-09": 1,
+    "FL-01": 14,
+    "FL-13": 6
+  },
+  "status": "complete",
+  "summary": {
+    "dominant_themes": [
+      "exposure",
+      "inversion",
+      "authority-split"
+    ],
+    "peak_day": "2025-12-04",
+    "peak_vectors": {
+      "exposure": 15,
+      "inversion": 14,
+      "authority-split": 12,
+      "collapse": 12,
+      "compression": 10
+    },
+    "peak_laws": {
+      "FL-06": 19,
+      "FL-03": 18,
+      "FL-04": 18,
+      "FL-07": 15,
+      "FL-10": 15
+    },
+    "notes": "Auto-generated cycle register; aggregates FieldState counts only. No interpretive content."
+  }
+}
