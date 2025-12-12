@@ -5,45 +5,50 @@
   "days": [
     "2025-12-08",
     "2025-12-09",
-    "2025-12-10"
+    "2025-12-10",
+    "2025-12-11"
   ],
   "fieldstates": [
     "fieldstate-2025-12-08",
     "fieldstate-2025-12-09",
-    "fieldstate-2025-12-10"
+    "fieldstate-2025-12-10",
+    "fieldstate-2025-12-11"
   ],
-  "event_count": 10,
+  "event_count": 18,
   "channels": {
-    "macro-economy": 3,
+    "macro-economy": 4,
     "financial infrastructure": 2,
-    "global tech": 3,
-    "media infrastructure": 1,
-    "corporate": 1
+    "global tech": 4,
+    "media infrastructure": 2,
+    "corporate": 3,
+    "governance": 3
   },
   "vectors": {
-    "containment": 7,
-    "inversion": 7,
-    "exposure": 4,
-    "compression": 7,
+    "containment": 8,
+    "inversion": 10,
+    "exposure": 9,
+    "compression": 8,
     "resonance": 1,
-    "alignment": 7,
+    "alignment": 13,
     "drift": 4,
     "withdrawal": 1,
-    "authority-split": 3,
-    "bridge": 4,
+    "authority-split": 4,
+    "bridge": 5,
     "retrieval": 3,
-    "continuity": 3,
-    "resolution": 1
+    "continuity": 6,
+    "resolution": 1,
+    "collapse": 2,
+    "purge": 1
   },
   "laws": {
-    "FL-02": 4,
-    "FL-03": 8,
+    "FL-02": 6,
+    "FL-03": 11,
     "FL-04": 5,
-    "FL-06": 8,
-    "FL-07": 6,
-    "FL-10": 7,
-    "FL-12": 5,
-    "FL-13": 10,
+    "FL-06": 13,
+    "FL-07": 13,
+    "FL-10": 9,
+    "FL-12": 7,
+    "FL-13": 13,
     "FL-09": 1,
     "FL-11": 2
   },
@@ -51,9 +56,9 @@
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "containment",
+      "alignment",
       "inversion",
-      "compression"
+      "exposure"
     ]
   }
 }
