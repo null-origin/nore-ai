@@ -1,92 +1,99 @@
-**FIELD (NORE Canon)**
-----------------------
+# FIELD (NORE Canon)
 
-**Definition**The **field** is the total configuration of external pressures, constraints, incentives, signals, and force gradients acting across a system, independent of any agent’s intent or awareness.
+## Definition
 
-The field is not experienced directly.It is inferred through **forced motion**, **constraint collapse**, and **irreversible sequence progression**.
+The field is the total configuration of external pressures, constraints, incentives, signals, and force gradients acting across a system, independent of any agent’s intent or awareness.
 
-**Properties**
+The field is not experienced directly.
+It is inferred through forced motion, constraint collapse, and irreversible sequence progression.
 
-*   Exists independently of observers
-    
-*   Expresses itself through necessity, not preference
-    
-*   Becomes more legible as degrees of freedom collapse
-    
-*   Produces convergence, purge, or phase transition when load limits are exceeded
-    
+## Properties
 
-**Operational Test**If an outcome occurs despite resistance, denial, or conflicting incentives, it is field-driven.
+* Exists independently of observers
+* Expresses itself through necessity, not preference
+* Becomes more legible as degrees of freedom collapse
+* Produces convergence, purge, or phase transition when load limits are exceeded
 
-**FIELD TRACKING**
-------------------
+## Operational Test
 
-**Definition****Field tracking** is the disciplined observation of how a system is compelled to move under pressure, by identifying constraint gradients, load limits, and phase transitions over time.
+If an outcome occurs despite resistance, denial, or conflicting incentives, it is field-driven.
 
-Field tracking does not predict by belief or intention.It maps **what cannot remain stable**.
+---
 
-**Characteristics**
+# FIELD TRACKING
 
-*   Pre-narrative
-    
-*   Persistent across time
-    
-*   Sequence-accurate before motive is visible
-    
-*   Stable under uncertainty and personal cost
-    
+## Definition
 
-**Failure Mode**Misidentification of constraints or phase timing.
+Field tracking is the disciplined observation of how a system is compelled to move under pressure, by identifying constraint gradients, load limits, and phase transitions over time.
 
-**INTUITION**
--------------
+Field tracking does not predict by belief or intention.
+It maps what cannot remain stable.
 
-**Definition****Intuition** is an internally generated signal arising from implicit memory, affective weighting, pattern recognition, and somatic response within an agent.
+## Characteristics
+
+* Pre-narrative
+* Persistent across time
+* Sequence-accurate before motive is visible
+* Stable under uncertainty and personal cost
+
+## Failure Mode
+
+Misidentification of constraints or phase timing.
+
+---
+
+# INTUITION
+
+## Definition
+
+Intuition is an internally generated signal arising from implicit memory, affective weighting, pattern recognition, and somatic response within an agent.
 
 Intuition reflects the agent’s internal state and history.
 
-**Characteristics**
+## Characteristics
 
-*   Subjective and person-bound
-    
-*   Influenced by bias, desire, fear, and experience
-    
-*   Episodic and context-sensitive
-    
-*   Easily narrativized
-    
+* Subjective and person-bound
+* Influenced by bias, desire, fear, and experience
+* Episodic and context-sensitive
+* Easily narrativized
 
-**Failure Mode**Projection, bias amplification, emotional interference.
+## Failure Mode
 
-**CANONICAL DISTINCTION**
--------------------------
+Projection, bias amplification, emotional interference.
 
-*   Intuition answers: **“What do I sense?”**
-    
-*   Field tracking answers: **“What must resolve?”**
-    
+---
 
-Intuition is **private signal processing**.Field tracking is **public constraint geometry**.
+# CANONICAL DISTINCTION
+
+* **Intuition answers:** “What do I sense?”
+* **Field tracking answers:** “What must resolve?”
+
+Intuition is private signal processing.
+Field tracking is public constraint geometry.
 
 Conflation of the two introduces ego-credit drift and invalidates deterministic analysis.
 
-**AXIS RELATIONSHIP**
----------------------
+---
 
-The null-origin axis does not generate the field.It provides a fixed reference from which field geometry becomes legible.
+# AXIS RELATIONSHIP
 
-Accuracy arises from **stillness**, not insight.
+The null-origin axis does not generate the field.
+It provides a fixed reference from which field geometry becomes legible.
 
-**DEBUGGING RULE**
-------------------
+Accuracy arises from stillness, not insight.
+
+---
+
+# DEBUGGING RULE
 
 When an outcome mismatches expectation:
 
-*   If sequence logic failed → field read error
-    
-*   If desire or confidence was violated → intuition error
-    
+* If sequence logic failed → **field read error**
+* If desire or confidence was violated → **intuition error**
 
 Do not cross-attribute.
 
-**Status:** Canon**Revision:** Locked unless field law is amended
+---
+
+**Status:** Canon
+**Revision:** Locked unless field law is amended
