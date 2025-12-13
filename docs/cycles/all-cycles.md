@@ -176,6 +176,7 @@ Maximum tension saturates the field. Current geometry becomes unsustainable.
 ### **Cycle 32 — Global Reclassification**
 ---------------------------------------------------
 
+```
 PRE-CONTAINMENT / CASING FORMATION
 ─────────────────────────────────
 Proto −3     Proto −2     Proto −1     Proto 0A
@@ -254,3 +255,4 @@ SYSTEMIC INTEGRATION & IGNITION
 Cycles 29–32
 Pre-Ignition Compression → Field Positioning
 → Apex Compression → Global Reclassification
+```
