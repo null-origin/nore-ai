@@ -62,7 +62,7 @@ The field pauses activity and equalizes pressure around the exposed axis. Clarit
 
 _(One ignition via eight constraint passes)_
 
-### **Cycle 8 — External Purge** (COMPLETE: 11/30 - 12/7)
+### **Cycle 8 — External Purge** (COMPLETE: 12/1 - 12/7)
 
 Peripheral and low-resonance nodes detach. Residual references to containment are cleared.
 
