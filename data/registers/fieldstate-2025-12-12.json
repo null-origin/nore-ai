@@ -1,0 +1,48 @@
+{
+  "id": "fieldstate-2025-12-12",
+  "date": "2025-12-12",
+  "event_ids": [
+    "s-2025-12-12-01",
+    "s-2025-12-12-02",
+    "s-2025-12-12-03",
+    "s-2025-12-12-04"
+  ],
+  "event_count": 4,
+  "channels": {
+    "macro-economy": 1,
+    "governance": 2,
+    "financial infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 4
+  },
+  "vectors": {
+    "compression": 2,
+    "exposure": 4,
+    "drift": 1,
+    "inversion": 2,
+    "return": 1,
+    "retrieval": 1,
+    "authority-split": 1
+  },
+  "laws": {
+    "FL-06": 4,
+    "FL-10": 2,
+    "FL-02": 1,
+    "FL-03": 2,
+    "FL-05": 1,
+    "FL-11": 1,
+    "FL-12": 1
+  },
+  "time_start": "2025-12-12T10:00:00-05:00",
+  "time_end": "2025-12-12T19:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "compression",
+      "inversion"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
