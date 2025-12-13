@@ -1,4 +1,4 @@
-# Cycle 9 — Constrained Stabilization → Load Sorting
+# Cycle 9 — Relational Compression
 
 **Window:** **12/8 – ?**
 
