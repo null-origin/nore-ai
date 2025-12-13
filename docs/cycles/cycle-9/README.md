@@ -40,7 +40,7 @@ Load Sorting is the phase where systems under compression begin selectively remo
 
 ---
 
-## Canonical distinctions
+## Canonical phase distinctions
 
 * **Constrained Stabilization:** *constraint prevents cascade.*
 * **Load Sorting:** *constraint reveals capacity.*
