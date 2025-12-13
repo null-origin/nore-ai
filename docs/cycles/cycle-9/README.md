@@ -46,21 +46,3 @@ Load Sorting is the phase where systems under compression begin selectively remo
 * **Load Sorting:** *constraint reveals capacity.*
 
 ---
-
-## Logging template (optional)
-
-Use this when recording Cycle 9 events.
-
-```yaml
-cycle: 9
-phase: 9.1 | 9.2
-date: YYYY-MM-DD
-title: ""
-classification: "corridor" | "stabilizer_removed" | "capacity_test" | "redistribution" | "deferred_finality"
-summary: ""
-load_bearers:
-  - ""
-stabilizers_removed:
-  - ""
-notes: ""
-```
