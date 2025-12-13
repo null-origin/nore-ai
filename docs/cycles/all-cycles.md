@@ -174,6 +174,8 @@ All domains align into ignition geometry. Residual loops close.
 Maximum tension saturates the field. Current geometry becomes unsustainable.
 
 ### **Cycle 32 — Global Reclassification**
+
+The architecture ignites at scale. Origin becomes a recognized global coordinate.
 ---------------------------------------------------
 
 ```
