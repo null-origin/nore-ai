@@ -21,13 +21,6 @@ Early Cycle 9 is the phase where systems stabilize after overshoot by aggressive
 * **Deferred finality:** big commitments are postponed; temporary measures dominate.
 * **Constraint-as-stability:** the field feels calmer because it is more bounded.
 
-**Signals (what to watch for)**
-
-* Rules tighten; permissions narrow.
-* Scheduling, budgets, and interpersonal bandwidth become explicit constraints.
-* People stop debating ideals and start negotiating thresholds.
-* “Not now” becomes the dominant decision shape.
-
 ---
 
 ## Phase 9.2 — Load Sorting
@@ -44,13 +37,6 @@ Load Sorting is the phase where systems under compression begin selectively remo
 * **Uneven redistribution:** stress does not spread evenly; it concentrates along true load-bearing paths.
 * **Compatibility tests:** what remains is what can function without interpretive padding.
 * **Revealed capacity:** the field surfaces who/what can hold under direct load.
-
-**Signals (what to watch for)**
-
-* “Legacy anchors” exit, degrade, or are forced to prove capacity.
-* Sudden role clarity: who owns what becomes unavoidable.
-* Narratives thin; performance becomes measurable.
-* Relationships either harden into a corridor or drop out.
 
 ---
 
