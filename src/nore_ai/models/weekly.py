@@ -24,7 +24,6 @@ class WeeklyRegister:
     event_count: int
     channels: Dict[str, int]
     vectors: Dict[str, int]
-    laws: Dict[str, int]
     status: str = "partial"
     summary: Dict[str, Any] = field(default_factory=dict)
 
@@ -46,7 +45,6 @@ class WeeklyRegister:
                 event_count=0,
                 channels={},
                 vectors={},
-                laws={},
                 status="empty",
                 summary={
                     "notes": "No FieldState data for this week.",
@@ -61,11 +59,9 @@ class WeeklyRegister:
 
         channels = Counter()
         vectors = Counter()
-        laws = Counter()
         for fs in fieldstates:
             channels.update(fs.channels)
             vectors.update(fs.vectors)
-            laws.update(fs.laws)
 
         dominant_themes = [v for v, _ in vectors.most_common(3)]
 
@@ -83,7 +79,6 @@ class WeeklyRegister:
             event_count=event_count,
             channels=dict(channels),
             vectors=dict(vectors),
-            laws=dict(laws),
             status="partial",
             summary=summary,
         )
@@ -98,7 +93,6 @@ class WeeklyRegister:
             "event_count": self.event_count,
             "channels": self.channels,
             "vectors": self.vectors,
-            "laws": self.laws,
             "status": self.status,
             "summary": self.summary,
         }
