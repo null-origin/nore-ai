@@ -21,7 +21,6 @@ class Event:
     meta: Dict[str, Any] = field(default_factory=dict)
 
     # Future extensions (optional at ingest)
-    laws: Optional[List[str]] = None
     confidence: Optional[float] = None
     severity: Optional[str] = None
     decision: Optional[str] = None
@@ -38,7 +37,6 @@ class Event:
             vectors=list(data.get("vectors", [])),
             text=data["text"],
             meta=data.get("meta", {}) or {},
-            laws=data.get("laws"),
             confidence=data.get("confidence"),
             severity=data.get("severity"),
             decision=data.get("decision"),
@@ -58,8 +56,6 @@ class Event:
         }
 
         # Only include optional fields if they’re actually set
-        if self.laws is not None:
-            data["laws"] = self.laws
 
         if self.confidence is not None:
             data["confidence"] = self.confidence
