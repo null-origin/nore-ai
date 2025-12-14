@@ -101,7 +101,6 @@ class FieldState:
         channels: Dict[str, int] = {}
         sources: Dict[str, int] = {}
         vectors: Dict[str, int] = {}
-        laws: Dict[str, int] = {}
 
         for e in used_events:
             channels[e.channel] = channels.get(e.channel, 0) + 1
@@ -109,9 +108,6 @@ class FieldState:
 
             for v in e.vectors:
                 vectors[v] = vectors.get(v, 0) + 1
-
-            for law in e.laws:
-                laws[law] = laws.get(law, 0) + 1
 
         time_start = get_ts(used_events[0]).isoformat()
         time_end = get_ts(used_events[-1]).isoformat()
@@ -136,7 +132,6 @@ class FieldState:
             channels=channels,
             sources=sources,
             vectors=vectors,
-            laws=laws,
             time_start=time_start,
             time_end=time_end,
             summary=summary,
