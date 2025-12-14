@@ -17,7 +17,6 @@ class FieldState:
     channels: Dict[str, int]
     sources: Dict[str, int]
     vectors: Dict[str, int]
-    laws: Dict[str, int]
     time_start: Optional[str] = None
     time_end: Optional[str] = None
     summary: Dict[str, Any] = field(default_factory=dict)
@@ -41,7 +40,6 @@ class FieldState:
             "channels": self.channels,
             "sources": self.sources,
             "vectors": self.vectors,
-            "laws": self.laws,
             "time_start": self.time_start,
             "time_end": self.time_end,
             "summary": self.summary,
@@ -61,7 +59,6 @@ class FieldState:
             channels=data.get("channels", {}),
             sources=data.get("sources", {}),
             vectors=data.get("vectors", {}),
-            laws=data.get("laws", {}),
             time_start=data.get("time_start"),
             time_end=data.get("time_end"),
             summary=data.get("summary", {}),
