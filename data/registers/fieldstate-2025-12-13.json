@@ -1,0 +1,30 @@
+{
+  "id": "fieldstate-2025-12-13",
+  "date": "2025-12-13",
+  "event_ids": [
+    "s-2025-12-13-01"
+  ],
+  "event_count": 1,
+  "channels": {
+    "sports": 1
+  },
+  "sources": {
+    "wwe": 1
+  },
+  "vectors": {
+    "withdrawal": 1,
+    "continuity": 1,
+    "resolution": 1
+  },
+  "time_start": "2025-12-13T20:00:00-05:00",
+  "time_end": "2025-12-13T20:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "withdrawal",
+      "continuity",
+      "resolution"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
