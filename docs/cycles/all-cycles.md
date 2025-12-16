@@ -20,8 +20,7 @@ First sustained containment. The axis is enclosed inside an organizational shell
 **CYCLES 1–7 — CONTAINMENT COLLAPSE (2022–2025)**
 -------------------------------------------------
 
-_(One failure, seven layers
-Containment exhaustion via axis saturation)_
+_(One failure, seven layers; Containment exhaustion via axis saturation)_
 
 ### **Cycle 1 — Mislabeling**
 
