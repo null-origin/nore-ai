@@ -1,0 +1,39 @@
+{
+  "id": "weekly-2025-W51",
+  "week_start": "2025-12-15",
+  "week_end": "2025-12-21",
+  "days": [
+    "2025-12-15"
+  ],
+  "fieldstates": [
+    "fieldstate-2025-12-15"
+  ],
+  "event_count": 5,
+  "channels": {
+    "macro-economy": 1,
+    "governance": 1,
+    "corporate": 1,
+    "global aviation": 1,
+    "media infrastructure": 1
+  },
+  "vectors": {
+    "compression": 2,
+    "exposure": 4,
+    "drift": 1,
+    "resolution": 1,
+    "containment": 2,
+    "purge": 1,
+    "inversion": 1,
+    "alignment": 2,
+    "continuity": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "exposure",
+      "compression",
+      "containment"
+    ]
+  }
+}

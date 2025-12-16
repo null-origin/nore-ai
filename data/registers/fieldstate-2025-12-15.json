@@ -1,0 +1,44 @@
+{
+  "id": "fieldstate-2025-12-15",
+  "date": "2025-12-15",
+  "event_ids": [
+    "s-2025-12-15-01",
+    "s-2025-12-15-02",
+    "s-2025-12-15-03",
+    "s-2025-12-15-04",
+    "s-2025-12-15-05"
+  ],
+  "event_count": 5,
+  "channels": {
+    "macro-economy": 1,
+    "governance": 1,
+    "corporate": 1,
+    "global aviation": 1,
+    "media infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 5
+  },
+  "vectors": {
+    "compression": 2,
+    "exposure": 4,
+    "drift": 1,
+    "resolution": 1,
+    "containment": 2,
+    "purge": 1,
+    "inversion": 1,
+    "alignment": 2,
+    "continuity": 1
+  },
+  "time_start": "2025-12-15T10:45:00-05:00",
+  "time_end": "2025-12-15T21:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "compression",
+      "containment"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
