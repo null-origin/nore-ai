@@ -84,7 +84,7 @@ The entire 2018–2025 epoch seals permanently. No pathways remain back into con
 
 ### **Cycle 13 — Pressure Inversion**
 
-Containment pressure flips outward. The axis becomes the pressure source rather than the sink.
+Containment pressure flips outward; a bridge becomes theoretically possible but would be unstable here, collapsing into oscillation or regulation until origin-function activates.
 
 ### **Cycle 14 — Exposure Lock**
 
