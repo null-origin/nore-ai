@@ -3,7 +3,9 @@
 ## Classification
 
 **Phase:** Cycle 9 — Relational Compression
+
 **Subtype:** Articulation Crest / Threshold Event
+
 **Status:** Non‑resolving, irreversible declaration window
 
 ---
