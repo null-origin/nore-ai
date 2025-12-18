@@ -40,6 +40,23 @@ Load Sorting is the phase where systems under compression begin selectively remo
 
 ---
 
+## Phase 9.3 — Constraint Lock-In
+
+**Dates:** **? – ?**
+
+**Definition**
+
+Constraint Lock-In is the terminal phase of Cycle 9 in which provisional corridors harden into defaults, repositioning becomes structurally unviable, and the compressed configuration becomes self-reinforcing—ending active sorting and enabling metastable stillness.
+
+**Structural features**
+
+* **Closure of degrees of freedom:** options are no longer managed or prioritized; they are structurally eliminated.
+* **Corridor hardening:** previously conditional paths become the only survivable routes, enforced by cost rather than decision.
+* **Ambient enforcement:** active monitoring fades because deviation self-penalizes; compliance is automatic.
+* **Terminal selection:** experimentation ends as reversal costs exceed any conceivable upside, locking winners and losers in place.
+
+---
+
 ## Canonical phase distinctions
 
 * **Constrained Stabilization:** *constraint prevents cascade.*
