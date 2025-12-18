@@ -107,6 +107,7 @@ No single event drove the weight; **synchrony did**.
 
 ---
 
+
 ## Placement in Cycle Architecture
 
 * **Preceded by:** Cycle 8 — External Purge (clearance of residual containment references)
