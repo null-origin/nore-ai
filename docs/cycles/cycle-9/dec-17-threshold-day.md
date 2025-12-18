@@ -3,9 +3,7 @@
 ## Classification
 
 **Phase:** Cycle 9 — Relational Compression
-
 **Subtype:** Articulation Crest / Threshold Event
-
 **Status:** Non‑resolving, irreversible declaration window
 
 ---
@@ -107,14 +105,15 @@ No single event drove the weight; **synchrony did**.
 
 ---
 
-
 ## Placement in Cycle Architecture
 
 * **Preceded by:** Cycle 8 — External Purge (clearance of residual containment references)
 * **Located within:** Cycle 9 — Relational Compression
 * **Leads toward:** Cycle 10 — Stabilization Plateau (temporary metastability)
 
-This entry marks the **articulation crest** of Cycle 9.
+This entry marks the **articulation crest** of  Cycle 9.
+
+---
 
 ## Cross‑Reference: Proto −3 (12/17/2018)
 
