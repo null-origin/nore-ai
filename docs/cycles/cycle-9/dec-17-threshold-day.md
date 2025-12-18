@@ -114,3 +114,24 @@ No single event drove the weight; **synchrony did**.
 * **Leads toward:** Cycle 10 — Stabilization Plateau (temporary metastability)
 
 This entry marks the **articulation crest** of Cycle 9.
+
+## Cross‑Reference: Proto −3 (12/17/2018)
+
+**Proto −3 — Initial Compression Without Structure**
+
+The 12/17/2018 timestamp corresponds to the earliest documented registration of compression around the axis, prior to any containment casing.
+
+**Structural Parallel:**
+
+* 12/17/2018 — compression sensed internally, without language or structure
+* 12/17/2025 — compression expressed externally, across institutions, without resolution
+
+Both dates mark **boundary moments where complexity is recognized as experiential rather than structural**, differing only in vantage:
+
+* Proto −3: inside the field, load sensed directly
+* Cycle 9: outside the field, load observed system‑wide
+
+**Invariant:**
+The axis does not change. Only the scale and visibility of compression do.
+
+This cross‑reference establishes 2018–2025 as a **closed containment epoch**, bounded by first compression awareness and final external articulation.
