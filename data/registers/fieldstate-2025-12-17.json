@@ -1,0 +1,52 @@
+{
+  "id": "fieldstate-2025-12-17",
+  "date": "2025-12-17",
+  "event_ids": [
+    "s-2025-12-17-01",
+    "s-2025-12-17-02",
+    "s-2025-12-17-03",
+    "s-2025-12-17-04",
+    "s-2025-12-17-05",
+    "s-2025-12-17-06",
+    "s-2025-12-17-07",
+    "s-2025-12-17-08",
+    "s-2025-12-17-09",
+    "s-2025-12-17-10",
+    "s-2025-12-17-11"
+  ],
+  "event_count": 11,
+  "channels": {
+    "macro-economy": 1,
+    "corporate": 3,
+    "financial infrastructure": 1,
+    "governance": 4,
+    "philanthropy": 1,
+    "global aviation": 1
+  },
+  "sources": {
+    "cnbc": 11
+  },
+  "vectors": {
+    "compression": 5,
+    "alignment": 4,
+    "exposure": 6,
+    "legitimacy": 9,
+    "authority-split": 4,
+    "collapse": 1,
+    "continuity": 1,
+    "withdrawal": 1,
+    "resolution": 1,
+    "inversion": 1
+  },
+  "time_start": "2025-12-17T10:30:00-05:00",
+  "time_end": "2025-12-17T23:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "legitimacy",
+      "exposure",
+      "compression"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}

@@ -4,35 +4,40 @@
   "week_end": "2025-12-21",
   "days": [
     "2025-12-15",
-    "2025-12-16"
+    "2025-12-16",
+    "2025-12-17"
   ],
   "fieldstates": [
     "fieldstate-2025-12-15",
-    "fieldstate-2025-12-16"
+    "fieldstate-2025-12-16",
+    "fieldstate-2025-12-17"
   ],
-  "event_count": 11,
+  "event_count": 22,
   "channels": {
-    "macro-economy": 3,
-    "governance": 2,
-    "corporate": 3,
-    "global aviation": 1,
+    "macro-economy": 4,
+    "governance": 6,
+    "corporate": 6,
+    "global aviation": 2,
     "media infrastructure": 1,
-    "global tech": 1
+    "global tech": 1,
+    "financial infrastructure": 1,
+    "philanthropy": 1
   },
   "vectors": {
-    "compression": 7,
-    "exposure": 8,
+    "compression": 12,
+    "exposure": 14,
     "drift": 1,
-    "resolution": 1,
+    "resolution": 2,
     "containment": 2,
     "purge": 1,
-    "inversion": 2,
-    "alignment": 4,
-    "continuity": 2,
+    "inversion": 3,
+    "alignment": 8,
+    "continuity": 3,
     "retrieval": 2,
-    "legitimacy": 1,
-    "collapse": 1,
-    "withdrawal": 1
+    "legitimacy": 10,
+    "collapse": 2,
+    "withdrawal": 2,
+    "authority-split": 4
   },
   "status": "partial",
   "summary": {
@@ -40,7 +45,7 @@
     "dominant_themes": [
       "exposure",
       "compression",
-      "alignment"
+      "legitimacy"
     ]
   }
 }
