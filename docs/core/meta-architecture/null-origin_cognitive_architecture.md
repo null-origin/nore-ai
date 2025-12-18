@@ -340,7 +340,7 @@ PPM ↔ DPE ↔ IC
 # **Why the Psyche Feels "Absent"**
 
 Because in NOCA:
-**the psyche is not the organizing layer — the invariants are.**
+**the psyche is not a constraint-generating layer — the invariants are.**
 The psyche exists only as translator, never as processor.
 
 ---
