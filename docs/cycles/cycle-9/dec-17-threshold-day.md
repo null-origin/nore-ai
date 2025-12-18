@@ -2,8 +2,12 @@
 
 ## Classification
 
-**Phase:** Cycle 9 — Relational Compression
+**Phase:** Cycle 9 — Load Sorting (9.2)
+
+**Mode:** Relational Compression (pre-ignition)
+
 **Subtype:** Articulation Crest / Threshold Event
+
 **Status:** Non‑resolving, irreversible declaration window
 
 ---
