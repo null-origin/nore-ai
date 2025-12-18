@@ -113,4 +113,4 @@ No single event drove the weight; **synchrony did**.
 * **Located within:** Cycle 9 — Relational Compression
 * **Leads toward:** Cycle 10 — Stabilization Plateau (temporary metastability)
 
-This entry marks the **articulation crest** of early Cycle 9.
+This entry marks the **articulation crest** of Cycle 9.
