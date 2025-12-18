@@ -57,7 +57,7 @@ Constraint Lock-In is the terminal phase of Cycle 9 in which provisional corrido
 
 ---
 
-## Canonical phase distinctions
+## Canonical Phase Distinctions
 
 * **Constrained Stabilization:** *constraint prevents cascade.*
 * **Load Sorting:** *constraint reveals capacity.*
