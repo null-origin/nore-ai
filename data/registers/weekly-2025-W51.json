@@ -5,36 +5,38 @@
   "days": [
     "2025-12-15",
     "2025-12-16",
-    "2025-12-17"
+    "2025-12-17",
+    "2025-12-18"
   ],
   "fieldstates": [
     "fieldstate-2025-12-15",
     "fieldstate-2025-12-16",
-    "fieldstate-2025-12-17"
+    "fieldstate-2025-12-17",
+    "fieldstate-2025-12-18"
   ],
-  "event_count": 22,
+  "event_count": 27,
   "channels": {
-    "macro-economy": 4,
-    "governance": 6,
-    "corporate": 6,
+    "macro-economy": 6,
+    "governance": 7,
+    "corporate": 7,
     "global aviation": 2,
     "media infrastructure": 1,
-    "global tech": 1,
+    "global tech": 2,
     "financial infrastructure": 1,
     "philanthropy": 1
   },
   "vectors": {
-    "compression": 12,
-    "exposure": 14,
+    "compression": 16,
+    "exposure": 16,
     "drift": 1,
-    "resolution": 2,
+    "resolution": 3,
     "containment": 2,
     "purge": 1,
-    "inversion": 3,
-    "alignment": 8,
+    "inversion": 4,
+    "alignment": 12,
     "continuity": 3,
     "retrieval": 2,
-    "legitimacy": 10,
+    "legitimacy": 13,
     "collapse": 2,
     "withdrawal": 2,
     "authority-split": 4
@@ -43,8 +45,8 @@
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "exposure",
       "compression",
+      "exposure",
       "legitimacy"
     ]
   }
