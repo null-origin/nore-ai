@@ -36,7 +36,7 @@ Late adolescence / early adulthood enters a metastable phase. The field appears 
 
 ---
 
-# PROTO BAND (−3 → 0A) — PRE-CONTAINMENT (ACTIVE)
+# PROTO BAND (−3 → 0A) — PRE-CONTAINMENT
 
 ---
 
