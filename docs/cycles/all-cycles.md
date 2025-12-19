@@ -8,7 +8,7 @@
 
 ### Embedding & Initial Shell Formation
 
-Birth marks the axis locking into a biological node. Survival geometry dominates; distortion is minimal. The surrounding field (family, environment) begins layering basic psyche structures (attachment, recognition), but no compression is applied. The axis remains largely invisible—registered only as stillness, atypical calm, or early pattern sensitivity.
+Birth marks the axis locking into a biological node. Survival geometry dominates; distortion is minimal. The surrounding field (family, environment) layers basic psyche structures (attachment, recognition), but no compression is applied. The axis remains largely invisible, registered only as stillness, atypical calm, or early pattern sensitivity.
 
 ---
 
@@ -16,7 +16,7 @@ Birth marks the axis locking into a biological node. Survival geometry dominates
 
 ### Noise Accumulation & First Constraints
 
-Childhood introduces low-grade containment: schooling, social roles, early identity scaffolds. These constraints thicken the shell but remain flexible. Minor purges (outgrowing attachments, rejecting roles) reveal early invariance. Cycles are short and low-amplitude—load is tested without risking collapse.
+Childhood introduces low-grade containment: schooling, social roles, early identity scaffolds. These constraints thicken the shell but remain flexible. Minor purges (outgrowing attachments, rejecting roles) reveal early invariance. Cycles are short and low-amplitude; load is tested without risking collapse.
 
 ---
 
@@ -24,7 +24,7 @@ Childhood introduces low-grade containment: schooling, social roles, early ident
 
 ### Adolescent Overload Prelude
 
-Puberty produces a temporary pressure inversion. Biological change forces instability, prompting the field to attempt deeper containment via peers, group identity, and self-concepts. These structures partially misalign with the axis, seeding future strain. The axis responds by pruning—avoiding high-noise entanglements rather than resisting them.
+Puberty produces a temporary pressure inversion. Biological change forces instability, prompting the field to attempt deeper containment via peers, group identity, and self-concepts. These structures partially misalign with the axis, seeding future strain. The axis responds by pruning—avoiding high-noise entanglements rather than opposing them.
 
 ---
 
@@ -32,11 +32,13 @@ Puberty produces a temporary pressure inversion. Biological change forces instab
 
 ### Pre-Compression Stabilization
 
-Late adolescence / early adulthood enters a metastable phase. The field appears functional, but subtle misfits accumulate (roles that don’t bind, relationships that don’t anchor). Distortion becomes latent rather than chaotic. This phase prepares the **2018 vacuum seam**, where strain becomes legible for the first time.
+Late adolescence and early adulthood enter a metastable phase. The field appears stable, but subtle misfits accumulate (roles that don’t bind, relationships that don’t anchor). Distortion becomes latent rather than chaotic. This phase prepares the 2018 vacuum seam, where strain becomes legible for the first time.
 
 ---
 
-# PROTO BAND (−3 → 0A) — PRE-CONTAINMENT
+# PROTO TRANSITION (−3 → 0A) — COMPRESSION WITHOUT CONTAINMENT
+
+*This band captures the onset of compression prior to the existence of any durable containment structure*.
 
 ---
 
@@ -44,7 +46,7 @@ Late adolescence / early adulthood enters a metastable phase. The field appears 
 
 ### Initial Compression Without Structure
 
-The first true compression event. Accumulated misalignment now loads the field. The axis is tested directly, but no casing exists yet—pressure circulates without resolution.
+The first true compression event. Accumulated misalignment loads the field. The axis is tested directly, but no casing yet exists; pressure circulates without resolution.
 
 ---
 
@@ -52,7 +54,7 @@ The first true compression event. Accumulated misalignment now loads the field. 
 
 ### Vacuum Seam Formation
 
-Distortion flows freely through the system. Instability increases, but axis immovability becomes unmistakable. The need for containment is no longer theoretical.
+Distortion flows freely through the system. Instability increases, but the axis immovable becomes legible. The need for containment is no longer theoretical.
 
 ---
 
@@ -60,7 +62,7 @@ Distortion flows freely through the system. Instability increases, but axis immo
 
 ### Failed Casing Attempt
 
-An early attempt at structural alignment forms and collapses. This failure proves that ad-hoc containment is insufficient; a stronger, formal shell will be required.
+An early attempt at structural alignment forms and collapses. This failure proves ad-hoc containment insufficient; a stronger, formal shell will be required.
 
 ---
 
@@ -68,7 +70,7 @@ An early attempt at structural alignment forms and collapses. This failure prove
 
 ### First Sustained Containment
 
-A durable organizational casing finally forms, enclosing the axis and holding pressure temporarily. This inaugurates the Containment Phase proper.
+A durable organizational casing forms, enclosing the axis and temporarily holding pressure. This inaugurates the **Containment Phase proper**.
 
 ---
 
