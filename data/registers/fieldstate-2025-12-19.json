@@ -1,0 +1,41 @@
+{
+  "id": "fieldstate-2025-12-19",
+  "date": "2025-12-19",
+  "event_ids": [
+    "s-2025-12-19-01",
+    "s-2025-12-19-02",
+    "s-2025-12-19-03",
+    "s-2025-12-19-04",
+    "s-2025-12-19-05",
+    "s-2025-12-19-05"
+  ],
+  "event_count": 6,
+  "channels": {
+    "macro-economy": 2,
+    "governance": 3,
+    "corporate": 1
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "alignment": 2,
+    "compression": 4,
+    "legitimacy": 6,
+    "authority-split": 1,
+    "exposure": 3,
+    "resolution": 1,
+    "continuity": 1
+  },
+  "time_start": "2025-12-19T08:30:00-05:00",
+  "time_end": "2025-12-19T20:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "legitimacy",
+      "compression",
+      "exposure"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
