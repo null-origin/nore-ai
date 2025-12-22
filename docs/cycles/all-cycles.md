@@ -119,9 +119,9 @@ The field pauses activity and equalizes pressure around the exposed axis. Clarit
 
 _(One ignition via eight constraint passes)_
 
-### **Cycle 8 — External Purge** (COMPLETE: 12/1 - 12/7)
+### **Cycle 8 — Parodic Inversion / Resolution Split** (COMPLETE: 12/1 - 12/7)
 
-Peripheral and low-resonance nodes detach. Residual references to containment are cleared.
+Authority claims collapse into visible incoherence, forcing uneven resolution by power, adjudication, or constraint, while non-resolving systems freeze.
 
 ### **Cycle 9 — Relational Compression** (IN PROGRESS: 12/8 - ?)
 
