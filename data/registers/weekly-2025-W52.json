@@ -1,0 +1,33 @@
+{
+  "id": "weekly-2025-W52",
+  "week_start": "2025-12-22",
+  "week_end": "2025-12-28",
+  "days": [
+    "2025-12-22"
+  ],
+  "fieldstates": [
+    "fieldstate-2025-12-22"
+  ],
+  "event_count": 2,
+  "channels": {
+    "governance": 1,
+    "corporate": 1
+  },
+  "vectors": {
+    "withdrawal": 1,
+    "exposure": 1,
+    "compression": 1,
+    "legitimacy": 1,
+    "alignment": 1,
+    "resolution": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "withdrawal",
+      "exposure",
+      "compression"
+    ]
+  }
+}
