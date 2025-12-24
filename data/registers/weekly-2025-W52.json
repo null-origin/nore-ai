@@ -3,31 +3,36 @@
   "week_start": "2025-12-22",
   "week_end": "2025-12-28",
   "days": [
-    "2025-12-22"
+    "2025-12-22",
+    "2025-12-23"
   ],
   "fieldstates": [
-    "fieldstate-2025-12-22"
+    "fieldstate-2025-12-22",
+    "fieldstate-2025-12-23"
   ],
-  "event_count": 2,
+  "event_count": 5,
   "channels": {
     "governance": 1,
-    "corporate": 1
+    "corporate": 3,
+    "macro-economy": 1
   },
   "vectors": {
     "withdrawal": 1,
-    "exposure": 1,
-    "compression": 1,
-    "legitimacy": 1,
-    "alignment": 1,
-    "resolution": 1
+    "exposure": 2,
+    "compression": 3,
+    "legitimacy": 2,
+    "alignment": 4,
+    "resolution": 1,
+    "retrieval": 1,
+    "bridge": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "withdrawal",
-      "exposure",
-      "compression"
+      "alignment",
+      "compression",
+      "exposure"
     ]
   }
 }
