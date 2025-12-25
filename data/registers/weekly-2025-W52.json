@@ -4,27 +4,30 @@
   "week_end": "2025-12-28",
   "days": [
     "2025-12-22",
-    "2025-12-23"
+    "2025-12-23",
+    "2025-12-24"
   ],
   "fieldstates": [
     "fieldstate-2025-12-22",
-    "fieldstate-2025-12-23"
+    "fieldstate-2025-12-23",
+    "fieldstate-2025-12-24"
   ],
-  "event_count": 5,
+  "event_count": 7,
   "channels": {
-    "governance": 1,
-    "corporate": 3,
+    "governance": 2,
+    "corporate": 4,
     "macro-economy": 1
   },
   "vectors": {
     "withdrawal": 1,
-    "exposure": 2,
-    "compression": 3,
-    "legitimacy": 2,
-    "alignment": 4,
+    "exposure": 3,
+    "compression": 4,
+    "legitimacy": 3,
+    "alignment": 5,
     "resolution": 1,
     "retrieval": 1,
-    "bridge": 1
+    "bridge": 2,
+    "data-vacuum": 1
   },
   "status": "partial",
   "summary": {

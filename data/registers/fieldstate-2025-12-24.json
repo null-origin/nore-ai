@@ -1,0 +1,35 @@
+{
+  "id": "fieldstate-2025-12-24",
+  "date": "2025-12-24",
+  "event_ids": [
+    "s-2025-12-24-01",
+    "s-2025-12-24-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "governance": 1,
+    "corporate": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "exposure": 1,
+    "data-vacuum": 1,
+    "legitimacy": 1,
+    "alignment": 1,
+    "compression": 1,
+    "bridge": 1
+  },
+  "time_start": "2025-12-24T16:30:00-05:00",
+  "time_end": "2025-12-24T18:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "data-vacuum",
+      "legitimacy"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
