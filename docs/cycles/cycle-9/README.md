@@ -25,7 +25,7 @@ Early Cycle 9 is the phase where systems stabilize after overshoot by aggressive
 
 ## Phase 9.2 — Load Sorting
 
-**Dates:** **12/13 – ?**
+**Dates:** **12/13 – 12/29**
 
 **Definition**
 
@@ -42,7 +42,7 @@ Load Sorting is the phase where systems under compression begin selectively remo
 
 ## Phase 9.3 — Constraint Lock-In
 
-**Dates:** **? – ?**
+**Dates:** **12/30 – ?**
 
 **Definition**
 
