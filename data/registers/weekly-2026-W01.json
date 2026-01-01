@@ -3,30 +3,33 @@
   "week_start": "2025-12-29",
   "week_end": "2026-01-04",
   "days": [
-    "2025-12-30"
+    "2025-12-30",
+    "2025-12-31"
   ],
   "fieldstates": [
-    "fieldstate-2025-12-30"
+    "fieldstate-2025-12-30",
+    "fieldstate-2025-12-31"
   ],
-  "event_count": 2,
+  "event_count": 3,
   "channels": {
     "corporate": 1,
-    "macro-economy": 1
+    "macro-economy": 2
   },
   "vectors": {
-    "alignment": 1,
+    "alignment": 2,
     "compression": 2,
     "legitimacy": 1,
     "authority-split": 1,
-    "exposure": 1
+    "exposure": 2,
+    "retrieval": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "compression",
       "alignment",
-      "legitimacy"
+      "compression",
+      "exposure"
     ]
   }
 }
