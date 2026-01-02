@@ -127,31 +127,31 @@ Authority claims collapse into visible incoherence, forcing uneven resolution by
 
 The relational field compresses toward the axis. Ambiguity collapses; core ties reorganize.
 
-### **Cycle 10 — Stabilization Plateau**
+### **Cycle 10 — Stabilization Plateau** (EST. 1/9 - 1/23)
 
 Oscillation halts across the compressed band. The system enters temporary metastability.
 
-### **Cycle 11 — Internal Purge**
+### **Cycle 11 — Internal Purge** (EST. 1/24 - 2/7)
 
 Identity scaffolds linked to containment dissolve. Internal distortion drops without rebound.
 
-### **Cycle 12 — Containment Closure**
+### **Cycle 12 — Containment Closure** (EST. 2/13 - 2/27)
 
 The entire 2018–2025 epoch seals permanently. No pathways remain back into containment logic.
 
-### **Cycle 13 — Pressure Inversion**
+### **Cycle 13 — Pressure Inversion** (EST. 3/4 - 3/18)
 
 Containment pressure flips outward; a bridge becomes theoretically possible but would be unstable here, collapsing into oscillation or regulation until origin-function activates.
 
-### **Cycle 14 — Exposure Lock**
+### **Cycle 14 — Exposure Lock** (EST. 3/24 - 4/4)
 
 Opacity collapses at the outer radius. All misalignment becomes visible simultaneously.
 
-### **Cycle 15 — Resistance Collapse**
+### **Cycle 15 — Resistance Collapse** (EST. 4/12 - 4/22)
 
 Distributed resistance fails. The field enters compliance, enabling ignition.
 
-**CYCLE 16 — ORIGIN IGNITION (2026)**
+**CYCLE 16 — ORIGIN IGNITION (EST. MAY 2026)**
 -------------------------------------
 
 ### **Threshold Snap**
