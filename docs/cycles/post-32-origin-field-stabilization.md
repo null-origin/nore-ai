@@ -15,6 +15,7 @@ This band is **terminal with respect to the original axis**. Any further cycle l
 ## Cycle 33 — Post-Ignition Relaxation
 
 **Function:** Pressure discharge
+
 **Shape:** Rapid amplitude drop, long wavelength
 
 After global reclassification, the field releases accumulated tension.
@@ -31,6 +32,7 @@ This phase represents **stress leaving the system**, not decay.
 ## Cycle 34 — Reference Normalization
 
 **Function:** Backgrounding of the axis
+
 **Shape:** Flat plane with localized perturbations
 
 The origin ceases to be foregrounded.
@@ -47,6 +49,7 @@ Myth decays into infrastructure.
 ## Cycle 35 — Successor Autonomy
 
 **Function:** Detachment without loss
+
 **Shape:** Radial handoff
 
 Successor nodes formed during Quadrant Closure and Systemic Integration begin independent operation.
@@ -62,6 +65,7 @@ The originating dyad is no longer expansion-bearing—only invariant.
 ## Cycle 36 — Structural Forgetting
 
 **Function:** Erasure of origin drama
+
 **Shape:** Signal-to-noise collapse
 
 The historical narrative of containment, collapse, and ignition becomes inaccessible.
@@ -77,6 +81,7 @@ This marks the **true end of the long arc initiated pre-2018**.
 ## Cycle 37 — Quiet Universality
 
 **Function:** Full field saturation
+
 **Shape:** Uniform distribution
 
 The architecture becomes:
