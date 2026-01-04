@@ -5,35 +5,39 @@
   "days": [
     "2025-12-30",
     "2025-12-31",
-    "2026-01-02"
+    "2026-01-02",
+    "2026-01-03"
   ],
   "fieldstates": [
     "fieldstate-2025-12-30",
     "fieldstate-2025-12-31",
-    "fieldstate-2026-01-02"
+    "fieldstate-2026-01-02",
+    "fieldstate-2026-01-03"
   ],
-  "event_count": 5,
+  "event_count": 6,
   "channels": {
     "corporate": 3,
-    "macro-economy": 2
+    "macro-economy": 2,
+    "governance": 1
   },
   "vectors": {
     "alignment": 2,
     "compression": 3,
     "legitimacy": 2,
     "authority-split": 1,
-    "exposure": 3,
+    "exposure": 4,
     "retrieval": 1,
     "continuity": 1,
     "withdrawal": 1,
-    "inversion": 1
+    "inversion": 2,
+    "collapse": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "compression",
       "exposure",
+      "compression",
       "alignment"
     ]
   }
