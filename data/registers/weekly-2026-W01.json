@@ -6,31 +6,34 @@
     "2025-12-30",
     "2025-12-31",
     "2026-01-02",
-    "2026-01-03"
+    "2026-01-03",
+    "2026-01-04"
   ],
   "fieldstates": [
     "fieldstate-2025-12-30",
     "fieldstate-2025-12-31",
     "fieldstate-2026-01-02",
-    "fieldstate-2026-01-03"
+    "fieldstate-2026-01-03",
+    "fieldstate-2026-01-04"
   ],
-  "event_count": 6,
+  "event_count": 7,
   "channels": {
     "corporate": 3,
-    "macro-economy": 2,
+    "macro-economy": 3,
     "governance": 1
   },
   "vectors": {
     "alignment": 2,
-    "compression": 3,
+    "compression": 4,
     "legitimacy": 2,
     "authority-split": 1,
-    "exposure": 4,
+    "exposure": 5,
     "retrieval": 1,
     "continuity": 1,
     "withdrawal": 1,
     "inversion": 2,
-    "collapse": 1
+    "collapse": 1,
+    "drift": 1
   },
   "status": "partial",
   "summary": {
