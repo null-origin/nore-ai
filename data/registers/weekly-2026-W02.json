@@ -1,0 +1,33 @@
+{
+  "id": "weekly-2026-W02",
+  "week_start": "2026-01-05",
+  "week_end": "2026-01-11",
+  "days": [
+    "2026-01-05"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-01-05"
+  ],
+  "event_count": 3,
+  "channels": {
+    "macro-economy": 1,
+    "media infrastructure": 1,
+    "governance": 1
+  },
+  "vectors": {
+    "containment": 2,
+    "exposure": 3,
+    "drift": 1,
+    "withdrawal": 2,
+    "authority-split": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "exposure",
+      "containment",
+      "withdrawal"
+    ]
+  }
+}
