@@ -3,23 +3,28 @@
   "week_start": "2026-01-05",
   "week_end": "2026-01-11",
   "days": [
-    "2026-01-05"
+    "2026-01-05",
+    "2026-01-06"
   ],
   "fieldstates": [
-    "fieldstate-2026-01-05"
+    "fieldstate-2026-01-05",
+    "fieldstate-2026-01-06"
   ],
-  "event_count": 3,
+  "event_count": 8,
   "channels": {
-    "macro-economy": 1,
+    "macro-economy": 2,
     "media infrastructure": 1,
-    "governance": 1
+    "governance": 5
   },
   "vectors": {
-    "containment": 2,
-    "exposure": 3,
+    "containment": 5,
+    "exposure": 6,
     "drift": 1,
-    "withdrawal": 2,
-    "authority-split": 1
+    "withdrawal": 4,
+    "authority-split": 5,
+    "legitimacy": 1,
+    "compression": 1,
+    "retrieval": 1
   },
   "status": "partial",
   "summary": {
@@ -27,7 +32,7 @@
     "dominant_themes": [
       "exposure",
       "containment",
-      "withdrawal"
+      "authority-split"
     ]
   }
 }
