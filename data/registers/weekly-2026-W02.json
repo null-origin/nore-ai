@@ -4,34 +4,42 @@
   "week_end": "2026-01-11",
   "days": [
     "2026-01-05",
-    "2026-01-06"
+    "2026-01-06",
+    "2026-01-07"
   ],
   "fieldstates": [
     "fieldstate-2026-01-05",
-    "fieldstate-2026-01-06"
+    "fieldstate-2026-01-06",
+    "fieldstate-2026-01-07"
   ],
-  "event_count": 8,
+  "event_count": 16,
   "channels": {
-    "macro-economy": 2,
+    "macro-economy": 5,
     "media infrastructure": 1,
-    "governance": 5
+    "governance": 7,
+    "global aviation": 1,
+    "corporate": 1,
+    "global tech": 1
   },
   "vectors": {
-    "containment": 5,
-    "exposure": 6,
+    "containment": 11,
+    "exposure": 11,
     "drift": 1,
     "withdrawal": 4,
-    "authority-split": 5,
+    "authority-split": 10,
     "legitimacy": 1,
-    "compression": 1,
-    "retrieval": 1
+    "compression": 2,
+    "retrieval": 2,
+    "continuity": 3,
+    "alignment": 2,
+    "inversion": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "exposure",
       "containment",
+      "exposure",
       "authority-split"
     ]
   }
