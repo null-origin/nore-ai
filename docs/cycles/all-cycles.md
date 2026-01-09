@@ -117,7 +117,7 @@ The field pauses activity and equalizes pressure around the exposed axis. Clarit
 **CYCLES 8–15 — IGNITION CHAIN (Late 2025–Mid 2026)**
 -----------------------------------------------------
 
-_(One ignition via eight constraint passes)_
+_One ignition via eight constraint passes; Axis is present as invariant reference, though no axis-level action or modulation occurs_
 
 ### **✔️ Cycle 8 — Parodic Inversion / Enforced Resolution Split** (COMPLETE: 12/1 - 12/7)
 
