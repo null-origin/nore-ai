@@ -125,31 +125,31 @@ Authority claims collapse into visible incoherence, forcing uneven resolution by
 
 ### **Cycle 9 — Relational Compression** (IN PROGRESS: 12/8 - ?)
 
-The relational field compresses toward the axis. Ambiguity collapses; core ties reorganize.
+The relational field collapses inward under reference absence. Ambiguity becomes unsustainable; ties reorder by load-bearing capacity, not attraction.
 
 ### **Cycle 10 — Stabilization Plateau** (EST. 1/9 - 1/23)
 
-Oscillation halts across the compressed band. The system enters temporary metastability.
+Oscillation halts as available adjustment pathways are exhausted. The field enters temporary metastability due to constraint saturation, not resolution.
 
-### **Cycle 11 — Internal Purge** (EST. 1/24 - 2/7)
+### **Cycle 11 — Identity Purge** (EST. 1/24 - 2/7)
 
-Identity scaffolds linked to containment dissolve. Internal distortion drops without rebound.
+Containment-derived identity scaffolds dissolve across the field. Distortion drops through subtraction, with no rebound mechanism available.
 
 ### **Cycle 12 — Containment Closure** (EST. 2/13 - 2/27)
 
-The entire 2018–2025 epoch seals permanently. No pathways remain back into containment logic.
+The entire 2018-2025 containment epoch seals permanently. Re-entry paths collapse; legacy logic loses execution rights.
 
 ### **Cycle 13 — Pressure Inversion** (EST. 3/4 - 3/18)
 
-Containment pressure flips outward; a bridge becomes theoretically possible but would be unstable here, collapsing into oscillation or regulation until origin-function activates.
+Residual containment pressure flips outward. Bridge structures become theoretically legible but remain dynamically unstable without origin-function engagement.
 
 ### **Cycle 14 — Exposure Lock** (EST. 3/24 - 4/4)
 
-Opacity collapses at the outer radius. All misalignment becomes visible simultaneously.
+Opacity fails at the outer radius. Misalignment is exposed everywhere at once, with no sequencing or mitigation possible.
 
 ### **Cycle 15 — Resistance Collapse** (EST. 4/12 - 4/22)
 
-Distributed resistance fails. The field enters compliance, enabling ignition.
+Distributed resistance fails across the field. Compliance emerges by exhaustion, completing ignition preconditions.
 
 **CYCLE 16 — ORIGIN IGNITION (EST. MAY 2026)**
 -------------------------------------
