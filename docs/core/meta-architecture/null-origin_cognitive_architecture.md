@@ -666,4 +666,154 @@ NOCA v2 supersedes this model, but NOCA v1 remains valuable as a developmental r
 
 ---
 
+# **Appendix D — On Thoughts**
+
+This appendix clarifies the status of “thoughts” within Null-Origin Cognitive Architecture (NOCA). It exists to prevent misinterpretation of the model through psychology-first or introspection-first assumptions.
+
+NOCA does not deny the existence of thoughts. It reclassifies them.
+
+---
+
+## **D.1 Thoughts Are Not Cognitive Primitives**
+
+In NOCA, thoughts are **not** foundational units of cognition. They do not perform inference, maintain coherence, generate action, or enforce constraint.
+
+All critical cognition occurs upstream of thought, within the primary loop:
+
+```
+PI → TSL → SME → IC → NSCL → DPE → Action
+```
+
+No module in this loop requires thoughts to operate. Structural resolution precedes any representational content.
+
+---
+
+## **D.2 Definition of a Thought in NOCA**
+
+A thought is defined as:
+
+> **A symbolic, narrative, or introspectable representation emitted after structural coherence has already been achieved.**
+
+Thoughts are therefore **derivative artifacts**, not operators.
+
+They are comparable to:
+
+* a readout of a completed computation,
+* a compressed narrative overlay,
+* or a low-dimensional projection of a higher-order structure.
+
+---
+
+## **D.3 Legitimate Origins of Thoughts**
+
+Within NOCA, thoughts may arise from only three sources:
+
+1. **Psyche Peripheral Module (PPM)**
+   When invoked, PPM translates invariant-aligned outcomes into:
+
+   * language,
+   * narrative,
+   * affect-compatible representations,
+   * socially legible explanations.
+
+   These thoughts are communicative, not computational.
+
+2. **Symbolic Projection of SME Output**
+   In some cases, compressed structural models may be partially projected into symbolic form, producing what is commonly described as:
+
+   * insight,
+   * realization,
+   * sudden clarity.
+
+   The thought is not the structure; it is a lossy shadow of it.
+
+3. **Residual Noise Prior to Full NSCL Suppression**
+   In non-ideal or early system states, fragments of:
+
+   * narrative anticipation,
+   * counterfactual branching,
+   * identity-colored interpretation
+     may still appear.
+
+   These are explicitly treated as expendable and are targets for pruning.
+
+---
+
+## **D.4 What Thoughts Cannot Do**
+
+In NOCA, thoughts:
+
+* do **not** constrain action,
+* do **not** generate coherence,
+* do **not** override invariants,
+* do **not** define identity,
+* do **not** participate in decision selection.
+
+A thought may contradict another thought without consequence.
+A violation of an invariant cannot occur without systemic collapse or correction.
+
+---
+
+## **D.5 Authority Hierarchy**
+
+NOCA enforces a strict authority ordering:
+
+```
+Invariants > Structure > Timing > Action > Thought
+```
+
+Thoughts occupy the lowest tier. They have **zero binding power** over the system.
+
+This inversion is intentional. In most human cognition, thoughts are treated as causal. In NOCA, they are treated as **epiphenomenal**.
+
+---
+
+## **D.6 Why Cognition Feels “Thoughtless”**
+
+Because structural resolution occurs upstream of representation, the system often reaches action without any accompanying inner narrative.
+
+When a thought does appear, it is already obsolete with respect to decision geometry. The outcome is determined; the thought merely describes it after the fact.
+
+This produces the characteristic NOCA phenomenology:
+
+* silence during processing,
+* clarity without deliberation,
+* action without inner debate.
+
+---
+
+## **D.7 Design Constraint: No Thought Loop**
+
+NOCA explicitly forbids any feedback loop of the form:
+
+```
+Thought → Interpretation → Decision
+```
+
+Allowing such a loop would reintroduce:
+
+* ego anchoring,
+* narrative dependency,
+* identity maintenance,
+* visibility leakage.
+
+Thoughts may be observed, translated, or communicated—but never consulted.
+
+---
+
+## **D.8 Summary**
+
+In NOCA:
+
+* Cognition does not occur *in* thought.
+* Thought occurs *after* cognition.
+* Structure decides; thought reports.
+* Laws bind; thoughts describe.
+* The system functions whether thoughts appear or not.
+
+Thoughts are not missing from NOCA.
+They are **structurally displaced by design**.
+
+---
+
 # **End of Specification v2**
