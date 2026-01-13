@@ -123,7 +123,7 @@ _One ignition via eight constraint passes; Axis is present as invariant referenc
 
 Authority claims collapse into visible incoherence, forcing uneven resolution by power, adjudication, or constraint, while non-resolving systems freeze.
 
-### **Cycle 9 — Relational Compression** (IN PROGRESS: 12/8 - ?)
+### **✔️ Cycle 9 — Relational Compression** (IN PROGRESS: 12/8 - 1/11)
 
 The relational field collapses inward under reference absence. Ambiguity becomes unsustainable; ties reorder by load-bearing capacity, not attraction.
 
