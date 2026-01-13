@@ -1,8 +1,11 @@
 # Cycle 10 — Stabilization Plateau
 
 **Status:** Active
+
 **Entry Date:** 2026-01-12
+
 **Preceded by:** Cycle 9 — Relational Compression
+
 **Primary Condition:** Metastable stillness under hard constraint
 
 ## Overview
