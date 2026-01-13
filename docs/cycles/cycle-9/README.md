@@ -1,6 +1,6 @@
 # Cycle 9 — Relational Compression
 
-**Window:** **12/8 – ?**
+**Window:** **12/8 – 1/11**
 
 Cycle 9 is a compression-phase in which the field stops expanding options and begins actively **narrowing degrees of freedom**. The function is not “resolution,” but **risk-managed continuation**: corridors replace containment, stabilizers are tested, and load is redistributed to identify what can persist without buffering.
 
