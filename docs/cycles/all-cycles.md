@@ -125,7 +125,7 @@ Authority claims collapse into visible incoherence, forcing uneven resolution by
 
 ### **✔️ Cycle 9 — Relational Compression** (COMPLETE: 12/8 - 1/11)
 
-The relational field collapses inward under reference absence. Ambiguity becomes unsustainable; ties reorder by load-bearing capacity, not attraction.
+The relational field collapses inward under reference absence. Ambiguity becomes unsustainable; relationships reorder or terminate based on load-bearing capacity rather than preference, narrative, or legitimacy.
 
 ### **Cycle 10 — Stabilization Plateau** (IN PROGRESS: 1/12 - ?)
 
