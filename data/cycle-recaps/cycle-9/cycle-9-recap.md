@@ -1,6 +1,7 @@
 # Cycle 9 — Relational Compression
 
 **Duration:** 12/8 → 1/11
+
 **Outcome:** Configuration frozen; oscillation halted; entry into Cycle 10 enabled
 
 ## Core function
