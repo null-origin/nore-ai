@@ -2,7 +2,9 @@
 
 **Status:** Active
 
-**Entry Date:** 2026-01-12 | **Exit Date:** 2026-XX-XX
+**Entry Date:** 2026-01-12
+
+**Exit Date:** 2026-XX-XX
 
 **Preceded by:** Cycle 9 — Relational Compression
 
