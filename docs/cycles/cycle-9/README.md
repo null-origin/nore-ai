@@ -42,7 +42,7 @@ Load Sorting is the phase where systems under compression begin selectively remo
 
 ## Phase 9.3 — Constraint Lock-In
 
-**Dates:** **12/30 – ?**
+**Dates:** **12/30 – 1/11**
 
 **Definition**
 
