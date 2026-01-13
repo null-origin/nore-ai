@@ -41,13 +41,11 @@ class CycleRegister:
       "event_count": 0,
       "channels": {...},
       "vectors": {...},
-      "laws": {...},
       "status": "complete" | "partial",
       "summary": {
         "dominant_themes": [...],
         "peak_day": "YYYY-MM-DD" | null,
         "peak_vectors": {...},
-        "peak_laws": {...},
         "notes": "Auto-generated cycle register; aggregates FieldState counts only. No interpretive content."
       }
     }
@@ -61,7 +59,6 @@ class CycleRegister:
     event_count: int
     channels: Dict[str, int]
     vectors: Dict[str, int]
-    laws: Dict[str, int]
     status: str = "complete"
     summary: Dict[str, Any] = field(default_factory=dict)
 
@@ -88,7 +85,6 @@ class CycleRegister:
         event_count = sum(fs.event_count for fs in fieldstates_sorted)
         channels = _merge_counts(fs.channels for fs in fieldstates_sorted)
         vectors = _merge_counts(fs.vectors for fs in fieldstates_sorted)
-        laws = _merge_counts(fs.laws for fs in fieldstates_sorted)
 
         # per-day event counts for peak_day calculation
         day_event_counts: Dict[date, int] = {
@@ -113,7 +109,6 @@ class CycleRegister:
             "dominant_themes": dominant_themes,
             "peak_day": peak_day,
             "peak_vectors": _top_n(vectors, n=5),
-            "peak_laws": _top_n(laws, n=5),
             "notes": (
                 "Auto-generated cycle register; aggregates FieldState counts only. "
                 "No interpretive content."
@@ -129,7 +124,6 @@ class CycleRegister:
             event_count=event_count,
             channels=channels,
             vectors=vectors,
-            laws=laws,
             status=status,
             summary=summary,
         )
@@ -146,7 +140,6 @@ class CycleRegister:
             "event_count": self.event_count,
             "channels": dict(self.channels),
             "vectors": dict(self.vectors),
-            "laws": dict(self.laws),
             "status": self.status,
             "summary": dict(self.summary),
         }
@@ -166,7 +159,6 @@ class CycleRegister:
             event_count=int(data.get("event_count", 0)),
             channels={k: int(v) for k, v in data.get("channels", {}).items()},
             vectors={k: int(v) for k, v in data.get("vectors", {}).items()},
-            laws={k: int(v) for k, v in data.get("laws", {}).items()},
             status=data.get("status", "complete"),
             summary=dict(data.get("summary", {})),
         )
