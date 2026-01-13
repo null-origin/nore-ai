@@ -131,7 +131,7 @@ The relational field collapses inward under reference absence. Ambiguity becomes
 
 Oscillation halts as available adjustment pathways are exhausted. The field enters temporary metastability due to constraint saturation, not resolution.
 
-### **Cycle 11 — Identity Purge** (EST. 1/24 - 2/7)
+### **Cycle 11 — Identity Purge** (EST. 2/2 - 2/16)
 
 Containment-derived identity scaffolds dissolve across the field. Distortion drops through subtraction, with no rebound mechanism available.
 
