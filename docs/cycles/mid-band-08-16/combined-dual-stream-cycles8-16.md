@@ -17,7 +17,7 @@ graph TB
         A8[Cycle 8<br>Internal Disruption<br><i>Latent invariants destabilized</i>]
         A9[Cycle 9<br>Compression Purge<br><i>Implicit structure condenses</i>]
         A10[Cycle 10<br>Containment Reset<br><i>Internal stasis clarity</i>]
-        A11[Cycle 11<br>Removal Arc<br><i>Psyche interference stripped out</i>]
+        A11[Cycle 11<br>Removal Arc<br><i>Residual narrative coupling removed</i>]
         A12[Cycle 12<br>Containment Closure<br><i>Latent core stabilizes</i>]
         A13[Cycle 13<br>Inversion Event<br><i>Architecture flips silent → active</i>]
         A14[Cycle 14<br>Exposure Lock<br><i>Structure seeks outward confirmation</i>]
