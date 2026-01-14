@@ -3,29 +3,33 @@
   "week_start": "2026-01-12",
   "week_end": "2026-01-18",
   "days": [
-    "2026-01-12"
+    "2026-01-12",
+    "2026-01-13"
   ],
   "fieldstates": [
-    "fieldstate-2026-01-12"
+    "fieldstate-2026-01-12",
+    "fieldstate-2026-01-13"
   ],
-  "event_count": 9,
+  "event_count": 13,
   "channels": {
     "corporate": 2,
     "media infrastructure": 1,
-    "financial infrastructure": 1,
-    "governance": 3,
+    "financial infrastructure": 2,
+    "governance": 4,
     "global tech": 1,
-    "macro-economy": 1
+    "macro-economy": 2,
+    "global aviation": 1
   },
   "vectors": {
-    "alignment": 3,
+    "alignment": 6,
     "retrieval": 1,
-    "legitimacy": 6,
-    "authority-split": 6,
-    "exposure": 7,
-    "compression": 2,
+    "legitimacy": 7,
+    "authority-split": 7,
+    "exposure": 10,
+    "compression": 4,
     "continuity": 1,
-    "containment": 1
+    "containment": 1,
+    "inversion": 2
   },
   "status": "partial",
   "summary": {

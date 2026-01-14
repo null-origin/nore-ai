@@ -1,0 +1,39 @@
+{
+  "id": "fieldstate-2026-01-13",
+  "date": "2026-01-13",
+  "event_ids": [
+    "s-2026-01-13-01",
+    "s-2026-01-13-02",
+    "s-2026-01-13-03",
+    "s-2026-01-13-04"
+  ],
+  "event_count": 4,
+  "channels": {
+    "governance": 1,
+    "global aviation": 1,
+    "financial infrastructure": 1,
+    "macro-economy": 1
+  },
+  "sources": {
+    "cnbc": 4
+  },
+  "vectors": {
+    "authority-split": 1,
+    "legitimacy": 1,
+    "exposure": 3,
+    "inversion": 2,
+    "alignment": 3,
+    "compression": 2
+  },
+  "time_start": "2026-01-13T09:45:00-05:00",
+  "time_end": "2026-01-13T11:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "alignment",
+      "inversion"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
