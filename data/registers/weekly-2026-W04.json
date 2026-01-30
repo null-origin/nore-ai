@@ -1,0 +1,29 @@
+{
+  "id": "weekly-2026-W04",
+  "week_start": "2026-01-19",
+  "week_end": "2026-01-25",
+  "days": [
+    "2026-01-19"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-01-19"
+  ],
+  "event_count": 1,
+  "channels": {
+    "governance": 1
+  },
+  "vectors": {
+    "authority-split": 1,
+    "legitimacy": 1,
+    "exposure": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "authority-split",
+      "legitimacy",
+      "exposure"
+    ]
+  }
+}
