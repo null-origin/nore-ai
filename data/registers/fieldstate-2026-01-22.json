@@ -1,0 +1,37 @@
+{
+  "id": "fieldstate-2026-01-22",
+  "date": "2026-01-22",
+  "event_ids": [
+    "s-2026-01-22-01",
+    "s-2026-01-22-02",
+    "s-2026-01-22-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "global aviation": 1,
+    "financial infrastructure": 1,
+    "global tech": 1
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "compression": 2,
+    "bridge": 1,
+    "containment": 1,
+    "exposure": 2,
+    "authority-split": 1,
+    "legitimacy": 2
+  },
+  "time_start": "2026-01-22T08:30:00-05:00",
+  "time_end": "2026-01-22T16:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "exposure",
+      "legitimacy"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
