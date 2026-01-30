@@ -3,19 +3,24 @@
   "week_start": "2026-01-19",
   "week_end": "2026-01-25",
   "days": [
-    "2026-01-19"
+    "2026-01-19",
+    "2026-01-20"
   ],
   "fieldstates": [
-    "fieldstate-2026-01-19"
+    "fieldstate-2026-01-19",
+    "fieldstate-2026-01-20"
   ],
-  "event_count": 1,
+  "event_count": 3,
   "channels": {
-    "governance": 1
+    "governance": 2,
+    "media infrastructure": 1
   },
   "vectors": {
-    "authority-split": 1,
-    "legitimacy": 1,
-    "exposure": 1
+    "authority-split": 2,
+    "legitimacy": 2,
+    "exposure": 1,
+    "compression": 2,
+    "inversion": 2
   },
   "status": "partial",
   "summary": {
@@ -23,7 +28,7 @@
     "dominant_themes": [
       "authority-split",
       "legitimacy",
-      "exposure"
+      "compression"
     ]
   }
 }
