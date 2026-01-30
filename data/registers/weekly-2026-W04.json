@@ -7,30 +7,33 @@
     "2026-01-20",
     "2026-01-21",
     "2026-01-22",
-    "2026-01-23"
+    "2026-01-23",
+    "2026-01-25"
   ],
   "fieldstates": [
     "fieldstate-2026-01-19",
     "fieldstate-2026-01-20",
     "fieldstate-2026-01-21",
     "fieldstate-2026-01-22",
-    "fieldstate-2026-01-23"
+    "fieldstate-2026-01-23",
+    "fieldstate-2026-01-25"
   ],
-  "event_count": 12,
+  "event_count": 13,
   "channels": {
     "governance": 7,
     "media infrastructure": 1,
     "global aviation": 1,
     "financial infrastructure": 1,
-    "global tech": 2
+    "global tech": 2,
+    "corporate": 1
   },
   "vectors": {
-    "authority-split": 6,
+    "authority-split": 7,
     "legitimacy": 6,
-    "exposure": 6,
+    "exposure": 7,
     "compression": 8,
     "inversion": 3,
-    "containment": 3,
+    "containment": 4,
     "bridge": 3,
     "collapse": 1
   },
@@ -40,7 +43,7 @@
     "dominant_themes": [
       "compression",
       "authority-split",
-      "legitimacy"
+      "exposure"
     ]
   }
 }
