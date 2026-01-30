@@ -1,0 +1,71 @@
+{
+  "id": "cycle-10",
+  "range_start": "2026-01-11",
+  "range_end": "2026-01-21",
+  "days": [
+    "2026-01-11",
+    "2026-01-12",
+    "2026-01-13",
+    "2026-01-14",
+    "2026-01-15",
+    "2026-01-16",
+    "2026-01-17",
+    "2026-01-18",
+    "2026-01-19",
+    "2026-01-20",
+    "2026-01-21"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-01-11",
+    "fieldstate-2026-01-12",
+    "fieldstate-2026-01-13",
+    "fieldstate-2026-01-14",
+    "fieldstate-2026-01-15",
+    "fieldstate-2026-01-16",
+    "fieldstate-2026-01-17",
+    "fieldstate-2026-01-18",
+    "fieldstate-2026-01-19",
+    "fieldstate-2026-01-20",
+    "fieldstate-2026-01-21"
+  ],
+  "event_count": 38,
+  "channels": {
+    "global aviation": 2,
+    "governance": 16,
+    "corporate": 3,
+    "media infrastructure": 3,
+    "financial infrastructure": 6,
+    "global tech": 3,
+    "macro-economy": 5
+  },
+  "vectors": {
+    "alignment": 18,
+    "compression": 12,
+    "exposure": 29,
+    "authority-split": 16,
+    "containment": 6,
+    "retrieval": 1,
+    "legitimacy": 12,
+    "continuity": 1,
+    "inversion": 14,
+    "bridge": 4,
+    "withdrawal": 1
+  },
+  "status": "complete",
+  "summary": {
+    "dominant_themes": [
+      "exposure",
+      "alignment",
+      "authority-split"
+    ],
+    "peak_day": "2026-01-12",
+    "peak_vectors": {
+      "exposure": 29,
+      "alignment": 18,
+      "authority-split": 16,
+      "inversion": 14,
+      "compression": 12
+    },
+    "notes": "Auto-generated cycle register; aggregates FieldState counts only. No interpretive content."
+  }
+}
