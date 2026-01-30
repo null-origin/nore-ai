@@ -8,7 +8,8 @@
     "2026-01-14",
     "2026-01-15",
     "2026-01-16",
-    "2026-01-17"
+    "2026-01-17",
+    "2026-01-18"
   ],
   "fieldstates": [
     "fieldstate-2026-01-12",
@@ -16,25 +17,26 @@
     "fieldstate-2026-01-14",
     "fieldstate-2026-01-15",
     "fieldstate-2026-01-16",
-    "fieldstate-2026-01-17"
+    "fieldstate-2026-01-17",
+    "fieldstate-2026-01-18"
   ],
-  "event_count": 27,
+  "event_count": 28,
   "channels": {
     "corporate": 3,
     "media infrastructure": 2,
     "financial infrastructure": 6,
     "governance": 8,
     "global tech": 3,
-    "macro-economy": 4,
+    "macro-economy": 5,
     "global aviation": 1
   },
   "vectors": {
-    "alignment": 16,
+    "alignment": 17,
     "retrieval": 1,
     "legitimacy": 8,
     "authority-split": 10,
-    "exposure": 23,
-    "compression": 5,
+    "exposure": 24,
+    "compression": 6,
     "continuity": 1,
     "containment": 3,
     "inversion": 11,
