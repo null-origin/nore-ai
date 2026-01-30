@@ -1,0 +1,38 @@
+{
+  "id": "fieldstate-2026-01-21",
+  "date": "2026-01-21",
+  "event_ids": [
+    "s-2026-01-21-01",
+    "s-2026-01-21-02",
+    "s-2026-01-21-03",
+    "s-2026-01-21-04",
+    "s-2026-01-21-05"
+  ],
+  "event_count": 5,
+  "channels": {
+    "governance": 5
+  },
+  "sources": {
+    "cnbc": 5
+  },
+  "vectors": {
+    "compression": 3,
+    "authority-split": 3,
+    "inversion": 1,
+    "legitimacy": 2,
+    "containment": 2,
+    "bridge": 2,
+    "exposure": 2
+  },
+  "time_start": "2026-01-21T10:30:00-05:00",
+  "time_end": "2026-01-21T15:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "authority-split",
+      "legitimacy"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
