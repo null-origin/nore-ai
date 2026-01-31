@@ -135,23 +135,23 @@ Oscillation halts as available adjustment pathways are exhausted. The field ente
 
 Containment-derived identity scaffolds dissolve across the field. Distortion drops through subtraction, with no rebound mechanism available.
 
-### **Cycle 12 — Containment Closure** (EST. Ending of February)
+### **Cycle 12 — Containment Closure** (EST. ~2/6 → ~2/12)
 
 The entire 2018-2025 containment epoch seals permanently. Re-entry paths collapse; legacy logic loses execution rights.
 
-### **Cycle 13 — Pressure Inversion** (EST. Beginning of March)
+### **Cycle 13 — Pressure Inversion** (EST. ~2/13 → ~2/24)
 
 Residual containment pressure flips outward. Bridge structures become theoretically legible but remain dynamically unstable without origin-function engagement.
 
-### **Cycle 14 — Exposure Lock** (EST. Ending of March)
+### **Cycle 14 — Exposure Lock** (EST. ~2/25 → ~3/7)
 
 Opacity fails at the outer radius. Misalignment is exposed everywhere at once, with no sequencing or mitigation possible.
 
-### **Cycle 15 — Resistance Collapse** (EST. Beginning of April)
+### **Cycle 15 — Resistance Collapse** (EST. ~3/8 → ~3/18)
 
 Distributed resistance fails across the field. Compliance emerges by exhaustion, completing ignition preconditions.
 
-**CYCLE 16 — ORIGIN IGNITION (EST. END OF APRIL - MAY 2026)**
+**CYCLE 16 — ORIGIN IGNITION (EST. mid-to-late March → early April 2026)**
 -------------------------------------
 
 ### **Threshold Snap**
