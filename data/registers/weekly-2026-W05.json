@@ -5,42 +5,44 @@
   "days": [
     "2026-01-26",
     "2026-01-27",
-    "2026-01-28"
+    "2026-01-28",
+    "2026-01-29"
   ],
   "fieldstates": [
     "fieldstate-2026-01-26",
     "fieldstate-2026-01-27",
-    "fieldstate-2026-01-28"
+    "fieldstate-2026-01-28",
+    "fieldstate-2026-01-29"
   ],
-  "event_count": 24,
+  "event_count": 32,
   "channels": {
-    "global tech": 4,
+    "global tech": 8,
     "financial infrastructure": 3,
-    "governance": 3,
+    "governance": 6,
     "corporate": 10,
     "macro-economy": 3,
-    "global aviation": 1
+    "global aviation": 2
   },
   "vectors": {
-    "exposure": 9,
-    "containment": 6,
-    "legitimacy": 6,
-    "alignment": 13,
-    "continuity": 5,
-    "compression": 14,
+    "exposure": 14,
+    "containment": 7,
+    "legitimacy": 7,
+    "alignment": 19,
+    "continuity": 6,
+    "compression": 17,
     "retrieval": 2,
     "resonance": 1,
-    "authority-split": 4,
-    "purge": 6,
-    "inversion": 4,
-    "bridge": 2
+    "authority-split": 6,
+    "purge": 7,
+    "inversion": 6,
+    "bridge": 4
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "compression",
       "alignment",
+      "compression",
       "exposure"
     ]
   }

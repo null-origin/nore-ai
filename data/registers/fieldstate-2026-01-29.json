@@ -1,0 +1,46 @@
+{
+  "id": "fieldstate-2026-01-29",
+  "date": "2026-01-29",
+  "event_ids": [
+    "s-2026-01-29-01",
+    "s-2026-01-29-02",
+    "s-2026-01-29-03",
+    "s-2026-01-29-04",
+    "s-2026-01-29-05",
+    "s-2026-01-29-06",
+    "s-2026-01-29-07",
+    "s-2026-01-29-08"
+  ],
+  "event_count": 8,
+  "channels": {
+    "global tech": 4,
+    "global aviation": 1,
+    "governance": 3
+  },
+  "sources": {
+    "cnbc": 8
+  },
+  "vectors": {
+    "exposure": 5,
+    "alignment": 6,
+    "inversion": 2,
+    "compression": 3,
+    "purge": 1,
+    "continuity": 1,
+    "containment": 1,
+    "bridge": 2,
+    "authority-split": 2,
+    "legitimacy": 1
+  },
+  "time_start": "2026-01-29T10:15:00-05:00",
+  "time_end": "2026-01-29T19:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "alignment",
+      "exposure",
+      "compression"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
