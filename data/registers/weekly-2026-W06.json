@@ -1,0 +1,37 @@
+{
+  "id": "weekly-2026-W06",
+  "week_start": "2026-02-02",
+  "week_end": "2026-02-08",
+  "days": [
+    "2026-02-02"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-02-02"
+  ],
+  "event_count": 6,
+  "channels": {
+    "financial infrastructure": 1,
+    "corporate": 3,
+    "governance": 2
+  },
+  "vectors": {
+    "collapse": 1,
+    "compression": 5,
+    "exposure": 3,
+    "alignment": 4,
+    "inversion": 1,
+    "data-vacuum": 1,
+    "withdrawal": 1,
+    "bridge": 1,
+    "legitimacy": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "compression",
+      "alignment",
+      "exposure"
+    ]
+  }
+}
