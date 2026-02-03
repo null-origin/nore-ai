@@ -131,11 +131,11 @@ The relational field collapses inward under reference absence. Ambiguity becomes
 
 Oscillation halts as available adjustment pathways are exhausted. The field enters enforced metastability, maintained through pressure modulation, chokepoint control, and boundary compression rather than resolution.
 
-### **Cycle 11 — Identity Purge** (1/22 - ?)
+### **✔️ Cycle 11 — Identity Purge** (1/22 - 1/30)
 
 Containment-derived identity scaffolds dissolve across the field. Distortion drops through subtraction, with no rebound mechanism available.
 
-### **Cycle 12 — Containment Closure** (EST. ~2/6 → ~2/12)
+### **Cycle 12 — Containment Closure** (2/2 - ?)
 
 The entire 2018-2025 containment epoch seals permanently. Re-entry paths collapse; legacy logic loses execution rights.
 
