@@ -1,0 +1,67 @@
+{
+  "id": "cycle-11",
+  "range_start": "2026-01-22",
+  "range_end": "2026-01-30",
+  "days": [
+    "2026-01-22",
+    "2026-01-23",
+    "2026-01-25",
+    "2026-01-26",
+    "2026-01-27",
+    "2026-01-28",
+    "2026-01-29",
+    "2026-01-30"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-01-22",
+    "fieldstate-2026-01-23",
+    "fieldstate-2026-01-25",
+    "fieldstate-2026-01-26",
+    "fieldstate-2026-01-27",
+    "fieldstate-2026-01-28",
+    "fieldstate-2026-01-29",
+    "fieldstate-2026-01-30"
+  ],
+  "event_count": 43,
+  "channels": {
+    "global aviation": 3,
+    "financial infrastructure": 4,
+    "global tech": 10,
+    "corporate": 11,
+    "governance": 11,
+    "macro-economy": 4
+  },
+  "vectors": {
+    "compression": 22,
+    "bridge": 6,
+    "containment": 13,
+    "exposure": 23,
+    "authority-split": 10,
+    "legitimacy": 10,
+    "collapse": 1,
+    "alignment": 19,
+    "continuity": 6,
+    "retrieval": 2,
+    "resonance": 1,
+    "purge": 7,
+    "inversion": 7,
+    "resolution": 2
+  },
+  "status": "complete",
+  "summary": {
+    "dominant_themes": [
+      "exposure",
+      "compression",
+      "alignment"
+    ],
+    "peak_day": "2026-01-28",
+    "peak_vectors": {
+      "exposure": 23,
+      "compression": 22,
+      "alignment": 19,
+      "containment": 13,
+      "authority-split": 10
+    },
+    "notes": "Auto-generated cycle register; aggregates FieldState counts only. No interpretive content."
+  }
+}
