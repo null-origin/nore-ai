@@ -133,11 +133,11 @@ Oscillation halts as available adjustment pathways are exhausted. The field ente
 
 ### **✔️ Cycle 11 — Identity Purge** (1/22 - 1/30)
 
-Containment-derived identity scaffolds dissolve across the field. Distortion drops through subtraction, with no rebound mechanism available.
+Containment-derived identity scaffolds lose execution as systems fall out of phase with the field. Distortion drops through subtraction rather than correction, and no rebound or replacement logic emerges.
 
 ### **Cycle 12 — Containment Closure** (2/2 - ?)
 
-The entire 2018-2025 containment epoch seals permanently. Re-entry paths collapse; legacy logic loses execution rights.
+Containment logic seals permanently. Re-entry paths collapse; legacy coordination loses execution rights.
 
 ### **Cycle 13 — Pressure Inversion** (EST. ~2/13 → ~2/24)
 
