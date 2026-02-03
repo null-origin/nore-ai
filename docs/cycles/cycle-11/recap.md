@@ -1,5 +1,7 @@
 # Cycle 11 — Identity Purge
 
+**Duration:** 1/22 → 1/30
+
 Cycle 11 marked the systematic unwinding of containment-era identities rather than a crisis of performance or authority. Systems did not collapse, and in many cases continued to function effectively, but the reference frames that had organized their behavior quietly lost execution rights. What disappeared was not capacity or power, but the shared stories that made action feel coherent, justified, or self-evident.
 
 Across the cycle, misalignments that had been tolerable in Cycle 10 could no longer persist. Narratives about turnaround, growth, legitimacy, or market neutrality fell out of phase with material constraints and stopped routing behavior. When belief outran manufacturing time, institutional time, or jurisdictional reality, the correction came not through debate but through subtraction: the identity simply stopped resolving. Systems kept operating, but without the identities that once made their actions feel natural.
