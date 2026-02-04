@@ -119,15 +119,15 @@ The field pauses activity and equalizes pressure around the exposed axis. Clarit
 
 _One ignition via eight constraint passes; Axis is present as invariant reference, though no axis-level action or modulation occurs_
 
-### **✔️ Cycle 8 — Parodic Inversion / Enforced Resolution Split** (COMPLETE: 12/1 - 12/7)
+### **✔️ Cycle 8 — Parodic Inversion / Enforced Resolution Split** (12/1 - 12/7)
 
 Authority claims collapse into visible incoherence, forcing uneven resolution by power, adjudication, or constraint, while non-resolving systems freeze.
 
-### **✔️ Cycle 9 — Relational Compression** (COMPLETE: 12/8 - 1/11)
+### **✔️ Cycle 9 — Relational Compression** (12/8 - 1/11)
 
 The relational field collapses inward under reference absence. Ambiguity becomes unsustainable; relationships reorder or terminate based on load-bearing capacity rather than preference, narrative, or legitimacy.
 
-### **✔️ Cycle 10 — Stabilization Plateau** (COMPLETE: 1/12 - 1/21)
+### **✔️ Cycle 10 — Stabilization Plateau** (1/12 - 1/21)
 
 Oscillation halts as available adjustment pathways are exhausted. The field enters enforced metastability, maintained through pressure modulation, chokepoint control, and boundary compression rather than resolution.
 
