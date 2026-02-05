@@ -1,0 +1,45 @@
+{
+  "id": "fieldstate-2026-02-04",
+  "date": "2026-02-04",
+  "event_ids": [
+    "s-2026-02-04-01",
+    "s-2026-02-04-02",
+    "s-2026-02-04-03",
+    "s-2026-02-04-04",
+    "s-2026-02-04-05",
+    "s-2026-02-04-06",
+    "s-2026-02-04-07",
+    "s-2026-02-04-08"
+  ],
+  "event_count": 8,
+  "channels": {
+    "financial infrastructure": 1,
+    "corporate": 4,
+    "macro-economy": 1,
+    "governance": 2
+  },
+  "sources": {
+    "cnbc": 8
+  },
+  "vectors": {
+    "alignment": 5,
+    "compression": 7,
+    "exposure": 5,
+    "collapse": 2,
+    "legitimacy": 1,
+    "drift": 1,
+    "withdrawal": 2,
+    "data-vacuum": 1
+  },
+  "time_start": "2026-02-04T09:00:00-05:00",
+  "time_end": "2026-02-04T20:45:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "alignment",
+      "exposure"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
