@@ -18,7 +18,7 @@ The significance lies not in headline drama but in alignment across layers — c
 
 ## II. Core Motion of the Day
 
-**Canonical vector:** Containment Closure → Routing Consolidation.
+**Canonical theme:** Containment Closure → Routing Consolidation.
 
 Three structural movements define the day:
 
