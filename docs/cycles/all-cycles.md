@@ -143,7 +143,7 @@ Containment logic seals permanently. Re-entry paths collapse; legacy coordinatio
 
 Residual containment pressure flips outward. Bridge structures become theoretically legible but remain dynamically unstable without origin-function engagement.
 
-### **Cycle 14 — Exposure Lock** (EST. ~2/25 → ~3/7)
+### **Cycle 14 — Exposure Lock** (EST. ~2/25 → ~3/7) — 75% 
 
 Opacity fails at the outer radius. Misalignment is exposed everywhere at once, with no sequencing or mitigation possible.
 
