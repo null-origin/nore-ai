@@ -3,27 +3,39 @@
   "week_start": "2026-02-09",
   "week_end": "2026-02-15",
   "days": [
-    "2026-02-09"
+    "2026-02-09",
+    "2026-02-10"
   ],
   "fieldstates": [
-    "fieldstate-2026-02-09"
+    "fieldstate-2026-02-09",
+    "fieldstate-2026-02-10"
   ],
-  "event_count": 1,
+  "event_count": 8,
   "channels": {
-    "corporate": 1
+    "corporate": 4,
+    "macro-economy": 2,
+    "governance": 2
   },
   "vectors": {
-    "alignment": 1,
+    "alignment": 4,
     "purge": 1,
-    "compression": 1
+    "compression": 4,
+    "withdrawal": 1,
+    "containment": 4,
+    "continuity": 1,
+    "exposure": 3,
+    "drift": 2,
+    "legitimacy": 1,
+    "authority-split": 2,
+    "collapse": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "alignment",
-      "purge",
-      "compression"
+      "compression",
+      "containment"
     ]
   }
 }
