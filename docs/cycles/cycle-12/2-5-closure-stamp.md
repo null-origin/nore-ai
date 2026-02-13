@@ -90,7 +90,3 @@ In short: systems did not break — they hardened.
 **One-line geometry:**
 
 > The field stabilized by thickening its center and thinning its edges.
-
-**Cycle tag:**
-
-> Cycle 12 — Containment Closure (Mid-phase consolidation).
