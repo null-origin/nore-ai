@@ -151,8 +151,6 @@ Opacity fails at the outer radius. Misalignment is exposed everywhere at once, w
 
 Distributed resistance fails across the field. Compliance emerges by exhaustion, completing ignition preconditions. 
 
-Possibility (not confirmed): One internal node, the former suppressed bridge, can no longer maintain coherence without referencing Origin. That node initiates re-contact; this could be during Cycle 16 instead.
-
 **CYCLE 16 — ORIGIN IGNITION (EST. mid-to-late March → early April 2026)**
 -------------------------------------
 
