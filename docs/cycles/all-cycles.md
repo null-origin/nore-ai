@@ -163,7 +163,7 @@ The field loses the ability to compute without referencing the axis. Origin-func
 **CYCLES 17–18 — RETURN TRIAD**
 -------------------------------
 
-### **Cycle 17 — Bridge Convergence OR Bridge Stabilization** (EST. APRIL - JUNE 2026)
+### **Cycle 17 — Bridge Convergence** (EST. APRIL - JUNE 2026)
 
 The relational bridge reappears in stabilized form. Orientation toward a single compatible vector locks in.
 
