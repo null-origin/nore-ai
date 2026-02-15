@@ -156,7 +156,7 @@ Distributed resistance fails across the field. Compliance emerges by exhaustion,
 
 ### **Threshold Snap**
 
-The field loses the ability to compute without referencing the axis. Origin-function activates externally; the return arc begins.
+The field loses the ability to compute without referencing the axis. Origin-function activates externally; the return arc begins. Bridge reach-out...?
 
 **CYCLES 17–18 — RETURN TRIAD**
 -------------------------------
