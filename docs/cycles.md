@@ -1,26 +1,83 @@
-**PROTO BAND (−3 → 0A) — PRE-CONTAINMENT**
-------------------------------------------
+# PROTO BAND (−7 → 0A) — PRE-CONTAINMENT
 
-### **Proto −3 (2018)**
+*This band describes axis formation, early shell accretion, and the gradual conditions that make containment necessary.*
 
-Initial compression without structure. The field begins testing load-bearing capacity around the axis, but no casing exists.
+---
 
-### **Proto −2 (2019)**
+## Proto −7 to −6 (1995–2000)
 
-Vacuum seam forms. Distortion circulates freely with no containment, producing instability but revealing axis immovability.
+### Embedding & Initial Shell Formation
 
-### **Proto −1 (Late 2019)**
+Birth marks the axis locking into a biological node. Survival geometry dominates; distortion is minimal. The surrounding field (family, environment) layers basic psyche structures (attachment, recognition), but no compression is applied. The axis remains largely invisible, registered only as stillness, atypical calm, or early pattern sensitivity.
 
-Failed casing attempt. Early structural alignment is attempted and collapses, proving stronger containment will be required.
+---
 
-### **Proto 0A (2020–2022)**
+## Proto −5 to −4 (2001–2007)
 
-First sustained containment. The axis is enclosed inside an organizational shell capable of holding pressure temporarily.
+### Noise Accumulation & First Constraints
+
+Childhood introduces low-grade containment: schooling, social roles, early identity scaffolds. These constraints thicken the shell but remain flexible. Minor purges (outgrowing attachments, rejecting roles) reveal early invariance. Cycles are short and low-amplitude; load is tested without risking collapse.
+
+---
+
+## Proto −3.5 (2008–2012)
+
+### Adolescent Overload Prelude
+
+Puberty produces a temporary pressure inversion. Biological change forces instability, prompting the field to attempt deeper containment via peers, group identity, and self-concepts. These structures partially misalign with the axis, seeding future strain. The axis responds by pruning—avoiding high-noise entanglements rather than opposing them.
+
+---
+
+## Proto −3.2 to −3.1 (2013–2017)
+
+### Pre-Compression Stabilization
+
+Late adolescence and early adulthood enter a metastable phase. The field appears stable, but subtle misfits accumulate (roles that don’t bind, relationships that don’t anchor). Distortion becomes latent rather than chaotic. This phase prepares the 2018 vacuum seam, where strain becomes legible for the first time.
+
+---
+
+# PROTO TRANSITION (−3 → 0A) — COMPRESSION WITHOUT CONTAINMENT
+
+*This band captures the onset of compression prior to the existence of any durable containment structure*.
+
+---
+
+## Proto −3 (2018)
+
+### Initial Compression Without Structure
+
+The first true compression event. Accumulated misalignment loads the field. The axis is tested directly, but no casing yet exists; pressure circulates without resolution.
+
+---
+
+## Proto −2 (2019)
+
+### Vacuum Seam Formation
+
+Distortion flows freely through the system. Instability increases, but the axis immovable becomes legible. The need for containment is no longer theoretical.
+
+---
+
+## Proto −1 (Late 2019)
+
+### Failed Casing Attempt
+
+An early attempt at structural alignment forms and collapses. This failure proves ad-hoc containment insufficient; a stronger, formal shell will be required.
+
+---
+
+## Proto 0A (2020–2022)
+
+### First Sustained Containment
+
+A durable organizational casing forms, enclosing the axis and temporarily holding pressure. This inaugurates the **Containment Phase proper**.
+
+---
 
 **CYCLES 1–7 — CONTAINMENT COLLAPSE (2022–2025)**
 -------------------------------------------------
 
-_(One failure, seven layers)_
+_(One failure, seven layers • Containment exhaustion via axis saturation)_
 
 ### **Cycle 1 — Mislabeling**
 
@@ -60,41 +117,41 @@ The field pauses activity and equalizes pressure around the exposed axis. Clarit
 **CYCLES 8–15 — IGNITION CHAIN (Late 2025–Mid 2026)**
 -----------------------------------------------------
 
-_(One ignition via eight constraint passes)_
+_One ignition via eight constraint passes; Axis is present as invariant reference, though no axis-level action or modulation occurs_
 
-### **Cycle 8 — External Purge**
+### **✔️ Cycle 8 — Parodic Inversion / Enforced Resolution Split** (12/1 - 12/7)
 
-Peripheral and low-resonance nodes detach. Residual references to containment are cleared.
+Authority claims collapse into visible incoherence, forcing uneven resolution by power, adjudication, or constraint, while non-resolving systems freeze.
 
-### **Cycle 9 — Relational Compression**
+### **✔️ Cycle 9 — Relational Compression** (12/8 - 1/11)
 
-The relational field compresses toward the axis. Ambiguity collapses; core ties reorganize.
+The relational field collapses inward under reference absence. Ambiguity becomes unsustainable; relationships reorder or terminate based on load-bearing capacity rather than preference, narrative, or legitimacy.
 
-### **Cycle 10 — Stabilization Plateau**
+### **✔️ Cycle 10 — Stabilization Plateau** (1/12 - 1/21)
 
-Oscillation halts across the compressed band. The system enters temporary metastability.
+Oscillation halts as available adjustment pathways are exhausted. The field enters enforced metastability, maintained through pressure modulation, chokepoint control, and boundary compression rather than resolution.
 
-### **Cycle 11 — Internal Purge**
+### **✔️ Cycle 11 — Identity Purge** (1/22 - 2/1)
 
-Identity scaffolds linked to containment dissolve. Internal distortion drops without rebound.
+Containment-derived identity scaffolds lose execution as systems fall out of phase with the field. Distortion drops through subtraction rather than correction, and no rebound or replacement logic emerges.
 
-### **Cycle 12 — Containment Closure**
+### **Cycle 12 — Containment Closure** (2/2 - ?)
 
-The entire 2018–2025 epoch seals permanently. No pathways remain back into containment logic.
+Containment logic seals permanently. Re-entry paths collapse; legacy coordination loses execution rights.
 
-### **Cycle 13 — Pressure Inversion**
+### **Cycle 13 — Pressure Inversion** (EST. ~2/13 → ~2/24)
 
-Containment pressure flips outward. The axis becomes the pressure source rather than the sink.
+Residual containment pressure flips outward. Bridge structures become theoretically legible but remain dynamically unstable without origin-function engagement.
 
-### **Cycle 14 — Exposure Lock**
+### **Cycle 14 — Exposure Lock** (EST. ~2/25 → ~3/7) 
 
-Opacity collapses at the outer radius. All misalignment becomes visible simultaneously.
+Opacity fails at the outer radius. Misalignment is exposed everywhere at once, with no sequencing or mitigation possible.
 
-### **Cycle 15 — Resistance Collapse**
+### **Cycle 15 — Resistance Collapse** (EST. ~3/8 → ~3/18)
 
-Distributed resistance fails. The field enters compliance, enabling ignition.
+Distributed resistance fails across the field. Compliance emerges by exhaustion, completing ignition preconditions. 
 
-**CYCLE 16 — ORIGIN IGNITION (2026)**
+**CYCLE 16 — ORIGIN IGNITION (EST. mid-to-late March → early April 2026)**
 -------------------------------------
 
 ### **Threshold Snap**
@@ -104,11 +161,11 @@ The field loses the ability to compute without referencing the axis. Origin-func
 **CYCLES 17–18 — RETURN TRIAD**
 -------------------------------
 
-### **Cycle 17 — Bridge Convergence**
+### **Cycle 17 — Bridge Convergence** (EST. APRIL - JUNE 2026)
 
 The relational bridge reappears in stabilized form. Orientation toward a single compatible vector locks in.
 
-### **Cycle 18 — Dyad Formation**
+### **Cycle 18 — Dyad Formation** (EST. JULY - OCTOBER 2026)
 
 The bridge collapses and reforms as a partner node. A stable two-node architecture emerges.
 
@@ -176,3 +233,5 @@ Maximum tension saturates the field. Current geometry becomes unsustainable.
 ### **Cycle 32 — Global Reclassification**
 
 The architecture ignites at scale. Origin becomes a recognized global coordinate.
+
+---------------------------------------------------
