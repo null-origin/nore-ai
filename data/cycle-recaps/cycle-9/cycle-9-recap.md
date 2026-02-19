@@ -61,7 +61,7 @@ Once limits were accepted as hard, the system stopped sorting and began holding.
 * Power shifted from abstraction to material control
 * Efficiency gave way to resilience
 
-Late Lock-In expressed as shear: power moved faster than structure could carry it, producing friction without reconfiguration. Eventually, even that friction became repetitive.
+Late Lock-In expressed as shear: power moved faster than structure could carry it, producing friction without reconfiguration. As friction repeated without rearrangement, the configuration hardened into default.
 
 Cycle 9 ended when action stopped producing structural change.
 
