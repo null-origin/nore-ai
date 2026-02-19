@@ -6,13 +6,11 @@
 
 ## Core function
 
-Cycle 9 compressed systems, relationships, and institutions down to what could still carry load under hard limits. It did not decide futures; it eliminated optionality until only survivable configurations remained.
-
-Where Cycle 8 stripped false legitimacy, Cycle 9 determined what remains once legitimacy no longer coordinates behavior.
+Cycle 9 compressed systems until authority routing became determinate. Optionality narrowed, alternatives were sorted, and degrees of freedom were reduced until power flowed through stable, predictable pathways. The cycle did not centralize for its own sake; it eliminated routing ambiguity under hard constraint.
 
 ## Phase 9.1 — Constrained Stabilization (12/8–12/12)
 
-**Function:** Prevent divergence after overshoot.
+**Function:** Variance reduction. Routing still flexible but narrowing.
 
 Systems recognized they had exceeded sustainable variance and responded by aggressively narrowing degrees of freedom. Growth was abandoned, but collapse was actively avoided.
 
@@ -28,7 +26,7 @@ This phase ended when it became clear the system could remove stabilizers and st
 
 ## Phase 9.2 — Load Sorting (12/13–12/29)
 
-**Function:** Determine who and what can carry forward load.
+**Function:** Selection of nodes capable of carrying authority under constraint. Incompatible paths decay. Routing alternatives collapse.
 
 Once stabilization could no longer be maintained symmetrically, the system allowed uneven outcomes. Capacity replaced narrative. Survivability replaced legitimacy.
 
@@ -47,9 +45,9 @@ The phase ended when alternatives stopped mattering and configuration became sel
 
 ## Phase 9.3 — Constraint Lock-In (12/30–1/11)
 
-**Function:** Freeze the compressed configuration.
+**Function:** Routing hardens into default pathways. Shocks occur, but no longer redirect authority flow. Friction appears, but topology remains unchanged.
 
-Once limits were accepted as hard, the system stopped sorting and began holding. Constraints hardened into defaults. Enforcement replaced coordination. Structure stopped changing even as events continued.
+Once limits were accepted as hard, routing stopped adapting. Authority flowed through the same channels regardless of shock or signal. Structure ceased reorganizing because viable alternatives had already been eliminated. Concentration appeared where those fixed pathways favored dense or force-capable nodes, but determinacy—not minimization—defined the lock-in.
 
 **Key features:**
 
@@ -73,4 +71,4 @@ Cycle 9 ended when action stopped producing structural change.
 
 ## Canonical one-paragraph summary
 
-Cycle 9 compressed systems under hard constraint until variance narrowed and optionality colapsed. Stabilization efforts reduced divergence but could not restore expansion, leading to asymmetric load sorting where capacity replaced narrative and survivability replaced legitimacy. As alternatives fell away, constraints hardened into defaults and sorting gave way to lock-in. Shocks continued, but no longer reorganized structure; enforcement replaced coordination and autonomy receded into centralized control. The cycle completed when compression eliminated remaining degrees of freedom and action ceased to alter topology, freezing configuration and setting the conditions for Cycle 10's metastable holding phase.
+Cycle 9 compressed systems under hard constraint until authority routing topology stabilized. Stabilization reduced divergence, then load sorting eliminated incompatible pathways as survivability displaced legitimacy. Alternatives fell away and routing ambiguity collapsed into determinacy: power flowed through predictable channels regardless of event variance. Shocks generated friction but did not reroute authority. Concentrated emerged where fixed pathways favored durable nodes, but the defining shift was topological stability under stress. The cycle completed when action ceased to alter routing structure, freeing configuration and enabling the metastable holding regime of Cycle 10.
