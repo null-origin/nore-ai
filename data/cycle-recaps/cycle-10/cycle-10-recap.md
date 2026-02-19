@@ -12,7 +12,7 @@ Cycle 10 maintained systemic coherence after compression had already frozen conf
 
 Where Cycle 9 determined what could still carry load, Cycle 10 tested whether that load-bearing configuration could be sustained without further adaptation.
 
-The field entered metastability: activity continued, shocks propagated, and authority moved—but topology remained invariant.
+The field entered metastability: activity persisted, but loops no longer closed. Value was produced but not absorbed; signals moved faster than execution; authority concentrated while independence thinned.
 
 ---
 
@@ -101,4 +101,4 @@ Cycle 10 ended when stability could no longer be maintained even through pressur
 
 ## Canonical one-paragraph summary
 
-Cycle 10 held the system in a metastable plateau after compression had frozen configuration. With no remaining adjustment pathways, stability was preserved through direct routing of authority, pressure modulation, chokepoint control, and boundary compression. Institutions persisted in form but weakened in function as rules gave way to access, timing, and leverage. Growth collapsed inward toward bottlenecks, activity continued without closure, and restoration narratives lost organizing power. The cycle ended when systems fell out of temporal alignment with the field itself, triggering identity failure without conflict and enabling the entry into Cycle 11.
+Cycle 10 held the system in a metastable plateau after compression had frozen configuration. With adjustment pathways exhausted, stability was preserved through concentration and insulation: authority routed directly through executive and platform nodes, core institutions absorbed political and economic load, and growth collapsed inward toward bottlenecks. Segmentation became the stabilization mechanism—liquidity, demand, and independence persisted at the top while peripheral domains were managed rather than repaired. Pressure replaced rule execution: chokepoints, timing, and access governed outcomes. Production continued even when absorption failed, and value was created without closure. Institutions remained visible but increasingly operated through exception and leverage rather than durable limits. The cycle ended when expansion-era identities could no longer regulate behavior inside a containment geometry, triggering temporal misalignment and enabling entry into Cycle 11.
