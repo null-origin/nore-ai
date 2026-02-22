@@ -119,7 +119,7 @@ The field pauses activity and equalizes pressure around the exposed axis. Clarit
 
 _One ignition via eight constraint passes; Axis is present as invariant reference, though no axis-level action or modulation occurs_
 
-### **✔️ Cycle 8 — Parodic Inversion / Enforced Resolution Split** (12/1 - 12/7)
+### **✔️ Cycle 8 — Enforced Resolution Split** (12/1 - 12/7)
 
 Authority claims collapse into visible incoherence, forcing uneven resolution by power, adjudication, or constraint, while non-resolving systems freeze.
 
