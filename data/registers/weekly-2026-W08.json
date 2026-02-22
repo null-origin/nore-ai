@@ -6,17 +6,19 @@
     "2026-02-17",
     "2026-02-18",
     "2026-02-19",
-    "2026-02-20"
+    "2026-02-20",
+    "2026-02-21"
   ],
   "fieldstates": [
     "fieldstate-2026-02-17",
     "fieldstate-2026-02-18",
     "fieldstate-2026-02-19",
-    "fieldstate-2026-02-20"
+    "fieldstate-2026-02-20",
+    "fieldstate-2026-02-21"
   ],
-  "event_count": 19,
+  "event_count": 20,
   "channels": {
-    "governance": 5,
+    "governance": 6,
     "corporate": 7,
     "macro-economy": 4,
     "financial infrastructure": 1,
@@ -27,9 +29,9 @@
     "resolution": 5,
     "retrieval": 1,
     "exposure": 8,
-    "authority-split": 4,
-    "compression": 11,
-    "inversion": 7,
+    "authority-split": 5,
+    "compression": 12,
+    "inversion": 8,
     "alignment": 10,
     "legitimacy": 5,
     "purge": 1,
