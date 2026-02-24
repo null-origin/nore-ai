@@ -1,0 +1,39 @@
+{
+  "id": "weekly-2026-W09",
+  "week_start": "2026-02-23",
+  "week_end": "2026-03-01",
+  "days": [
+    "2026-02-23"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-02-23"
+  ],
+  "event_count": 5,
+  "channels": {
+    "macro-economy": 1,
+    "corporate": 1,
+    "global aviation": 1,
+    "global tech": 1,
+    "governance": 1
+  },
+  "vectors": {
+    "compression": 4,
+    "inversion": 3,
+    "resonance": 1,
+    "exposure": 2,
+    "containment": 1,
+    "withdrawal": 1,
+    "retrieval": 1,
+    "resolution": 1,
+    "legitimacy": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "compression",
+      "inversion",
+      "exposure"
+    ]
+  }
+}

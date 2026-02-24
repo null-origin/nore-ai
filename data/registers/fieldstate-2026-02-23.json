@@ -1,0 +1,44 @@
+{
+  "id": "fieldstate-2026-02-23",
+  "date": "2026-02-23",
+  "event_ids": [
+    "s-2026-02-23-01",
+    "s-2026-02-23-02",
+    "s-2026-02-23-03",
+    "s-2026-02-23-04",
+    "s-2026-02-23-05"
+  ],
+  "event_count": 5,
+  "channels": {
+    "macro-economy": 1,
+    "corporate": 1,
+    "global aviation": 1,
+    "global tech": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 5
+  },
+  "vectors": {
+    "compression": 4,
+    "inversion": 3,
+    "resonance": 1,
+    "exposure": 2,
+    "containment": 1,
+    "withdrawal": 1,
+    "retrieval": 1,
+    "resolution": 1,
+    "legitimacy": 1
+  },
+  "time_start": "2026-02-23T11:15:00-05:00",
+  "time_end": "2026-02-23T17:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "inversion",
+      "exposure"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
