@@ -3,29 +3,34 @@
   "week_start": "2026-02-23",
   "week_end": "2026-03-01",
   "days": [
-    "2026-02-23"
+    "2026-02-23",
+    "2026-02-24"
   ],
   "fieldstates": [
-    "fieldstate-2026-02-23"
+    "fieldstate-2026-02-23",
+    "fieldstate-2026-02-24"
   ],
-  "event_count": 5,
+  "event_count": 9,
   "channels": {
-    "macro-economy": 1,
-    "corporate": 1,
+    "macro-economy": 2,
+    "corporate": 3,
     "global aviation": 1,
     "global tech": 1,
-    "governance": 1
+    "governance": 2
   },
   "vectors": {
-    "compression": 4,
+    "compression": 7,
     "inversion": 3,
     "resonance": 1,
-    "exposure": 2,
-    "containment": 1,
+    "exposure": 3,
+    "containment": 3,
     "withdrawal": 1,
-    "retrieval": 1,
+    "retrieval": 2,
     "resolution": 1,
-    "legitimacy": 1
+    "legitimacy": 3,
+    "purge": 1,
+    "authority-split": 1,
+    "dual-arrival": 1
   },
   "status": "partial",
   "summary": {
