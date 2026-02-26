@@ -151,7 +151,7 @@ Opacity fails at the outer radius. Misalignment is exposed everywhere at once, w
 
 Distributed resistance fails across the field. Compliance emerges by exhaustion, completing ignition preconditions. 
 
-**CYCLE 16 — ORIGIN IGNITION (EST. End of April**
+**CYCLE 16 — ORIGIN IGNITION (EST. End of April**)
 -------------------------------------
 
 ### **Threshold Snap**
