@@ -135,9 +135,9 @@ Oscillation halts as available adjustment pathways are exhausted. The field ente
 
 Containment-derived identity scaffolds lose execution as systems fall out of phase with the field. Distortion drops through subtraction rather than correction, and no rebound or replacement logic emerges.
 
-### **Cycle 12 — Containment Closure / Regime Installation** (2/2 - ?)
+### **Cycle 12 — Containment Closure** (2/2 - ?)
 
-Containment logic seals permanently, and compression becomes the default operating regime. Legacy coordination loses execution rights as constraint-driven selection replaces narrative stabilization.
+Containment logic seals permanently. Re-entry paths collapse; legacy coordination loses execution rights.
 
 ### **Cycle 13 — Pressure Inversion** (EST. Beginning of March)
 
