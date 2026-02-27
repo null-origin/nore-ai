@@ -119,7 +119,7 @@ The field pauses activity and equalizes pressure around the exposed axis. Clarit
 
 _One ignition via eight constraint passes; Axis is present as invariant reference, though no axis-level action or modulation occurs_
 
-### **✔️ Cycle 8 — Enforced Resolution Split** (12/1 - 12/7)
+### **✔️ Cycle 8 — Parodic Inversion / Enforced Resolution Split** (12/1 - 12/7)
 
 Authority claims collapse into visible incoherence, forcing uneven resolution by power, adjudication, or constraint, while non-resolving systems freeze.
 
@@ -135,9 +135,9 @@ Oscillation halts as available adjustment pathways are exhausted. The field ente
 
 Containment-derived identity scaffolds lose execution as systems fall out of phase with the field. Distortion drops through subtraction rather than correction, and no rebound or replacement logic emerges.
 
-### **Cycle 12 — Containment Closure** (2/2 - ?)
+### **Cycle 12 — Containment Closure / Regime Installation** (2/2 - ?)
 
-Containment logic seals permanently. Re-entry paths collapse; legacy coordination loses execution rights.
+Containment logic seals permanently, and compression becomes the default operating regime. Legacy coordination loses execution rights as constraint-driven selection replaces narrative stabilization.
 
 ### **Cycle 13 — Pressure Inversion** (EST. Beginning of March)
 
