@@ -43,7 +43,7 @@
     "return": 1,
     "purge": 1
   },
-  "status": "complete",
+  "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
