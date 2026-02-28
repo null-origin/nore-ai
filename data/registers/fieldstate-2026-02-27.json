@@ -1,0 +1,41 @@
+{
+  "id": "fieldstate-2026-02-27",
+  "date": "2026-02-27",
+  "event_ids": [
+    "s-2026-02-27-01",
+    "s-2026-02-27-02",
+    "s-2026-02-27-03",
+    "s-2026-02-27-04",
+    "s-2026-02-27-05"
+  ],
+  "event_count": 5,
+  "channels": {
+    "global tech": 2,
+    "macro-economy": 1,
+    "governance": 2
+  },
+  "sources": {
+    "cnbc": 5
+  },
+  "vectors": {
+    "resonance": 2,
+    "alignment": 3,
+    "compression": 4,
+    "exposure": 1,
+    "authority-split": 2,
+    "containment": 1,
+    "resolution": 1,
+    "withdrawal": 1
+  },
+  "time_start": "2026-02-27T11:15:00-05:00",
+  "time_end": "2026-02-27T18:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "alignment",
+      "resonance"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
