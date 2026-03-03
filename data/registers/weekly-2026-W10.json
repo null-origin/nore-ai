@@ -1,0 +1,31 @@
+{
+  "id": "weekly-2026-W10",
+  "week_start": "2026-03-02",
+  "week_end": "2026-03-08",
+  "days": [
+    "2026-03-02"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-03-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "macro-economy": 1,
+    "global tech": 1
+  },
+  "vectors": {
+    "compression": 2,
+    "exposure": 2,
+    "inversion": 1,
+    "collapse": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "compression",
+      "exposure",
+      "inversion"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fieldstate-2026-03-02",
+  "date": "2026-03-02",
+  "event_ids": [
+    "s-2026-03-02-01",
+    "s-2026-03-02-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "macro-economy": 1,
+    "global tech": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "compression": 2,
+    "exposure": 2,
+    "inversion": 1,
+    "collapse": 1
+  },
+  "time_start": "2026-03-02T12:15:00-05:00",
+  "time_end": "2026-03-02T22:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "exposure",
+      "inversion"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
