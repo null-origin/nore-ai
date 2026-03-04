@@ -1,0 +1,34 @@
+{
+  "id": "fieldstate-2026-03-03",
+  "date": "2026-03-03",
+  "event_ids": [
+    "s-2026-03-03-01",
+    "s-2026-03-03-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "corporate": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "drift": 1,
+    "compression": 1,
+    "exposure": 2,
+    "legitimacy": 1,
+    "authority-split": 1
+  },
+  "time_start": "2026-03-03T10:00:00-05:00",
+  "time_end": "2026-03-03T18:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "drift",
+      "compression"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
