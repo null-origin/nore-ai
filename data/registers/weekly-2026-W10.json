@@ -5,34 +5,38 @@
   "days": [
     "2026-03-02",
     "2026-03-03",
-    "2026-03-04"
+    "2026-03-04",
+    "2026-03-05"
   ],
   "fieldstates": [
     "fieldstate-2026-03-02",
     "fieldstate-2026-03-03",
-    "fieldstate-2026-03-04"
+    "fieldstate-2026-03-04",
+    "fieldstate-2026-03-05"
   ],
-  "event_count": 12,
+  "event_count": 18,
   "channels": {
-    "macro-economy": 2,
-    "global tech": 2,
-    "corporate": 2,
-    "governance": 4,
-    "financial infrastructure": 2
+    "macro-economy": 3,
+    "global tech": 3,
+    "corporate": 3,
+    "governance": 6,
+    "financial infrastructure": 3
   },
   "vectors": {
-    "compression": 9,
-    "exposure": 8,
-    "inversion": 2,
+    "compression": 12,
+    "exposure": 11,
+    "inversion": 5,
     "collapse": 2,
     "drift": 2,
-    "legitimacy": 1,
-    "authority-split": 3,
+    "legitimacy": 2,
+    "authority-split": 6,
     "containment": 1,
-    "alignment": 4,
+    "alignment": 6,
     "bridge": 2,
     "retrieval": 1,
-    "resonance": 1
+    "resonance": 2,
+    "continuity": 1,
+    "purge": 1
   },
   "status": "partial",
   "summary": {
@@ -40,7 +44,7 @@
     "dominant_themes": [
       "compression",
       "exposure",
-      "alignment"
+      "authority-split"
     ]
   }
 }
