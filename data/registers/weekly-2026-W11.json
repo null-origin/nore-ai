@@ -1,0 +1,35 @@
+{
+  "id": "weekly-2026-W11",
+  "week_start": "2026-03-09",
+  "week_end": "2026-03-15",
+  "days": [
+    "2026-03-09"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-03-09"
+  ],
+  "event_count": 5,
+  "channels": {
+    "macro-economy": 2,
+    "corporate": 1,
+    "governance": 2
+  },
+  "vectors": {
+    "compression": 3,
+    "exposure": 4,
+    "containment": 2,
+    "alignment": 2,
+    "purge": 1,
+    "legitimacy": 1,
+    "authority-split": 2
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "exposure",
+      "compression",
+      "containment"
+    ]
+  }
+}
