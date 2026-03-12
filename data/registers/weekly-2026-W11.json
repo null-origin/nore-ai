@@ -4,28 +4,33 @@
   "week_end": "2026-03-15",
   "days": [
     "2026-03-09",
-    "2026-03-10"
+    "2026-03-10",
+    "2026-03-11"
   ],
   "fieldstates": [
     "fieldstate-2026-03-09",
-    "fieldstate-2026-03-10"
+    "fieldstate-2026-03-10",
+    "fieldstate-2026-03-11"
   ],
-  "event_count": 9,
+  "event_count": 15,
   "channels": {
-    "macro-economy": 2,
-    "corporate": 2,
-    "governance": 4,
-    "financial infrastructure": 1
+    "macro-economy": 4,
+    "corporate": 3,
+    "governance": 5,
+    "financial infrastructure": 3
   },
   "vectors": {
-    "compression": 4,
-    "exposure": 7,
-    "containment": 3,
-    "alignment": 5,
+    "compression": 6,
+    "exposure": 10,
+    "containment": 6,
+    "alignment": 10,
     "purge": 1,
     "legitimacy": 3,
     "authority-split": 3,
-    "bridge": 1
+    "bridge": 2,
+    "continuity": 2,
+    "retrieval": 1,
+    "inversion": 1
   },
   "status": "partial",
   "summary": {
