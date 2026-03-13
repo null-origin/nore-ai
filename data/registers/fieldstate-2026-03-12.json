@@ -1,0 +1,45 @@
+{
+  "id": "fieldstate-2026-03-12",
+  "date": "2026-03-12",
+  "event_ids": [
+    "s-2026-03-12-01",
+    "s-2026-03-12-02",
+    "s-2026-03-12-03",
+    "s-2026-03-12-04",
+    "s-2026-03-12-05",
+    "s-2026-03-12-06",
+    "s-2026-03-12-07",
+    "s-2026-03-12-08"
+  ],
+  "event_count": 8,
+  "channels": {
+    "macro-economy": 1,
+    "governance": 6,
+    "corporate": 1
+  },
+  "sources": {
+    "cnbc": 8
+  },
+  "vectors": {
+    "compression": 2,
+    "exposure": 5,
+    "containment": 6,
+    "authority-split": 2,
+    "alignment": 3,
+    "bridge": 2,
+    "continuity": 1,
+    "inversion": 1,
+    "retrieval": 2
+  },
+  "time_start": "2026-03-12T08:00:00-05:00",
+  "time_end": "2026-03-12T22:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "containment",
+      "exposure",
+      "alignment"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
