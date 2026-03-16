@@ -7,26 +7,28 @@
     "2026-03-10",
     "2026-03-11",
     "2026-03-12",
-    "2026-03-13"
+    "2026-03-13",
+    "2026-03-15"
   ],
   "fieldstates": [
     "fieldstate-2026-03-09",
     "fieldstate-2026-03-10",
     "fieldstate-2026-03-11",
     "fieldstate-2026-03-12",
-    "fieldstate-2026-03-13"
+    "fieldstate-2026-03-13",
+    "fieldstate-2026-03-15"
   ],
-  "event_count": 26,
+  "event_count": 27,
   "channels": {
-    "macro-economy": 6,
+    "macro-economy": 7,
     "corporate": 4,
     "governance": 13,
     "financial infrastructure": 3
   },
   "vectors": {
-    "compression": 10,
-    "exposure": 18,
-    "containment": 14,
+    "compression": 11,
+    "exposure": 19,
+    "containment": 15,
     "alignment": 13,
     "purge": 1,
     "legitimacy": 3,
