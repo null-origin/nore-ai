@@ -1,6 +1,7 @@
 # Cycle 12 — Containment Closure (Recap)
 
 **Duration:** 2/2 → 3/19
+
 **Core Function:** Transformation of containment from a reactive mechanism into the system’s dominant operating regime.
 
 ---
