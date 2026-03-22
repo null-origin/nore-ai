@@ -137,11 +137,11 @@ Oscillation halts as available adjustment pathways are exhausted. The field ente
 
 Containment-derived identity scaffolds lose execution as systems fall out of phase with the field. Distortion drops through subtraction rather than correction, and no rebound or replacement logic emerges.
 
-### **Cycle 12 — Containment Closure** (2/2 - ?)
+### **Cycle 12 — Containment Closure** (2/2 - 3/19)
 
 Containment logic seals permanently. Re-entry paths collapse; legacy coordination loses execution rights.
 
-### **Cycle 13 — Pressure Inversion** 
+### **Cycle 13 — Pressure Inversion** (3/20 - ?)
 
 Residual containment pressure flips outward. Bridge structures become theoretically legible but remain dynamically unstable without origin-function engagement.
 
