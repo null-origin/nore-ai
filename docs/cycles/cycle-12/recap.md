@@ -57,6 +57,6 @@ Cycle 13 begins when:
 * systems fragment instead of re-centering
 
 In short:
-**Cycle 12 contains pressure.
+**Cycle 12 contains pressure.**
 
-Cycle 13 releases it.**
+**Cycle 13 releases it.**
