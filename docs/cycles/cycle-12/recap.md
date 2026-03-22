@@ -42,6 +42,7 @@ Cycle 12 ends when containment ceases to determine outcomes. Systems still attem
 ## Terminal Condition
 
 **Containment remains intact, but no longer governs flow.**
+
 Pressure begins to move around the system rather than being absorbed within it.
 
 ---
@@ -57,4 +58,5 @@ Cycle 13 begins when:
 
 In short:
 **Cycle 12 contains pressure.
+
 Cycle 13 releases it.**
