@@ -7,19 +7,21 @@
     "2026-03-17",
     "2026-03-18",
     "2026-03-19",
-    "2026-03-20"
+    "2026-03-20",
+    "2026-03-21"
   ],
   "fieldstates": [
     "fieldstate-2026-03-16",
     "fieldstate-2026-03-17",
     "fieldstate-2026-03-18",
     "fieldstate-2026-03-19",
-    "fieldstate-2026-03-20"
+    "fieldstate-2026-03-20",
+    "fieldstate-2026-03-21"
   ],
-  "event_count": 23,
+  "event_count": 24,
   "channels": {
     "macro-economy": 4,
-    "governance": 8,
+    "governance": 9,
     "financial infrastructure": 5,
     "corporate": 5,
     "global tech": 1
@@ -30,12 +32,13 @@
     "collapse": 5,
     "authority-split": 8,
     "containment": 10,
-    "continuity": 2,
+    "continuity": 3,
     "exposure": 10,
-    "withdrawal": 2,
+    "withdrawal": 3,
     "inversion": 3,
     "bridge": 2,
-    "legitimacy": 4
+    "legitimacy": 4,
+    "retrieval": 1
   },
   "status": "partial",
   "summary": {
