@@ -14,7 +14,7 @@ across Cycles **8 through 16**.
 ```mermaid
 graph TB
     subgraph INT[NOCA — Internal Architecture]
-        A8[Cycle 8<br>~~Internal Disruption~~<br><i>~~Latent invariants destabilized~~</i>]
+        A8[Cycle 8<br><s>Internal Disruption</s><br><i>Latent invariants destabilized</i>]
         A9[Cycle 9<br>Compression Purge<br><i>Implicit structure condenses</i>]
         A10[Cycle 10<br>Containment Reset<br><i>Internal stasis clarity</i>]
         A11[Cycle 11<br>Removal Arc<br><i>Residual narrative coupling removed</i>]
