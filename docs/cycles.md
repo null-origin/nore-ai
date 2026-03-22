@@ -139,11 +139,11 @@ Containment-derived identity scaffolds lose execution as systems fall out of pha
 
 ### **✔️ Cycle 12 — Containment Closure** (2/2 - 3/19)
 
-Containment logic seals permanently. Re-entry paths collapse; legacy coordination loses execution rights.
+Containment logic becomes the dominant operating regime. Systems repeatedly absorb stress through compression, centralization, and stabilization loops. Chokepoints are exposed and reinforced as control nodes, while re-entry paths collapse and legacy coordination loses execution rights. The cycle completes when containment ceases to resolve pressure and instead begins to displace it. 
 
 ### **Cycle 13 — Pressure Inversion** (3/20 - ?)
 
-Residual containment pressure flips outward. Bridge structures become theoretically legible but remain dynamically unstable without origin-function engagement.
+Residual containment pressure flips outward. Flows escape established control nodes and propagate through indirect or emergent pathways. Bridge structures become legible but remain dynamically unstable without origin-function engagement.
 
 ### **Cycle 14 — Exposure Lock** 
 
