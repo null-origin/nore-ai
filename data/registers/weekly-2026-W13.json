@@ -4,27 +4,31 @@
   "week_end": "2026-03-29",
   "days": [
     "2026-03-23",
-    "2026-03-24"
+    "2026-03-24",
+    "2026-03-25"
   ],
   "fieldstates": [
     "fieldstate-2026-03-23",
-    "fieldstate-2026-03-24"
+    "fieldstate-2026-03-24",
+    "fieldstate-2026-03-25"
   ],
-  "event_count": 7,
+  "event_count": 10,
   "channels": {
     "macro-economy": 3,
-    "governance": 4
+    "governance": 6,
+    "corporate": 1
   },
   "vectors": {
     "compression": 3,
-    "containment": 2,
-    "exposure": 5,
-    "inversion": 4,
+    "containment": 3,
+    "exposure": 7,
+    "inversion": 5,
     "withdrawal": 1,
     "authority-split": 2,
     "data-vacuum": 1,
-    "alignment": 2,
-    "resolution": 1
+    "alignment": 4,
+    "resolution": 2,
+    "continuity": 2
   },
   "status": "partial",
   "summary": {
@@ -32,7 +36,7 @@
     "dominant_themes": [
       "exposure",
       "inversion",
-      "compression"
+      "alignment"
     ]
   }
 }
