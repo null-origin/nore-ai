@@ -143,7 +143,7 @@ Containment logic becomes the dominant operating regime. Systems repeatedly abso
 
 ### **Cycle 13 — Pressure Inversion** (3/20 - ?)
 
-Containment fails by inversion: flows reroute beyond control, anchors dissolve, and chokepoints destabilize into oscillation. Systems begin resolving through coupled, threshold-driven shifts while concentrating control inward, but this consolidation cannot restore stability. Pressure accumulates across domains into a metastable, unresolved state.
+Residual containment pressure flips outward. Flows escape established control nodes and propagate through indirect or emergent pathways. Bridge structures become legible but remain dynamically unstable without origin-function engagement.
 
 ### **Cycle 14 — Exposure Lock** 
 
