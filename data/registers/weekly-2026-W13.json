@@ -6,39 +6,42 @@
     "2026-03-23",
     "2026-03-24",
     "2026-03-25",
-    "2026-03-26"
+    "2026-03-26",
+    "2026-03-27"
   ],
   "fieldstates": [
     "fieldstate-2026-03-23",
     "fieldstate-2026-03-24",
     "fieldstate-2026-03-25",
-    "fieldstate-2026-03-26"
+    "fieldstate-2026-03-26",
+    "fieldstate-2026-03-27"
   ],
-  "event_count": 15,
+  "event_count": 17,
   "channels": {
     "macro-economy": 3,
-    "governance": 10,
-    "corporate": 2
+    "governance": 11,
+    "corporate": 2,
+    "sports": 1
   },
   "vectors": {
     "compression": 5,
-    "containment": 6,
-    "exposure": 9,
-    "inversion": 7,
-    "withdrawal": 1,
+    "containment": 8,
+    "exposure": 10,
+    "inversion": 8,
+    "withdrawal": 2,
     "authority-split": 6,
     "data-vacuum": 1,
     "alignment": 4,
     "resolution": 2,
-    "continuity": 4
+    "continuity": 5
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "exposure",
-      "inversion",
-      "containment"
+      "containment",
+      "inversion"
     ]
   }
 }
