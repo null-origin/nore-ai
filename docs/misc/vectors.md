@@ -259,13 +259,13 @@ Primitive, irreducible structural forces.
 
 ## **19. contest**
 
-**Definition:** Termination of an open structural contest into a single irreversible outcome.
+**Definition:** Simultaneous incompatible claims on the same structural position, resource, or legitimacy channel, generating pressure toward differentiation, exclusion, or eventual resolution.
 
-**Triggers:** formal closure events; binding decisions; enforced finality; exhaustion of appeal space.
+**Triggers:** overlapping claims; scarce or singular slots; emerging entrants into occupied space; legitimacy disputes; resource bottlenecks; timing collisions between actors.
 
-**Mechanics:** Ambiguity collapses; competing paths are pruned; alignment is locked by constraint rather than consent. Future state-space reduces to one viable trajectory.
+**Mechanics:** Multiple actors converge on the same coordinate, creating interference. The field cannot sustain all claims, so pressure increases—manifesting as signaling, escalation, differentiation, or constraint imposition.
 
-**Examples:** M&A fully closed with assets integrated; final court ruling with no appeal; election certified and seated; bankruptcy confirmed and liquidated; permanent policy repeal with enforcement.
+**Examples:** Two firms targeting the same dominant market segment with incompatible pricing or distribution models; rival standards competing for adoption within a single ecosystem; multiple candidates claiming the same leadership position.
 
 ---
 
