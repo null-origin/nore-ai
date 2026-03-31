@@ -1,0 +1,31 @@
+{
+  "id": "weekly-2026-W14",
+  "week_start": "2026-03-30",
+  "week_end": "2026-04-05",
+  "days": [
+    "2026-03-30"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-03-30"
+  ],
+  "event_count": 2,
+  "channels": {
+    "governance": 1,
+    "macro-economy": 1
+  },
+  "vectors": {
+    "exposure": 2,
+    "authority-split": 1,
+    "compression": 2,
+    "resonance": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "exposure",
+      "compression",
+      "authority-split"
+    ]
+  }
+}
