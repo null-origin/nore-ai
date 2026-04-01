@@ -25,14 +25,14 @@
     "authority-split": 3,
     "compression": 10,
     "resonance": 2,
-    "alignment": 6,
-    "contest": 9,
+    "alignment": 5,
+    "contest": 10,
     "retrieval": 1,
     "bridge": 2,
     "withdrawal": 1,
     "containment": 2,
     "inversion": 1,
-    "continuity": 1
+    "legitimacy": 1
   },
   "status": "partial",
   "summary": {
