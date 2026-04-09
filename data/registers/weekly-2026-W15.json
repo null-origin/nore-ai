@@ -3,33 +3,40 @@
   "week_start": "2026-04-06",
   "week_end": "2026-04-12",
   "days": [
-    "2026-04-07"
+    "2026-04-07",
+    "2026-04-08"
   ],
   "fieldstates": [
-    "fieldstate-2026-04-07"
+    "fieldstate-2026-04-07",
+    "fieldstate-2026-04-08"
   ],
-  "event_count": 5,
+  "event_count": 10,
   "channels": {
-    "corporate": 1,
+    "corporate": 2,
     "macro-economy": 2,
-    "governance": 2
+    "governance": 3,
+    "global tech": 2,
+    "financial infrastructure": 1
   },
   "vectors": {
-    "bridge": 4,
-    "contest": 2,
-    "alignment": 4,
-    "compression": 1,
+    "bridge": 6,
+    "contest": 6,
+    "alignment": 6,
+    "compression": 2,
     "continuity": 1,
-    "containment": 2,
-    "inversion": 1
+    "containment": 5,
+    "inversion": 1,
+    "drift": 1,
+    "exposure": 1,
+    "authority-split": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "bridge",
-      "alignment",
-      "contest"
+      "contest",
+      "alignment"
     ]
   }
 }
