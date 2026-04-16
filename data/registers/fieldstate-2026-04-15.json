@@ -1,0 +1,41 @@
+{
+  "id": "fieldstate-2026-04-15",
+  "date": "2026-04-15",
+  "event_ids": [
+    "s-2026-04-15-01",
+    "s-2026-04-15-02",
+    "s-2026-04-15-03",
+    "s-2026-04-15-04",
+    "s-2026-04-15-05"
+  ],
+  "event_count": 5,
+  "channels": {
+    "global tech": 1,
+    "financial infrastructure": 2,
+    "corporate": 1,
+    "global aviation": 1
+  },
+  "sources": {
+    "cnbc": 5
+  },
+  "vectors": {
+    "expansion": 3,
+    "exposure": 4,
+    "containment": 1,
+    "alignment": 2,
+    "compression": 2,
+    "inversion": 1,
+    "collapse": 2
+  },
+  "time_start": "2026-04-15T10:15:00-05:00",
+  "time_end": "2026-04-15T19:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "exposure",
+      "expansion",
+      "alignment"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
