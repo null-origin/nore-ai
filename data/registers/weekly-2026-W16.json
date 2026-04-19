@@ -7,20 +7,22 @@
     "2026-04-14",
     "2026-04-15",
     "2026-04-16",
-    "2026-04-17"
+    "2026-04-17",
+    "2026-04-18"
   ],
   "fieldstates": [
     "fieldstate-2026-04-13",
     "fieldstate-2026-04-14",
     "fieldstate-2026-04-15",
     "fieldstate-2026-04-16",
-    "fieldstate-2026-04-17"
+    "fieldstate-2026-04-17",
+    "fieldstate-2026-04-18"
   ],
-  "event_count": 25,
+  "event_count": 26,
   "channels": {
     "financial infrastructure": 6,
     "global tech": 5,
-    "governance": 7,
+    "governance": 8,
     "macro-economy": 4,
     "corporate": 1,
     "global aviation": 1,
@@ -28,11 +30,11 @@
   },
   "vectors": {
     "exposure": 16,
-    "inversion": 9,
+    "inversion": 10,
     "compression": 10,
-    "contest": 12,
+    "contest": 13,
     "bridge": 4,
-    "containment": 8,
+    "containment": 9,
     "withdrawal": 2,
     "alignment": 4,
     "legitimacy": 1,
@@ -46,7 +48,7 @@
     "dominant_themes": [
       "exposure",
       "contest",
-      "compression"
+      "inversion"
     ]
   }
 }
