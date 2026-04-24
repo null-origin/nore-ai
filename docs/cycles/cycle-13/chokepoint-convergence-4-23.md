@@ -124,7 +124,7 @@ Infrastructure / Coordination Failure
 
 ## Cycle 13 Significance
 
-This should be marked as a significant Cycle 13 entry because the data does not merely show isolated instability. It shows the pressure-inversion mechanism operating across multiple domains at once.
+April 23, 2026 has been marked as a significant Cycle 13 entry because the data does not merely show isolated instability... it shows the pressure-inversion mechanism operating across multiple domains at once.
 
 The key signature is not crisis alone. The key signature is cross-domain rerouting:
 
