@@ -122,14 +122,6 @@ Infrastructure / Coordination Failure
 2. Institutional Lag
 3. AI Infrastructure Compression
 
-## Text
-
-AI demand reorganizes the global stack while inherited coordination systems lag behind. Memory, CPUs, analog chips, energy routes, labor structures, legal categories, and prediction markets all reveal pressure escaping old containers and concentrating around narrower control nodes.
-
-## Meta-Tags
-
-AI stack, chokepoints, institutional lag
-
 ## Cycle 13 Significance
 
 This should be marked as a significant Cycle 13 entry because the data does not merely show isolated instability. It shows the pressure-inversion mechanism operating across multiple domains at once.
