@@ -6,18 +6,20 @@
     "2026-04-20",
     "2026-04-21",
     "2026-04-22",
-    "2026-04-23"
+    "2026-04-23",
+    "2026-04-24"
   ],
   "fieldstates": [
     "fieldstate-2026-04-20",
     "fieldstate-2026-04-21",
     "fieldstate-2026-04-22",
-    "fieldstate-2026-04-23"
+    "fieldstate-2026-04-23",
+    "fieldstate-2026-04-24"
   ],
-  "event_count": 29,
+  "event_count": 30,
   "channels": {
     "corporate": 8,
-    "financial infrastructure": 4,
+    "financial infrastructure": 5,
     "global tech": 6,
     "governance": 9,
     "macro-economy": 2
@@ -27,17 +29,17 @@
     "alignment": 9,
     "expansion": 9,
     "contest": 15,
-    "legitimacy": 7,
+    "legitimacy": 8,
     "containment": 11,
     "continuity": 5,
-    "withdrawal": 1,
+    "withdrawal": 2,
     "exposure": 3,
     "escalation": 4,
     "resolution": 2,
     "redistribution": 1,
     "return": 2,
     "authority-split": 2,
-    "bridge": 2,
+    "bridge": 3,
     "fragmentation": 1,
     "drift": 1,
     "purge": 2,
