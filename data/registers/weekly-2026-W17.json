@@ -7,21 +7,23 @@
     "2026-04-21",
     "2026-04-22",
     "2026-04-23",
-    "2026-04-24"
+    "2026-04-24",
+    "2026-04-25"
   ],
   "fieldstates": [
     "fieldstate-2026-04-20",
     "fieldstate-2026-04-21",
     "fieldstate-2026-04-22",
     "fieldstate-2026-04-23",
-    "fieldstate-2026-04-24"
+    "fieldstate-2026-04-24",
+    "fieldstate-2026-04-25"
   ],
-  "event_count": 30,
+  "event_count": 31,
   "channels": {
     "corporate": 8,
     "financial infrastructure": 5,
     "global tech": 6,
-    "governance": 9,
+    "governance": 10,
     "macro-economy": 2
   },
   "vectors": {
@@ -30,10 +32,10 @@
     "expansion": 9,
     "contest": 15,
     "legitimacy": 8,
-    "containment": 11,
-    "continuity": 5,
+    "containment": 12,
+    "continuity": 6,
     "withdrawal": 2,
-    "exposure": 3,
+    "exposure": 4,
     "escalation": 4,
     "resolution": 2,
     "redistribution": 1,
