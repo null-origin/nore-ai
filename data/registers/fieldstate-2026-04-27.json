@@ -1,0 +1,45 @@
+{
+  "id": "fieldstate-2026-04-27",
+  "date": "2026-04-27",
+  "event_ids": [
+    "s-2026-04-27-01",
+    "s-2026-04-27-02",
+    "s-2026-04-27-03",
+    "s-2026-04-27-04",
+    "s-2026-04-27-05",
+    "s-2026-04-27-06"
+  ],
+  "event_count": 6,
+  "channels": {
+    "macro-economy": 1,
+    "global tech": 2,
+    "corporate": 1,
+    "governance": 2
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "compression": 1,
+    "redistribution": 2,
+    "expansion": 3,
+    "containment": 2,
+    "contest": 3,
+    "withdrawal": 1,
+    "alignment": 2,
+    "inversion": 1,
+    "continuity": 2,
+    "legitimacy": 1
+  },
+  "time_start": "2026-04-27T10:30:00-05:00",
+  "time_end": "2026-04-27T20:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "expansion",
+      "contest",
+      "redistribution"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
