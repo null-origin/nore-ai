@@ -1,0 +1,37 @@
+{
+  "id": "fieldstate-2026-05-01",
+  "date": "2026-05-01",
+  "event_ids": [
+    "s-2026-05-01-01",
+    "s-2026-05-01-02",
+    "s-2026-05-01-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "global tech": 1,
+    "corporate": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "containment": 2,
+    "contest": 3,
+    "fragmentation": 1,
+    "collapse": 1,
+    "inversion": 1,
+    "legitimacy": 1
+  },
+  "time_start": "2026-05-01T10:00:00-05:00",
+  "time_end": "2026-05-01T18:15:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "contest",
+      "containment",
+      "fragmentation"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
