@@ -1,0 +1,35 @@
+{
+  "id": "fieldstate-2026-05-02",
+  "date": "2026-05-02",
+  "event_ids": [
+    "s-2026-05-02-01",
+    "s-2026-05-02-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "corporate": 1,
+    "financial infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "collapse": 1,
+    "withdrawal": 1,
+    "fragmentation": 1,
+    "concentration": 1,
+    "continuity": 1,
+    "redistribution": 1
+  },
+  "time_start": "2026-05-02T09:00:00-05:00",
+  "time_end": "2026-05-02T11:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "collapse",
+      "withdrawal",
+      "fragmentation"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
