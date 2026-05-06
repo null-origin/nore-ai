@@ -3,23 +3,28 @@
   "week_start": "2026-05-04",
   "week_end": "2026-05-10",
   "days": [
-    "2026-05-04"
+    "2026-05-04",
+    "2026-05-05"
   ],
   "fieldstates": [
-    "fieldstate-2026-05-04"
+    "fieldstate-2026-05-04",
+    "fieldstate-2026-05-05"
   ],
-  "event_count": 3,
+  "event_count": 5,
   "channels": {
     "corporate": 2,
-    "governance": 1
+    "governance": 2,
+    "financial infrastructure": 1
   },
   "vectors": {
-    "contest": 2,
-    "concentration": 2,
-    "legitimacy": 2,
-    "withdrawal": 1,
+    "contest": 3,
+    "concentration": 3,
+    "legitimacy": 3,
+    "withdrawal": 2,
     "authority-split": 1,
-    "expansion": 1
+    "expansion": 1,
+    "compression": 1,
+    "containment": 1
   },
   "status": "partial",
   "summary": {
