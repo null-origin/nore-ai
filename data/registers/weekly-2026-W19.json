@@ -6,42 +6,48 @@
     "2026-05-04",
     "2026-05-05",
     "2026-05-06",
-    "2026-05-07"
+    "2026-05-07",
+    "2026-05-08"
   ],
   "fieldstates": [
     "fieldstate-2026-05-04",
     "fieldstate-2026-05-05",
     "fieldstate-2026-05-06",
-    "fieldstate-2026-05-07"
+    "fieldstate-2026-05-07",
+    "fieldstate-2026-05-08"
   ],
-  "event_count": 23,
+  "event_count": 31,
   "channels": {
-    "corporate": 11,
-    "governance": 4,
-    "financial infrastructure": 2,
-    "macro-economy": 3,
-    "global tech": 3
+    "corporate": 14,
+    "governance": 5,
+    "financial infrastructure": 3,
+    "macro-economy": 5,
+    "global tech": 4
   },
   "vectors": {
-    "contest": 7,
-    "concentration": 10,
-    "legitimacy": 10,
+    "contest": 8,
+    "concentration": 13,
+    "legitimacy": 13,
     "withdrawal": 3,
-    "authority-split": 2,
-    "expansion": 6,
-    "compression": 5,
+    "authority-split": 3,
+    "expansion": 7,
+    "compression": 8,
     "containment": 1,
     "redistribution": 3,
-    "volatility": 5,
+    "volatility": 6,
     "fragmentation": 5,
     "bridge": 2,
     "escalation": 2,
-    "continuity": 3,
+    "continuity": 4,
     "inversion": 1,
-    "resonance": 1,
+    "resonance": 2,
     "collapse": 1,
-    "archetype": 1,
-    "contingency": 1
+    "archetype": 2,
+    "contingency": 2,
+    "drift": 4,
+    "data-vacuum": 1,
+    "exposure": 1,
+    "divergence": 1
   },
   "status": "partial",
   "summary": {
