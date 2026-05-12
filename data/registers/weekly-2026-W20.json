@@ -1,0 +1,31 @@
+{
+  "id": "weekly-2026-W20",
+  "week_start": "2026-05-11",
+  "week_end": "2026-05-17",
+  "days": [
+    "2026-05-11"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-05-11"
+  ],
+  "event_count": 2,
+  "channels": {
+    "governance": 2
+  },
+  "vectors": {
+    "contest": 2,
+    "compression": 1,
+    "divergence": 1,
+    "containment": 1,
+    "escalation": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "contest",
+      "compression",
+      "divergence"
+    ]
+  }
+}
