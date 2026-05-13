@@ -3,29 +3,36 @@
   "week_start": "2026-05-11",
   "week_end": "2026-05-17",
   "days": [
-    "2026-05-11"
+    "2026-05-11",
+    "2026-05-12"
   ],
   "fieldstates": [
-    "fieldstate-2026-05-11"
+    "fieldstate-2026-05-11",
+    "fieldstate-2026-05-12"
   ],
-  "event_count": 2,
+  "event_count": 5,
   "channels": {
-    "governance": 2
+    "governance": 3,
+    "financial infrastructure": 1,
+    "macro-economy": 1
   },
   "vectors": {
-    "contest": 2,
-    "compression": 1,
-    "divergence": 1,
+    "contest": 4,
+    "compression": 2,
+    "divergence": 3,
     "containment": 1,
-    "escalation": 1
+    "escalation": 1,
+    "volatility": 2,
+    "fragmentation": 1,
+    "withdrawal": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "contest",
-      "compression",
-      "divergence"
+      "divergence",
+      "compression"
     ]
   }
 }

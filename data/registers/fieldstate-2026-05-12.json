@@ -1,0 +1,37 @@
+{
+  "id": "fieldstate-2026-05-12",
+  "date": "2026-05-12",
+  "event_ids": [
+    "s-2026-05-12-01",
+    "s-2026-05-12-02",
+    "s-2026-05-12-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "financial infrastructure": 1,
+    "macro-economy": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "contest": 2,
+    "divergence": 2,
+    "volatility": 2,
+    "compression": 1,
+    "fragmentation": 1,
+    "withdrawal": 1
+  },
+  "time_start": "2026-05-12T09:30:00-05:00",
+  "time_end": "2026-05-12T15:45:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "contest",
+      "divergence",
+      "volatility"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
