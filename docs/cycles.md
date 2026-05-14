@@ -145,8 +145,6 @@ Containment logic becomes the dominant operating regime. Systems repeatedly abso
 
 Residual containment pressure flips outward. Flows escape established control nodes and propagate through indirect or emergent pathways. Bridge structures become legible but remain dynamically unstable without origin-function engagement.
 
-TENT: Residual containment pressure inverts and redistributes through indirect pathways, but control structures don't dissolve — they chase and reconsolidate around wherever flow concentrates. Bridge structures become legible and are rapidly operationalized as leverage points before origin-function stability is established, accelerating the transition from escape dynamics to capture dynamics.
-
 ### **Cycle 14 — Exposure Lock** 
 
 Opacity fails at the outer radius. Misalignment is exposed everywhere at once, with no sequencing or mitigation possible.
