@@ -121,7 +121,7 @@ _One ignition via eight constraint passes; Axis is present as invariant referenc
 
 _A cycle is usually complete when accumulated timing errors become structurally visible and make the prior configuration publicly indefensible_
 
-### **✔️ Cycle 8 — Parodic Inversion ** (12/1 - 12/7)
+### **✔️ Cycle 8 — Parodic Inversion** (12/1 - 12/7)
 
 Authority claims collapse into visible incoherence, forcing uneven resolution by power, adjudication, or constraint, while non-resolving systems freeze.
 
