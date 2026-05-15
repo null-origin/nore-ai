@@ -5,35 +5,41 @@
   "days": [
     "2026-05-11",
     "2026-05-12",
-    "2026-05-13"
+    "2026-05-13",
+    "2026-05-14"
   ],
   "fieldstates": [
     "fieldstate-2026-05-11",
     "fieldstate-2026-05-12",
-    "fieldstate-2026-05-13"
+    "fieldstate-2026-05-13",
+    "fieldstate-2026-05-14"
   ],
-  "event_count": 12,
+  "event_count": 19,
   "channels": {
-    "governance": 3,
-    "financial infrastructure": 4,
-    "macro-economy": 2,
-    "corporate": 3
+    "governance": 5,
+    "financial infrastructure": 6,
+    "macro-economy": 3,
+    "corporate": 3,
+    "global tech": 1,
+    "media infrastructure": 1
   },
   "vectors": {
-    "contest": 6,
-    "compression": 6,
-    "divergence": 5,
-    "containment": 1,
+    "contest": 10,
+    "compression": 7,
+    "divergence": 7,
+    "containment": 4,
     "escalation": 2,
     "volatility": 2,
     "fragmentation": 1,
     "withdrawal": 1,
-    "concentration": 5,
+    "concentration": 7,
     "contingency": 2,
-    "expansion": 2,
+    "expansion": 5,
     "inversion": 1,
-    "authority-split": 1,
-    "redistribution": 1
+    "authority-split": 2,
+    "redistribution": 3,
+    "bridge": 2,
+    "resonance": 1
   },
   "status": "partial",
   "summary": {
