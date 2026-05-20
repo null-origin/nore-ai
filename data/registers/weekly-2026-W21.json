@@ -3,41 +3,46 @@
   "week_start": "2026-05-18",
   "week_end": "2026-05-24",
   "days": [
-    "2026-05-18"
+    "2026-05-18",
+    "2026-05-19"
   ],
   "fieldstates": [
-    "fieldstate-2026-05-18"
+    "fieldstate-2026-05-18",
+    "fieldstate-2026-05-19"
   ],
-  "event_count": 7,
+  "event_count": 13,
   "channels": {
-    "macro-economy": 1,
-    "corporate": 1,
-    "financial infrastructure": 2,
-    "governance": 2,
-    "global tech": 1
+    "macro-economy": 2,
+    "corporate": 2,
+    "financial infrastructure": 4,
+    "governance": 3,
+    "global tech": 2
   },
   "vectors": {
     "compression": 1,
-    "redistribution": 1,
-    "divergence": 2,
-    "contest": 4,
-    "authority-split": 2,
+    "redistribution": 3,
+    "divergence": 4,
+    "contest": 5,
+    "authority-split": 3,
     "legitimacy": 4,
-    "concentration": 1,
-    "alignment": 1,
+    "concentration": 4,
+    "alignment": 3,
     "bridge": 1,
-    "transition": 1,
+    "transition": 2,
     "resolution": 1,
     "contingency": 1,
-    "containment": 1
+    "containment": 3,
+    "expansion": 1,
+    "escalation": 2,
+    "volatility": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "contest",
-      "legitimacy",
-      "divergence"
+      "divergence",
+      "legitimacy"
     ]
   }
 }
