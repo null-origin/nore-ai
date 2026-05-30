@@ -1,0 +1,30 @@
+{
+  "id": "fieldstate-2026-05-30",
+  "date": "2026-05-30",
+  "event_ids": [
+    "s-2026-05-30-01"
+  ],
+  "event_count": 1,
+  "channels": {
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 1
+  },
+  "vectors": {
+    "alignment": 1,
+    "redistribution": 1,
+    "contest": 1
+  },
+  "time_start": "2026-05-30T09:30:00-05:00",
+  "time_end": "2026-05-30T09:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "alignment",
+      "redistribution",
+      "contest"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
