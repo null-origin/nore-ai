@@ -1,0 +1,35 @@
+{
+  "id": "weekly-2026-W24",
+  "week_start": "2026-06-08",
+  "week_end": "2026-06-14",
+  "days": [
+    "2026-06-08"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-06-08"
+  ],
+  "event_count": 5,
+  "channels": {
+    "governance": 3,
+    "global tech": 1,
+    "financial infrastructure": 1
+  },
+  "vectors": {
+    "contest": 4,
+    "containment": 1,
+    "contingency": 3,
+    "transition": 1,
+    "expansion": 1,
+    "concentration": 2,
+    "legitimacy": 3
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "contest",
+      "contingency",
+      "legitimacy"
+    ]
+  }
+}
