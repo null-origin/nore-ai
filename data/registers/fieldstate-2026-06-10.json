@@ -1,0 +1,52 @@
+{
+  "id": "fieldstate-2026-06-10",
+  "date": "2026-06-10",
+  "event_ids": [
+    "s-2026-06-10-01",
+    "s-2026-06-10-02",
+    "s-2026-06-10-03",
+    "s-2026-06-10-04",
+    "s-2026-06-10-05",
+    "s-2026-06-10-06",
+    "s-2026-06-10-07",
+    "s-2026-06-10-08",
+    "s-2026-06-10-09"
+  ],
+  "event_count": 9,
+  "channels": {
+    "macro-economy": 2,
+    "governance": 5,
+    "financial infrastructure": 1,
+    "philanthropy": 1
+  },
+  "sources": {
+    "cnbc": 9
+  },
+  "vectors": {
+    "divergence": 3,
+    "compression": 2,
+    "continuity": 2,
+    "escalation": 3,
+    "contest": 6,
+    "expansion": 2,
+    "redistribution": 1,
+    "concentration": 1,
+    "volatility": 1,
+    "inversion": 1,
+    "containment": 1,
+    "exposure": 2,
+    "legitimacy": 1,
+    "contingency": 1
+  },
+  "time_start": "2026-06-10T10:00:00-05:00",
+  "time_end": "2026-06-10T19:15:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "contest",
+      "divergence",
+      "escalation"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
