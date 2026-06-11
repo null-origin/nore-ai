@@ -143,7 +143,7 @@ Containment logic becomes the dominant operating regime. Systems repeatedly abso
 
 ### **Cycle 13 — Pressure Inversion** (3/20 - ?)
 
-Residual containment pressure flips outward. Flows escape established control nodes and propagate through indirect or emergent pathways. Bridge structures become legible but remain dynamically unstable without origin-function engagement.
+Residual containment pressure flips outward. Flows escape established control nodes and propagate through indirect pathways. Bridge structures become legible but remain dynamically unstable.
 
 ### **Cycle 14 — Exposure Lock** 
 
