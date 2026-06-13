@@ -6,38 +6,43 @@
     "2026-06-08",
     "2026-06-09",
     "2026-06-10",
-    "2026-06-11"
+    "2026-06-11",
+    "2026-06-12"
   ],
   "fieldstates": [
     "fieldstate-2026-06-08",
     "fieldstate-2026-06-09",
     "fieldstate-2026-06-10",
-    "fieldstate-2026-06-11"
+    "fieldstate-2026-06-11",
+    "fieldstate-2026-06-12"
   ],
-  "event_count": 26,
+  "event_count": 33,
   "channels": {
-    "governance": 12,
-    "global tech": 4,
-    "financial infrastructure": 4,
-    "macro-economy": 5,
-    "philanthropy": 1
+    "governance": 14,
+    "global tech": 5,
+    "financial infrastructure": 6,
+    "macro-economy": 6,
+    "philanthropy": 1,
+    "media infrastructure": 1
   },
   "vectors": {
-    "contest": 16,
-    "containment": 3,
-    "contingency": 8,
+    "contest": 19,
+    "containment": 4,
+    "contingency": 11,
     "transition": 3,
-    "expansion": 7,
-    "concentration": 6,
-    "legitimacy": 5,
-    "divergence": 7,
-    "continuity": 5,
-    "compression": 5,
+    "expansion": 8,
+    "concentration": 9,
+    "legitimacy": 8,
+    "divergence": 9,
+    "continuity": 6,
+    "compression": 6,
     "escalation": 6,
-    "redistribution": 1,
+    "redistribution": 2,
     "volatility": 1,
     "inversion": 3,
-    "exposure": 2
+    "exposure": 2,
+    "alignment": 1,
+    "withdrawal": 1
   },
   "status": "partial",
   "summary": {
@@ -45,7 +50,7 @@
     "dominant_themes": [
       "contest",
       "contingency",
-      "expansion"
+      "concentration"
     ]
   }
 }
