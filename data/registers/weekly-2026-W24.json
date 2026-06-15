@@ -8,7 +8,8 @@
     "2026-06-10",
     "2026-06-11",
     "2026-06-12",
-    "2026-06-13"
+    "2026-06-13",
+    "2026-06-14"
   ],
   "fieldstates": [
     "fieldstate-2026-06-08",
@@ -16,13 +17,14 @@
     "fieldstate-2026-06-10",
     "fieldstate-2026-06-11",
     "fieldstate-2026-06-12",
-    "fieldstate-2026-06-13"
+    "fieldstate-2026-06-13",
+    "fieldstate-2026-06-14"
   ],
-  "event_count": 34,
+  "event_count": 36,
   "channels": {
-    "governance": 15,
+    "governance": 16,
     "global tech": 5,
-    "financial infrastructure": 6,
+    "financial infrastructure": 7,
     "macro-economy": 6,
     "philanthropy": 1,
     "media infrastructure": 1
@@ -31,20 +33,21 @@
     "contest": 20,
     "containment": 4,
     "contingency": 12,
-    "transition": 3,
-    "expansion": 8,
+    "transition": 4,
+    "expansion": 9,
     "concentration": 9,
     "legitimacy": 8,
     "divergence": 9,
     "continuity": 6,
     "compression": 6,
     "escalation": 6,
-    "redistribution": 2,
+    "redistribution": 3,
     "volatility": 1,
     "inversion": 3,
     "exposure": 2,
-    "alignment": 2,
-    "withdrawal": 1
+    "alignment": 4,
+    "withdrawal": 1,
+    "resolution": 1
   },
   "status": "partial",
   "summary": {
@@ -52,7 +55,7 @@
     "dominant_themes": [
       "contest",
       "contingency",
-      "concentration"
+      "expansion"
     ]
   }
 }
