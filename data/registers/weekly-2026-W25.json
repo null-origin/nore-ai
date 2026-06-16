@@ -1,0 +1,37 @@
+{
+  "id": "weekly-2026-W25",
+  "week_start": "2026-06-15",
+  "week_end": "2026-06-21",
+  "days": [
+    "2026-06-15"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-06-15"
+  ],
+  "event_count": 7,
+  "channels": {
+    "governance": 4,
+    "financial infrastructure": 3
+  },
+  "vectors": {
+    "contest": 6,
+    "escalation": 1,
+    "contingency": 4,
+    "containment": 1,
+    "concentration": 2,
+    "expansion": 2,
+    "transition": 2,
+    "continuity": 1,
+    "exposure": 1,
+    "authority-split": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "contest",
+      "contingency",
+      "concentration"
+    ]
+  }
+}
