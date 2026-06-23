@@ -1,0 +1,39 @@
+{
+  "id": "weekly-2026-W26",
+  "week_start": "2026-06-22",
+  "week_end": "2026-06-28",
+  "days": [
+    "2026-06-22"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-06-22"
+  ],
+  "event_count": 7,
+  "channels": {
+    "governance": 2,
+    "financial infrastructure": 3,
+    "corporate": 2
+  },
+  "vectors": {
+    "alignment": 2,
+    "bridge": 4,
+    "contingency": 2,
+    "transition": 1,
+    "legitimacy": 1,
+    "continuity": 4,
+    "withdrawal": 1,
+    "archetype": 1,
+    "concentration": 3,
+    "expansion": 1,
+    "volatility": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "bridge",
+      "continuity",
+      "concentration"
+    ]
+  }
+}
