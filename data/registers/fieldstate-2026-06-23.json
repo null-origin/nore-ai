@@ -1,0 +1,37 @@
+{
+  "id": "fieldstate-2026-06-23",
+  "date": "2026-06-23",
+  "event_ids": [
+    "s-2026-06-23-01",
+    "s-2026-06-23-02",
+    "s-2026-06-23-03",
+    "s-2026-06-23-04"
+  ],
+  "event_count": 4,
+  "channels": {
+    "financial infrastructure": 3,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 4
+  },
+  "vectors": {
+    "volatility": 2,
+    "concentration": 3,
+    "bridge": 1,
+    "continuity": 3,
+    "transition": 2,
+    "alignment": 1
+  },
+  "time_start": "2026-06-23T10:30:00-05:00",
+  "time_end": "2026-06-23T20:45:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "concentration",
+      "continuity",
+      "volatility"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
