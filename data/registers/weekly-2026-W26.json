@@ -4,30 +4,37 @@
   "week_end": "2026-06-28",
   "days": [
     "2026-06-22",
-    "2026-06-23"
+    "2026-06-23",
+    "2026-06-24"
   ],
   "fieldstates": [
     "fieldstate-2026-06-22",
-    "fieldstate-2026-06-23"
+    "fieldstate-2026-06-23",
+    "fieldstate-2026-06-24"
   ],
-  "event_count": 11,
+  "event_count": 20,
   "channels": {
-    "governance": 3,
-    "financial infrastructure": 6,
-    "corporate": 2
+    "governance": 6,
+    "financial infrastructure": 10,
+    "corporate": 3,
+    "macro-economy": 1
   },
   "vectors": {
-    "alignment": 3,
-    "bridge": 5,
-    "contingency": 2,
+    "alignment": 7,
+    "bridge": 8,
+    "contingency": 7,
     "transition": 3,
     "legitimacy": 1,
-    "continuity": 7,
+    "continuity": 11,
     "withdrawal": 1,
     "archetype": 1,
-    "concentration": 6,
+    "concentration": 9,
     "expansion": 1,
-    "volatility": 3
+    "volatility": 5,
+    "divergence": 1,
+    "return": 1,
+    "containment": 2,
+    "contest": 2
   },
   "status": "partial",
   "summary": {
