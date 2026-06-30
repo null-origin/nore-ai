@@ -1,0 +1,34 @@
+{
+  "id": "weekly-2026-W27",
+  "week_start": "2026-06-29",
+  "week_end": "2026-07-05",
+  "days": [
+    "2026-06-29"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-06-29"
+  ],
+  "event_count": 5,
+  "channels": {
+    "corporate": 1,
+    "governance": 4
+  },
+  "vectors": {
+    "fragmentation": 1,
+    "transition": 1,
+    "continuity": 4,
+    "legitimacy": 4,
+    "resolution": 3,
+    "containment": 1,
+    "inversion": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "continuity",
+      "legitimacy",
+      "resolution"
+    ]
+  }
+}
