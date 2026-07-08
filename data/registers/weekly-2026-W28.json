@@ -3,31 +3,41 @@
   "week_start": "2026-07-06",
   "week_end": "2026-07-12",
   "days": [
-    "2026-07-06"
+    "2026-07-06",
+    "2026-07-07"
   ],
   "fieldstates": [
-    "fieldstate-2026-07-06"
+    "fieldstate-2026-07-06",
+    "fieldstate-2026-07-07"
   ],
-  "event_count": 2,
+  "event_count": 5,
   "channels": {
     "global aviation": 1,
-    "corporate": 1
+    "corporate": 2,
+    "financial infrastructure": 1,
+    "governance": 1
   },
   "vectors": {
     "transition": 1,
-    "concentration": 1,
-    "contingency": 1,
+    "concentration": 2,
+    "contingency": 2,
     "fragmentation": 1,
     "purge": 1,
-    "redistribution": 1
+    "redistribution": 1,
+    "expansion": 1,
+    "withdrawal": 1,
+    "containment": 1,
+    "contest": 2,
+    "escalation": 1,
+    "continuity": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "transition",
       "concentration",
-      "contingency"
+      "contingency",
+      "contest"
     ]
   }
 }
