@@ -1,0 +1,38 @@
+{
+  "id": "weekly-2026-W29",
+  "week_start": "2026-07-13",
+  "week_end": "2026-07-19",
+  "days": [
+    "2026-07-13"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-07-13"
+  ],
+  "event_count": 4,
+  "channels": {
+    "global tech": 1,
+    "macro-economy": 1,
+    "media infrastructure": 1,
+    "governance": 1
+  },
+  "vectors": {
+    "divergence": 1,
+    "exposure": 1,
+    "concentration": 2,
+    "contest": 2,
+    "containment": 2,
+    "escalation": 1,
+    "continuity": 1,
+    "transition": 1,
+    "retrieval": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "concentration",
+      "contest",
+      "containment"
+    ]
+  }
+}
