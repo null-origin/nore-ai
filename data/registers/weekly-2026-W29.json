@@ -4,45 +4,50 @@
   "week_end": "2026-07-19",
   "days": [
     "2026-07-13",
-    "2026-07-14"
+    "2026-07-14",
+    "2026-07-15"
   ],
   "fieldstates": [
     "fieldstate-2026-07-13",
-    "fieldstate-2026-07-14"
+    "fieldstate-2026-07-14",
+    "fieldstate-2026-07-15"
   ],
-  "event_count": 12,
+  "event_count": 24,
   "channels": {
-    "global tech": 3,
-    "macro-economy": 4,
+    "global tech": 4,
+    "macro-economy": 6,
     "media infrastructure": 1,
-    "governance": 1,
+    "governance": 2,
     "philanthropy": 1,
-    "financial infrastructure": 2
+    "financial infrastructure": 9,
+    "global aviation": 1
   },
   "vectors": {
-    "divergence": 4,
-    "exposure": 1,
-    "concentration": 6,
-    "contest": 3,
-    "containment": 3,
-    "escalation": 1,
-    "continuity": 6,
-    "transition": 2,
+    "divergence": 9,
+    "exposure": 2,
+    "concentration": 13,
+    "contest": 6,
+    "containment": 4,
+    "escalation": 2,
+    "continuity": 16,
+    "transition": 3,
     "retrieval": 1,
     "withdrawal": 1,
     "redistribution": 2,
-    "alignment": 2,
-    "resonance": 1,
+    "alignment": 5,
+    "resonance": 3,
     "compression": 1,
     "bridge": 1,
-    "expansion": 1
+    "expansion": 1,
+    "contingency": 1,
+    "authority-split": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "concentration",
       "continuity",
+      "concentration",
       "divergence"
     ]
   }

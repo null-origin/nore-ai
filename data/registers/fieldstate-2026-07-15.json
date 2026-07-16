@@ -1,0 +1,54 @@
+{
+  "id": "fieldstate-2026-07-15",
+  "date": "2026-07-15",
+  "event_ids": [
+    "s-2026-07-15-01",
+    "s-2026-07-15-02",
+    "s-2026-07-15-03",
+    "s-2026-07-15-04",
+    "s-2026-07-15-05",
+    "s-2026-07-15-06",
+    "s-2026-07-15-07",
+    "s-2026-07-15-08",
+    "s-2026-07-15-09",
+    "s-2026-07-15-10",
+    "s-2026-07-15-11",
+    "s-2026-07-15-12"
+  ],
+  "event_count": 12,
+  "channels": {
+    "macro-economy": 2,
+    "global tech": 1,
+    "financial infrastructure": 7,
+    "governance": 1,
+    "global aviation": 1
+  },
+  "sources": {
+    "cnbc": 12
+  },
+  "vectors": {
+    "divergence": 5,
+    "continuity": 10,
+    "concentration": 7,
+    "resonance": 2,
+    "contest": 3,
+    "contingency": 1,
+    "escalation": 1,
+    "containment": 1,
+    "alignment": 3,
+    "transition": 1,
+    "authority-split": 1,
+    "exposure": 1
+  },
+  "time_start": "2026-07-15T10:15:00-05:00",
+  "time_end": "2026-07-15T18:15:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "continuity",
+      "concentration",
+      "divergence"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
