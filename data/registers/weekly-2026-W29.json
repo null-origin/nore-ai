@@ -5,40 +5,43 @@
   "days": [
     "2026-07-13",
     "2026-07-14",
-    "2026-07-15"
+    "2026-07-15",
+    "2026-07-16"
   ],
   "fieldstates": [
     "fieldstate-2026-07-13",
     "fieldstate-2026-07-14",
-    "fieldstate-2026-07-15"
+    "fieldstate-2026-07-15",
+    "fieldstate-2026-07-16"
   ],
-  "event_count": 24,
+  "event_count": 29,
   "channels": {
-    "global tech": 4,
+    "global tech": 6,
     "macro-economy": 6,
-    "media infrastructure": 1,
-    "governance": 2,
+    "media infrastructure": 2,
+    "governance": 3,
     "philanthropy": 1,
     "financial infrastructure": 9,
-    "global aviation": 1
+    "global aviation": 1,
+    "corporate": 1
   },
   "vectors": {
-    "divergence": 9,
-    "exposure": 2,
-    "concentration": 13,
-    "contest": 6,
-    "containment": 4,
+    "divergence": 10,
+    "exposure": 3,
+    "concentration": 15,
+    "contest": 7,
+    "containment": 5,
     "escalation": 2,
-    "continuity": 16,
+    "continuity": 20,
     "transition": 3,
     "retrieval": 1,
-    "withdrawal": 1,
+    "withdrawal": 2,
     "redistribution": 2,
-    "alignment": 5,
-    "resonance": 3,
+    "alignment": 7,
+    "resonance": 4,
     "compression": 1,
     "bridge": 1,
-    "expansion": 1,
+    "expansion": 2,
     "contingency": 1,
     "authority-split": 1
   },

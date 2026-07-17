@@ -1,0 +1,44 @@
+{
+  "id": "fieldstate-2026-07-16",
+  "date": "2026-07-16",
+  "event_ids": [
+    "s-2026-07-16-01",
+    "s-2026-07-16-02",
+    "s-2026-07-16-03",
+    "s-2026-07-16-04",
+    "s-2026-07-16-05"
+  ],
+  "event_count": 5,
+  "channels": {
+    "global tech": 2,
+    "corporate": 1,
+    "governance": 1,
+    "media infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 5
+  },
+  "vectors": {
+    "divergence": 1,
+    "resonance": 1,
+    "continuity": 4,
+    "expansion": 1,
+    "concentration": 2,
+    "alignment": 2,
+    "exposure": 1,
+    "contest": 1,
+    "containment": 1,
+    "withdrawal": 1
+  },
+  "time_start": "2026-07-16T09:45:00-05:00",
+  "time_end": "2026-07-16T19:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "continuity",
+      "concentration",
+      "alignment"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
