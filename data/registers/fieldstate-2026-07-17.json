@@ -1,0 +1,36 @@
+{
+  "id": "fieldstate-2026-07-17",
+  "date": "2026-07-17",
+  "event_ids": [
+    "s-2026-07-17-01",
+    "s-2026-07-17-02",
+    "s-2026-07-17-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "global tech": 2,
+    "corporate": 1
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "contest": 1,
+    "concentration": 1,
+    "divergence": 2,
+    "continuity": 2,
+    "exposure": 2,
+    "containment": 1
+  },
+  "time_start": "2026-07-17T16:30:00-05:00",
+  "time_end": "2026-07-17T19:15:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "divergence",
+      "continuity",
+      "exposure"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
