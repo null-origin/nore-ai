@@ -1,0 +1,40 @@
+{
+  "id": "weekly-2026-W30",
+  "week_start": "2026-07-20",
+  "week_end": "2026-07-26",
+  "days": [
+    "2026-07-20"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-07-20"
+  ],
+  "event_count": 6,
+  "channels": {
+    "governance": 2,
+    "macro-economy": 1,
+    "global tech": 1,
+    "media infrastructure": 1,
+    "financial infrastructure": 1
+  },
+  "vectors": {
+    "transition": 1,
+    "continuity": 1,
+    "legitimacy": 1,
+    "contest": 5,
+    "containment": 4,
+    "escalation": 2,
+    "expansion": 1,
+    "concentration": 1,
+    "authority-split": 1,
+    "contingency": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "contest",
+      "containment",
+      "escalation"
+    ]
+  }
+}
