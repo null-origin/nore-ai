@@ -1,0 +1,40 @@
+{
+  "id": "fieldstate-2026-07-21",
+  "date": "2026-07-21",
+  "event_ids": [
+    "s-2026-07-21-01",
+    "s-2026-07-21-02",
+    "s-2026-07-21-03",
+    "s-2026-07-21-04"
+  ],
+  "event_count": 4,
+  "channels": {
+    "corporate": 2,
+    "financial infrastructure": 2
+  },
+  "sources": {
+    "cnbc": 4
+  },
+  "vectors": {
+    "concentration": 2,
+    "redistribution": 2,
+    "continuity": 2,
+    "contest": 1,
+    "exposure": 1,
+    "contingency": 1,
+    "retrieval": 1,
+    "containment": 1,
+    "data-vacuum": 1
+  },
+  "time_start": "2026-07-21T11:00:00-05:00",
+  "time_end": "2026-07-21T20:15:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "concentration",
+      "redistribution",
+      "continuity"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
