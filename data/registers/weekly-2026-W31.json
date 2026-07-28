@@ -1,0 +1,29 @@
+{
+  "id": "weekly-2026-W31",
+  "week_start": "2026-07-27",
+  "week_end": "2026-08-02",
+  "days": [
+    "2026-07-27"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-07-27"
+  ],
+  "event_count": 1,
+  "channels": {
+    "financial infrastructure": 1
+  },
+  "vectors": {
+    "concentration": 1,
+    "legitimacy": 1,
+    "expansion": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "concentration",
+      "legitimacy",
+      "expansion"
+    ]
+  }
+}
