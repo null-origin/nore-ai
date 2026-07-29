@@ -3,27 +3,39 @@
   "week_start": "2026-07-27",
   "week_end": "2026-08-02",
   "days": [
-    "2026-07-27"
+    "2026-07-27",
+    "2026-07-28"
   ],
   "fieldstates": [
-    "fieldstate-2026-07-27"
+    "fieldstate-2026-07-27",
+    "fieldstate-2026-07-28"
   ],
-  "event_count": 1,
+  "event_count": 7,
   "channels": {
-    "financial infrastructure": 1
+    "financial infrastructure": 2,
+    "corporate": 3,
+    "macro-economy": 1,
+    "governance": 1
   },
   "vectors": {
-    "concentration": 1,
-    "legitimacy": 1,
-    "expansion": 1
+    "concentration": 2,
+    "legitimacy": 3,
+    "expansion": 1,
+    "divergence": 1,
+    "volatility": 2,
+    "continuity": 6,
+    "alignment": 2,
+    "compression": 2,
+    "contest": 1,
+    "transition": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "concentration",
+      "continuity",
       "legitimacy",
-      "expansion"
+      "concentration"
     ]
   }
 }

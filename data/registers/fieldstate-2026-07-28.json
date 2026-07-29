@@ -1,0 +1,44 @@
+{
+  "id": "fieldstate-2026-07-28",
+  "date": "2026-07-28",
+  "event_ids": [
+    "s-2026-07-28-01",
+    "s-2026-07-28-02",
+    "s-2026-07-28-03",
+    "s-2026-07-28-04",
+    "s-2026-07-28-05",
+    "s-2026-07-28-06"
+  ],
+  "event_count": 6,
+  "channels": {
+    "financial infrastructure": 1,
+    "corporate": 3,
+    "macro-economy": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "divergence": 1,
+    "volatility": 2,
+    "continuity": 6,
+    "alignment": 2,
+    "legitimacy": 2,
+    "concentration": 1,
+    "compression": 2,
+    "contest": 1,
+    "transition": 1
+  },
+  "time_start": "2026-07-28T09:30:00-05:00",
+  "time_end": "2026-07-28T21:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "continuity",
+      "volatility",
+      "alignment"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
