@@ -1,0 +1,41 @@
+{
+  "id": "fieldstate-2026-08-03",
+  "date": "2026-08-03",
+  "event_ids": [
+    "s-2026-08-03-01",
+    "s-2026-08-03-02",
+    "s-2026-08-03-03",
+    "s-2026-08-03-04"
+  ],
+  "event_count": 4,
+  "channels": {
+    "corporate": 1,
+    "global aviation": 1,
+    "governance": 1,
+    "global tech": 1
+  },
+  "sources": {
+    "cnbc": 4
+  },
+  "vectors": {
+    "concentration": 2,
+    "bridge": 1,
+    "contingency": 2,
+    "legitimacy": 3,
+    "return": 1,
+    "continuity": 1,
+    "contest": 1,
+    "expansion": 1
+  },
+  "time_start": "2026-08-03T10:00:00-05:00",
+  "time_end": "2026-08-03T18:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "legitimacy",
+      "concentration",
+      "contingency"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
