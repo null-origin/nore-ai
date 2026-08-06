@@ -4,29 +4,35 @@
   "week_end": "2026-08-09",
   "days": [
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-05"
   ],
   "fieldstates": [
     "fieldstate-2026-08-03",
-    "fieldstate-2026-08-04"
+    "fieldstate-2026-08-04",
+    "fieldstate-2026-08-05"
   ],
-  "event_count": 11,
+  "event_count": 17,
   "channels": {
-    "corporate": 5,
+    "corporate": 8,
     "global aviation": 1,
     "governance": 2,
-    "global tech": 3
+    "global tech": 5,
+    "macro-economy": 1
   },
   "vectors": {
-    "concentration": 6,
+    "concentration": 11,
     "bridge": 4,
     "contingency": 3,
-    "legitimacy": 8,
+    "legitimacy": 12,
     "return": 1,
-    "continuity": 4,
+    "continuity": 5,
     "contest": 2,
-    "expansion": 4,
-    "alignment": 1
+    "expansion": 5,
+    "alignment": 4,
+    "divergence": 2,
+    "transition": 1,
+    "purge": 1
   },
   "status": "partial",
   "summary": {
@@ -34,7 +40,7 @@
     "dominant_themes": [
       "legitimacy",
       "concentration",
-      "bridge"
+      "continuity"
     ]
   }
 }
