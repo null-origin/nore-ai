@@ -7,31 +7,33 @@
     "2026-08-04",
     "2026-08-05",
     "2026-08-06",
-    "2026-08-07"
+    "2026-08-07",
+    "2026-08-08"
   ],
   "fieldstates": [
     "fieldstate-2026-08-03",
     "fieldstate-2026-08-04",
     "fieldstate-2026-08-05",
     "fieldstate-2026-08-06",
-    "fieldstate-2026-08-07"
+    "fieldstate-2026-08-07",
+    "fieldstate-2026-08-08"
   ],
-  "event_count": 22,
+  "event_count": 23,
   "channels": {
     "corporate": 8,
     "global aviation": 1,
     "governance": 4,
     "global tech": 5,
     "macro-economy": 2,
-    "financial infrastructure": 1,
+    "financial infrastructure": 2,
     "media infrastructure": 1
   },
   "vectors": {
-    "concentration": 14,
+    "concentration": 15,
     "bridge": 4,
     "contingency": 4,
     "legitimacy": 15,
-    "return": 1,
+    "return": 2,
     "continuity": 5,
     "contest": 4,
     "expansion": 6,
@@ -39,7 +41,7 @@
     "divergence": 3,
     "transition": 1,
     "purge": 1,
-    "redistribution": 1,
+    "redistribution": 2,
     "withdrawal": 1,
     "resolution": 1
   },
@@ -47,8 +49,8 @@
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "legitimacy",
       "concentration",
+      "legitimacy",
       "expansion"
     ]
   }

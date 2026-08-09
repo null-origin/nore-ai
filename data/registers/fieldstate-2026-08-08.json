@@ -1,0 +1,30 @@
+{
+  "id": "fieldstate-2026-08-08",
+  "date": "2026-08-08",
+  "event_ids": [
+    "s-2026-08-08-01"
+  ],
+  "event_count": 1,
+  "channels": {
+    "financial infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 1
+  },
+  "vectors": {
+    "redistribution": 1,
+    "return": 1,
+    "concentration": 1
+  },
+  "time_start": "2026-08-08T10:30:00-05:00",
+  "time_end": "2026-08-08T10:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "redistribution",
+      "return",
+      "concentration"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
