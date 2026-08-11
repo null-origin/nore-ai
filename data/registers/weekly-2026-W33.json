@@ -1,0 +1,36 @@
+{
+  "id": "weekly-2026-W33",
+  "week_start": "2026-08-10",
+  "week_end": "2026-08-16",
+  "days": [
+    "2026-08-10"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-08-10"
+  ],
+  "event_count": 3,
+  "channels": {
+    "macro-economy": 2,
+    "financial infrastructure": 1
+  },
+  "vectors": {
+    "contest": 1,
+    "containment": 1,
+    "volatility": 1,
+    "withdrawal": 1,
+    "compression": 1,
+    "exposure": 1,
+    "bridge": 1,
+    "expansion": 1,
+    "alignment": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "contest",
+      "containment",
+      "volatility"
+    ]
+  }
+}
