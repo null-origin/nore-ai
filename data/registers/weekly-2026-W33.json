@@ -3,34 +3,38 @@
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
   "days": [
-    "2026-08-10"
+    "2026-08-10",
+    "2026-08-11"
   ],
   "fieldstates": [
-    "fieldstate-2026-08-10"
+    "fieldstate-2026-08-10",
+    "fieldstate-2026-08-11"
   ],
-  "event_count": 3,
+  "event_count": 4,
   "channels": {
     "macro-economy": 2,
-    "financial infrastructure": 1
+    "financial infrastructure": 1,
+    "global tech": 1
   },
   "vectors": {
     "contest": 1,
     "containment": 1,
     "volatility": 1,
     "withdrawal": 1,
-    "compression": 1,
+    "compression": 2,
     "exposure": 1,
     "bridge": 1,
-    "expansion": 1,
-    "alignment": 1
+    "expansion": 2,
+    "alignment": 1,
+    "concentration": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "contest",
-      "containment",
-      "volatility"
+      "compression",
+      "expansion",
+      "contest"
     ]
   }
 }
