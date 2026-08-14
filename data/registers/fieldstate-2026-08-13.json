@@ -1,0 +1,42 @@
+{
+  "id": "fieldstate-2026-08-13",
+  "date": "2026-08-13",
+  "event_ids": [
+    "s-2026-08-13-01",
+    "s-2026-08-13-02",
+    "s-2026-08-13-03",
+    "s-2026-08-13-04"
+  ],
+  "event_count": 4,
+  "channels": {
+    "macro-economy": 1,
+    "corporate": 2,
+    "financial infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 4
+  },
+  "vectors": {
+    "divergence": 1,
+    "compression": 1,
+    "volatility": 2,
+    "transition": 2,
+    "withdrawal": 1,
+    "continuity": 1,
+    "contingency": 1,
+    "contest": 1,
+    "alignment": 1,
+    "concentration": 1
+  },
+  "time_start": "2026-08-13T10:15:00-05:00",
+  "time_end": "2026-08-13T19:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "volatility",
+      "transition",
+      "divergence"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
