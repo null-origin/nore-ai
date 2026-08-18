@@ -1,0 +1,44 @@
+{
+  "id": "fieldstate-2026-08-17",
+  "date": "2026-08-17",
+  "event_ids": [
+    "s-2026-08-17-01",
+    "s-2026-08-17-02",
+    "s-2026-08-17-03",
+    "s-2026-08-17-04",
+    "s-2026-08-17-05",
+    "s-2026-08-17-06"
+  ],
+  "event_count": 6,
+  "channels": {
+    "macro-economy": 2,
+    "corporate": 2,
+    "financial infrastructure": 1,
+    "sports": 1
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "divergence": 3,
+    "redistribution": 1,
+    "compression": 3,
+    "concentration": 4,
+    "continuity": 1,
+    "transition": 1,
+    "contest": 2,
+    "containment": 2,
+    "authority-split": 1
+  },
+  "time_start": "2026-08-17T10:15:00-05:00",
+  "time_end": "2026-08-17T19:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "concentration",
+      "divergence",
+      "compression"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}

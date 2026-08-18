@@ -1,0 +1,38 @@
+{
+  "id": "weekly-2026-W34",
+  "week_start": "2026-08-17",
+  "week_end": "2026-08-23",
+  "days": [
+    "2026-08-17"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-08-17"
+  ],
+  "event_count": 6,
+  "channels": {
+    "macro-economy": 2,
+    "corporate": 2,
+    "financial infrastructure": 1,
+    "sports": 1
+  },
+  "vectors": {
+    "divergence": 3,
+    "redistribution": 1,
+    "compression": 3,
+    "concentration": 4,
+    "continuity": 1,
+    "transition": 1,
+    "contest": 2,
+    "containment": 2,
+    "authority-split": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "concentration",
+      "divergence",
+      "compression"
+    ]
+  }
+}
