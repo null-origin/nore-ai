@@ -1,0 +1,30 @@
+{
+  "id": "fieldstate-2026-08-18",
+  "date": "2026-08-18",
+  "event_ids": [
+    "s-2026-08-18-01"
+  ],
+  "event_count": 1,
+  "channels": {
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 1
+  },
+  "vectors": {
+    "containment": 1,
+    "contingency": 1,
+    "contest": 1
+  },
+  "time_start": "2026-08-18T22:45:00-05:00",
+  "time_end": "2026-08-18T22:45:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "containment",
+      "contingency",
+      "contest"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
