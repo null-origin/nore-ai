@@ -1,0 +1,49 @@
+{
+  "id": "fieldstate-2026-08-19",
+  "date": "2026-08-19",
+  "event_ids": [
+    "s-2026-08-19-01",
+    "s-2026-08-19-02",
+    "s-2026-08-19-03",
+    "s-2026-08-19-04",
+    "s-2026-08-19-05",
+    "s-2026-08-19-06",
+    "s-2026-08-19-07",
+    "s-2026-08-19-08"
+  ],
+  "event_count": 8,
+  "channels": {
+    "global tech": 2,
+    "corporate": 2,
+    "financial infrastructure": 3,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 8
+  },
+  "vectors": {
+    "concentration": 3,
+    "expansion": 4,
+    "bridge": 4,
+    "return": 1,
+    "divergence": 1,
+    "redistribution": 3,
+    "alignment": 1,
+    "containment": 3,
+    "inversion": 1,
+    "transition": 1,
+    "contingency": 1,
+    "compression": 1
+  },
+  "time_start": "2026-08-19T09:30:00-05:00",
+  "time_end": "2026-08-19T21:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "expansion",
+      "bridge",
+      "concentration"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
