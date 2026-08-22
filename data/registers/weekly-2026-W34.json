@@ -6,49 +6,52 @@
     "2026-08-17",
     "2026-08-18",
     "2026-08-19",
-    "2026-08-20"
+    "2026-08-20",
+    "2026-08-21"
   ],
   "fieldstates": [
     "fieldstate-2026-08-17",
     "fieldstate-2026-08-18",
     "fieldstate-2026-08-19",
-    "fieldstate-2026-08-20"
+    "fieldstate-2026-08-20",
+    "fieldstate-2026-08-21"
   ],
-  "event_count": 19,
+  "event_count": 22,
   "channels": {
-    "macro-economy": 2,
+    "macro-economy": 3,
     "corporate": 5,
-    "financial infrastructure": 6,
+    "financial infrastructure": 7,
     "sports": 1,
-    "governance": 3,
+    "governance": 4,
     "global tech": 2
   },
   "vectors": {
-    "divergence": 5,
-    "redistribution": 5,
-    "compression": 4,
-    "concentration": 8,
+    "divergence": 6,
+    "redistribution": 6,
+    "compression": 5,
+    "concentration": 9,
     "continuity": 1,
     "transition": 2,
-    "contest": 4,
-    "containment": 8,
+    "contest": 5,
+    "containment": 10,
     "authority-split": 1,
-    "contingency": 3,
+    "contingency": 4,
     "expansion": 6,
     "bridge": 4,
     "return": 2,
     "alignment": 1,
     "inversion": 1,
     "volatility": 1,
-    "escalation": 1
+    "escalation": 1,
+    "purge": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "concentration",
       "containment",
-      "expansion"
+      "concentration",
+      "divergence"
     ]
   }
 }
