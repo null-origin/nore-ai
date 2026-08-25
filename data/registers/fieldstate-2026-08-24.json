@@ -1,0 +1,35 @@
+{
+  "id": "fieldstate-2026-08-24",
+  "date": "2026-08-24",
+  "event_ids": [
+    "s-2026-08-24-01",
+    "s-2026-08-24-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "financial infrastructure": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "redistribution": 1,
+    "expansion": 1,
+    "containment": 1,
+    "contest": 1,
+    "divergence": 1,
+    "escalation": 1
+  },
+  "time_start": "2026-08-24T10:15:00-05:00",
+  "time_end": "2026-08-24T11:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "redistribution",
+      "expansion",
+      "containment"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
