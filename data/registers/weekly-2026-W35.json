@@ -3,31 +3,40 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-30",
   "days": [
-    "2026-08-24"
+    "2026-08-24",
+    "2026-08-25"
   ],
   "fieldstates": [
-    "fieldstate-2026-08-24"
+    "fieldstate-2026-08-24",
+    "fieldstate-2026-08-25"
   ],
-  "event_count": 2,
+  "event_count": 6,
   "channels": {
     "financial infrastructure": 1,
-    "governance": 1
+    "governance": 4,
+    "corporate": 1
   },
   "vectors": {
     "redistribution": 1,
-    "expansion": 1,
-    "containment": 1,
-    "contest": 1,
-    "divergence": 1,
-    "escalation": 1
+    "expansion": 2,
+    "containment": 3,
+    "contest": 2,
+    "divergence": 2,
+    "escalation": 2,
+    "compression": 1,
+    "transition": 1,
+    "contingency": 1,
+    "resolution": 1,
+    "legitimacy": 1,
+    "continuity": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "redistribution",
+      "containment",
       "expansion",
-      "containment"
+      "contest"
     ]
   }
 }
