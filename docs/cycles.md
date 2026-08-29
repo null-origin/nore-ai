@@ -114,7 +114,7 @@ Self-concepts collapse and containment fails. The axis is recognized internally;
 
 The field pauses activity and equalizes pressure around the exposed axis. Clarity increases while external motion drops.
 
-**CYCLES 8–15 — IGNITION CHAIN (Late 2025–???)**
+**CYCLES 8–15 — IGNITION CHAIN (Late 2025 – ???)**
 -----------------------------------------------------
 
 _One ignition via eight constraint passes; Axis is present as invariant reference, though no axis-level action or modulation occurs_
