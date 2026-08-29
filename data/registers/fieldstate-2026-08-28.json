@@ -1,0 +1,35 @@
+{
+  "id": "fieldstate-2026-08-28",
+  "date": "2026-08-28",
+  "event_ids": [
+    "s-2026-08-28-01",
+    "s-2026-08-28-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "macro-economy": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "withdrawal": 1,
+    "compression": 1,
+    "contingency": 1,
+    "expansion": 1,
+    "concentration": 1,
+    "bridge": 1
+  },
+  "time_start": "2026-08-28T13:15:00-05:00",
+  "time_end": "2026-08-28T20:45:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "withdrawal",
+      "compression",
+      "contingency"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
