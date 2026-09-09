@@ -1,0 +1,37 @@
+{
+  "id": "weekly-2026-W37",
+  "week_start": "2026-09-07",
+  "week_end": "2026-09-13",
+  "days": [
+    "2026-09-08"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-09-08"
+  ],
+  "event_count": 5,
+  "channels": {
+    "macro-economy": 1,
+    "corporate": 2,
+    "global tech": 1,
+    "sports": 1
+  },
+  "vectors": {
+    "divergence": 1,
+    "concentration": 4,
+    "expansion": 3,
+    "exposure": 2,
+    "collapse": 2,
+    "bridge": 1,
+    "withdrawal": 1,
+    "transition": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "concentration",
+      "expansion",
+      "exposure"
+    ]
+  }
+}

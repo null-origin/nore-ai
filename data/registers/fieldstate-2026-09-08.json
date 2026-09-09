@@ -1,0 +1,42 @@
+{
+  "id": "fieldstate-2026-09-08",
+  "date": "2026-09-08",
+  "event_ids": [
+    "s-2026-09-08-01",
+    "s-2026-09-08-02",
+    "s-2026-09-08-03",
+    "s-2026-09-08-04",
+    "s-2026-09-08-05"
+  ],
+  "event_count": 5,
+  "channels": {
+    "macro-economy": 1,
+    "corporate": 2,
+    "global tech": 1,
+    "sports": 1
+  },
+  "sources": {
+    "cnbc": 5
+  },
+  "vectors": {
+    "divergence": 1,
+    "concentration": 4,
+    "expansion": 3,
+    "exposure": 2,
+    "collapse": 2,
+    "bridge": 1,
+    "withdrawal": 1,
+    "transition": 1
+  },
+  "time_start": "2026-09-08T09:45:00-05:00",
+  "time_end": "2026-09-08T19:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "concentration",
+      "expansion",
+      "exposure"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
