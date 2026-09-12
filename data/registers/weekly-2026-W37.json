@@ -5,27 +5,29 @@
   "days": [
     "2026-09-08",
     "2026-09-09",
-    "2026-09-10"
+    "2026-09-10",
+    "2026-09-11"
   ],
   "fieldstates": [
     "fieldstate-2026-09-08",
     "fieldstate-2026-09-09",
-    "fieldstate-2026-09-10"
+    "fieldstate-2026-09-10",
+    "fieldstate-2026-09-11"
   ],
-  "event_count": 13,
+  "event_count": 18,
   "channels": {
-    "macro-economy": 4,
+    "macro-economy": 7,
     "corporate": 3,
-    "global tech": 2,
+    "global tech": 3,
     "sports": 1,
     "financial infrastructure": 2,
-    "governance": 1
+    "governance": 2
   },
   "vectors": {
-    "divergence": 5,
-    "concentration": 7,
-    "expansion": 6,
-    "exposure": 2,
+    "divergence": 6,
+    "concentration": 10,
+    "expansion": 8,
+    "exposure": 3,
     "collapse": 2,
     "bridge": 1,
     "withdrawal": 1,
@@ -34,9 +36,11 @@
     "volatility": 2,
     "contingency": 1,
     "contest": 1,
-    "compression": 5,
-    "escalation": 1,
-    "fragmentation": 1
+    "compression": 8,
+    "escalation": 3,
+    "fragmentation": 2,
+    "redistribution": 1,
+    "resolution": 1
   },
   "status": "partial",
   "summary": {
@@ -44,7 +48,7 @@
     "dominant_themes": [
       "concentration",
       "expansion",
-      "divergence"
+      "compression"
     ]
   }
 }
