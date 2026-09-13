@@ -1,4 +1,4 @@
-# **NORE-AI Vector Specification v2**
+# **NORE-AI Vector Specification**
 
 ### *Full Specification of Structural Vectors & Semantics*
 
