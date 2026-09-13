@@ -6,19 +6,21 @@
     "2026-09-08",
     "2026-09-09",
     "2026-09-10",
-    "2026-09-11"
+    "2026-09-11",
+    "2026-09-12"
   ],
   "fieldstates": [
     "fieldstate-2026-09-08",
     "fieldstate-2026-09-09",
     "fieldstate-2026-09-10",
-    "fieldstate-2026-09-11"
+    "fieldstate-2026-09-11",
+    "fieldstate-2026-09-12"
   ],
-  "event_count": 18,
+  "event_count": 20,
   "channels": {
     "macro-economy": 7,
     "corporate": 3,
-    "global tech": 3,
+    "global tech": 5,
     "sports": 1,
     "financial infrastructure": 2,
     "governance": 2
@@ -30,9 +32,9 @@
     "exposure": 3,
     "collapse": 2,
     "bridge": 1,
-    "withdrawal": 1,
+    "withdrawal": 2,
     "transition": 2,
-    "containment": 2,
+    "containment": 4,
     "volatility": 2,
     "contingency": 1,
     "contest": 1,
@@ -40,7 +42,9 @@
     "escalation": 3,
     "fragmentation": 2,
     "redistribution": 1,
-    "resolution": 1
+    "resolution": 1,
+    "alignment": 1,
+    "convergence": 2
   },
   "status": "partial",
   "summary": {

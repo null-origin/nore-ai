@@ -1,0 +1,32 @@
+{
+  "id": "fieldstate-2026-09-12",
+  "date": "2026-09-12",
+  "event_ids": [
+    "s-2026-09-12-01",
+    "s-2026-09-12-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "global tech": 2
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "alignment": 1,
+    "containment": 2,
+    "convergence": 2,
+    "withdrawal": 1
+  },
+  "time_start": "2026-09-12T14:15:00-05:00",
+  "time_end": "2026-09-12T20:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "containment",
+      "convergence",
+      "alignment"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
