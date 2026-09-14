@@ -7,18 +7,20 @@
     "2026-09-09",
     "2026-09-10",
     "2026-09-11",
-    "2026-09-12"
+    "2026-09-12",
+    "2026-09-13"
   ],
   "fieldstates": [
     "fieldstate-2026-09-08",
     "fieldstate-2026-09-09",
     "fieldstate-2026-09-10",
     "fieldstate-2026-09-11",
-    "fieldstate-2026-09-12"
+    "fieldstate-2026-09-12",
+    "fieldstate-2026-09-13"
   ],
-  "event_count": 20,
+  "event_count": 21,
   "channels": {
-    "macro-economy": 7,
+    "macro-economy": 8,
     "corporate": 3,
     "global tech": 5,
     "sports": 1,
@@ -38,9 +40,9 @@
     "volatility": 2,
     "contingency": 1,
     "contest": 1,
-    "compression": 8,
-    "escalation": 3,
-    "fragmentation": 2,
+    "compression": 9,
+    "escalation": 4,
+    "fragmentation": 3,
     "redistribution": 1,
     "resolution": 1,
     "alignment": 1,
@@ -51,8 +53,8 @@
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "concentration",
-      "expansion",
-      "compression"
+      "compression",
+      "expansion"
     ]
   }
 }
