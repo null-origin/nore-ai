@@ -1,0 +1,40 @@
+{
+  "id": "weekly-2026-W38",
+  "week_start": "2026-09-14",
+  "week_end": "2026-09-20",
+  "days": [
+    "2026-09-14"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-09-14"
+  ],
+  "event_count": 7,
+  "channels": {
+    "global tech": 3,
+    "governance": 3,
+    "financial infrastructure": 1
+  },
+  "vectors": {
+    "convergence": 2,
+    "containment": 4,
+    "volatility": 3,
+    "alignment": 1,
+    "contest": 2,
+    "authority-split": 1,
+    "divergence": 2,
+    "compression": 1,
+    "redistribution": 1,
+    "return": 1,
+    "continuity": 2,
+    "retrieval": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "containment",
+      "volatility",
+      "convergence"
+    ]
+  }
+}
