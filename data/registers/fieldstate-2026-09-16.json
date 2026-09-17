@@ -1,0 +1,47 @@
+{
+  "id": "fieldstate-2026-09-16",
+  "date": "2026-09-16",
+  "event_ids": [
+    "s-2026-09-16-01",
+    "s-2026-09-16-02",
+    "s-2026-09-16-03",
+    "s-2026-09-16-04",
+    "s-2026-09-16-05",
+    "s-2026-09-16-06",
+    "s-2026-09-16-07"
+  ],
+  "event_count": 7,
+  "channels": {
+    "macro-economy": 1,
+    "governance": 5,
+    "financial infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 7
+  },
+  "vectors": {
+    "concentration": 1,
+    "divergence": 2,
+    "compression": 1,
+    "bridge": 1,
+    "convergence": 1,
+    "expansion": 3,
+    "transition": 2,
+    "containment": 3,
+    "alignment": 4,
+    "escalation": 1,
+    "contest": 1,
+    "continuity": 1
+  },
+  "time_start": "2026-09-16T10:00:00-05:00",
+  "time_end": "2026-09-16T22:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "alignment",
+      "expansion",
+      "containment"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
