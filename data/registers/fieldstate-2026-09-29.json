@@ -1,0 +1,49 @@
+{
+  "id": "fieldstate-2026-09-29",
+  "date": "2026-09-29",
+  "event_ids": [
+    "s-2026-09-29-01",
+    "s-2026-09-29-02",
+    "s-2026-09-29-03",
+    "s-2026-09-29-04",
+    "s-2026-09-29-05",
+    "s-2026-09-29-06"
+  ],
+  "event_count": 6,
+  "channels": {
+    "macro-economy": 1,
+    "corporate": 1,
+    "global aviation": 1,
+    "financial infrastructure": 1,
+    "global tech": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "compression": 2,
+    "containment": 2,
+    "escalation": 2,
+    "withdrawal": 1,
+    "transition": 1,
+    "redistribution": 1,
+    "concentration": 1,
+    "alignment": 2,
+    "divergence": 1,
+    "expansion": 1,
+    "convergence": 2,
+    "bridge": 2
+  },
+  "time_start": "2026-09-29T10:00:00-05:00",
+  "time_end": "2026-09-29T18:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "containment",
+      "escalation"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
