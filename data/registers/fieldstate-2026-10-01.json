@@ -1,0 +1,37 @@
+{
+  "id": "fieldstate-2026-10-01",
+  "date": "2026-10-01",
+  "event_ids": [
+    "s-2026-10-01-01",
+    "s-2026-10-01-02",
+    "s-2026-10-01-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "financial infrastructure": 1,
+    "corporate": 2
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "convergence": 1,
+    "compression": 2,
+    "escalation": 1,
+    "divergence": 1,
+    "redistribution": 2,
+    "concentration": 1,
+    "purge": 1
+  },
+  "time_start": "2026-10-01T10:00:00-05:00",
+  "time_end": "2026-10-01T17:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "redistribution",
+      "convergence"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}

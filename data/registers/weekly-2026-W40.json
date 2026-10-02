@@ -5,26 +5,28 @@
   "days": [
     "2026-09-28",
     "2026-09-29",
-    "2026-09-30"
+    "2026-09-30",
+    "2026-10-01"
   ],
   "fieldstates": [
     "fieldstate-2026-09-28",
     "fieldstate-2026-09-29",
-    "fieldstate-2026-09-30"
+    "fieldstate-2026-09-30",
+    "fieldstate-2026-10-01"
   ],
-  "event_count": 21,
+  "event_count": 24,
   "channels": {
     "macro-economy": 5,
     "global tech": 4,
     "governance": 4,
-    "corporate": 5,
+    "corporate": 7,
     "global aviation": 2,
-    "financial infrastructure": 1
+    "financial infrastructure": 2
   },
   "vectors": {
-    "divergence": 6,
-    "concentration": 7,
-    "compression": 5,
+    "divergence": 7,
+    "concentration": 8,
+    "compression": 7,
     "containment": 5,
     "bridge": 9,
     "return": 1,
@@ -32,12 +34,13 @@
     "expansion": 6,
     "alignment": 5,
     "withdrawal": 2,
-    "escalation": 2,
-    "redistribution": 2,
-    "convergence": 5,
+    "escalation": 3,
+    "redistribution": 4,
+    "convergence": 6,
     "exposure": 2,
     "legitimacy": 1,
-    "continuity": 1
+    "continuity": 1,
+    "purge": 1
   },
   "status": "partial",
   "summary": {
