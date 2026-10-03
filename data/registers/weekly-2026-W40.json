@@ -6,49 +6,53 @@
     "2026-09-28",
     "2026-09-29",
     "2026-09-30",
-    "2026-10-01"
+    "2026-10-01",
+    "2026-10-02"
   ],
   "fieldstates": [
     "fieldstate-2026-09-28",
     "fieldstate-2026-09-29",
     "fieldstate-2026-09-30",
-    "fieldstate-2026-10-01"
+    "fieldstate-2026-10-01",
+    "fieldstate-2026-10-02"
   ],
-  "event_count": 24,
+  "event_count": 32,
   "channels": {
-    "macro-economy": 5,
+    "macro-economy": 6,
     "global tech": 4,
-    "governance": 4,
-    "corporate": 7,
-    "global aviation": 2,
-    "financial infrastructure": 2
+    "governance": 6,
+    "corporate": 9,
+    "global aviation": 3,
+    "financial infrastructure": 3,
+    "media infrastructure": 1
   },
   "vectors": {
-    "divergence": 7,
-    "concentration": 8,
-    "compression": 7,
-    "containment": 5,
-    "bridge": 9,
+    "divergence": 12,
+    "concentration": 9,
+    "compression": 10,
+    "containment": 6,
+    "bridge": 10,
     "return": 1,
-    "transition": 4,
-    "expansion": 6,
-    "alignment": 5,
+    "transition": 5,
+    "expansion": 8,
+    "alignment": 6,
     "withdrawal": 2,
     "escalation": 3,
-    "redistribution": 4,
-    "convergence": 6,
-    "exposure": 2,
+    "redistribution": 5,
+    "convergence": 8,
+    "exposure": 3,
     "legitimacy": 1,
-    "continuity": 1,
-    "purge": 1
+    "continuity": 5,
+    "purge": 1,
+    "resolution": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "bridge",
-      "concentration",
-      "divergence"
+      "divergence",
+      "compression",
+      "bridge"
     ]
   }
 }
