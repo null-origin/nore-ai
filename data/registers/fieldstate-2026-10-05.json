@@ -1,0 +1,38 @@
+{
+  "id": "fieldstate-2026-10-05",
+  "date": "2026-10-05",
+  "event_ids": [
+    "s-2026-10-05-01",
+    "s-2026-10-05-02",
+    "s-2026-10-05-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "governance": 2,
+    "corporate": 1
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "contest": 2,
+    "fragmentation": 1,
+    "transition": 1,
+    "concentration": 1,
+    "convergence": 1,
+    "expansion": 1,
+    "redistribution": 1,
+    "exposure": 1
+  },
+  "time_start": "2026-10-05T09:45:00-05:00",
+  "time_end": "2026-10-05T20:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "contest",
+      "fragmentation",
+      "transition"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}

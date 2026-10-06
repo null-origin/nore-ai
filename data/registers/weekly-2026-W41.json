@@ -1,0 +1,35 @@
+{
+  "id": "weekly-2026-W41",
+  "week_start": "2026-10-05",
+  "week_end": "2026-10-11",
+  "days": [
+    "2026-10-05"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-10-05"
+  ],
+  "event_count": 3,
+  "channels": {
+    "governance": 2,
+    "corporate": 1
+  },
+  "vectors": {
+    "contest": 2,
+    "fragmentation": 1,
+    "transition": 1,
+    "concentration": 1,
+    "convergence": 1,
+    "expansion": 1,
+    "redistribution": 1,
+    "exposure": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "contest",
+      "fragmentation",
+      "transition"
+    ]
+  }
+}
