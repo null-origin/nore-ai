@@ -1,0 +1,50 @@
+{
+  "id": "fieldstate-2026-10-09",
+  "date": "2026-10-09",
+  "event_ids": [
+    "s-2026-10-09-01",
+    "s-2026-10-09-02",
+    "s-2026-10-09-03",
+    "s-2026-10-09-04",
+    "s-2026-10-09-05",
+    "s-2026-10-09-06"
+  ],
+  "event_count": 6,
+  "channels": {
+    "philanthropy": 1,
+    "global aviation": 1,
+    "governance": 2,
+    "macro-economy": 1,
+    "financial infrastructure": 1
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "legitimacy": 1,
+    "continuity": 1,
+    "exposure": 1,
+    "compression": 2,
+    "divergence": 2,
+    "redistribution": 1,
+    "return": 2,
+    "bridge": 2,
+    "transition": 1,
+    "contest": 1,
+    "authority-split": 1,
+    "escalation": 1,
+    "containment": 1,
+    "volatility": 1
+  },
+  "time_start": "2026-10-09T09:45:00-05:00",
+  "time_end": "2026-10-09T18:15:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "divergence",
+      "return"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
