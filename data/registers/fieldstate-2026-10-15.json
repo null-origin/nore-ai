@@ -1,0 +1,46 @@
+{
+  "id": "fieldstate-2026-10-15",
+  "date": "2026-10-15",
+  "event_ids": [
+    "s-2026-10-15-01",
+    "s-2026-10-15-02",
+    "s-2026-10-15-03",
+    "s-2026-10-15-04",
+    "s-2026-10-15-05",
+    "s-2026-10-15-06"
+  ],
+  "event_count": 6,
+  "channels": {
+    "global tech": 3,
+    "macro-economy": 2,
+    "corporate": 1
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "concentration": 1,
+    "compression": 4,
+    "expansion": 2,
+    "divergence": 2,
+    "continuity": 2,
+    "convergence": 1,
+    "volatility": 1,
+    "escalation": 1,
+    "bridge": 1,
+    "alignment": 1,
+    "transition": 1,
+    "withdrawal": 1
+  },
+  "time_start": "2026-10-15T09:45:00-05:00",
+  "time_end": "2026-10-15T20:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "expansion",
+      "divergence"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
