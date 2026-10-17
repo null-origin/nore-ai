@@ -6,34 +6,36 @@
     "2026-10-12",
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "fieldstates": [
     "fieldstate-2026-10-12",
     "fieldstate-2026-10-13",
     "fieldstate-2026-10-14",
-    "fieldstate-2026-10-15"
+    "fieldstate-2026-10-15",
+    "fieldstate-2026-10-16"
   ],
-  "event_count": 31,
+  "event_count": 33,
   "channels": {
-    "governance": 5,
+    "governance": 6,
     "macro-economy": 7,
     "corporate": 9,
     "global tech": 7,
-    "financial infrastructure": 3
+    "financial infrastructure": 4
   },
   "vectors": {
     "contest": 3,
     "containment": 10,
     "exposure": 10,
-    "legitimacy": 2,
+    "legitimacy": 3,
     "alignment": 4,
     "bridge": 2,
-    "withdrawal": 3,
-    "convergence": 2,
+    "withdrawal": 5,
+    "convergence": 3,
     "volatility": 5,
     "divergence": 14,
-    "contingency": 3,
+    "contingency": 4,
     "compression": 14,
     "continuity": 4,
     "concentration": 6,
@@ -41,7 +43,7 @@
     "escalation": 2,
     "redistribution": 2,
     "purge": 1,
-    "transition": 1
+    "transition": 2
   },
   "status": "partial",
   "summary": {

@@ -1,0 +1,34 @@
+{
+  "id": "fieldstate-2026-10-16",
+  "date": "2026-10-16",
+  "event_ids": [
+    "s-2026-10-16-01",
+    "s-2026-10-16-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "financial infrastructure": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "convergence": 1,
+    "withdrawal": 2,
+    "contingency": 1,
+    "transition": 1,
+    "legitimacy": 1
+  },
+  "time_start": "2026-10-16T09:45:00-05:00",
+  "time_end": "2026-10-16T18:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "withdrawal",
+      "convergence",
+      "contingency"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
