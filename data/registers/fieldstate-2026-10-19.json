@@ -1,0 +1,35 @@
+{
+  "id": "fieldstate-2026-10-19",
+  "date": "2026-10-19",
+  "event_ids": [
+    "s-2026-10-19-01",
+    "s-2026-10-19-02"
+  ],
+  "event_count": 2,
+  "channels": {
+    "macro-economy": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 2
+  },
+  "vectors": {
+    "divergence": 1,
+    "concentration": 1,
+    "compression": 1,
+    "containment": 1,
+    "contest": 1,
+    "authority-split": 1
+  },
+  "time_start": "2026-10-19T10:00:00-05:00",
+  "time_end": "2026-10-19T18:30:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "divergence",
+      "concentration",
+      "compression"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
