@@ -25,7 +25,7 @@ Example:
 
 ---
 
-# **1. Canonical Vector List v2**
+# **1. Canonical Vector List**
 
 Below are the **canonical vectors**, partitioned into **Core Vectors (CV)** and **Pattern Vectors (PV)**.
 
