@@ -1,0 +1,45 @@
+{
+  "id": "fieldstate-2026-10-20",
+  "date": "2026-10-20",
+  "event_ids": [
+    "s-2026-10-20-01",
+    "s-2026-10-20-02",
+    "s-2026-10-20-03",
+    "s-2026-10-20-04",
+    "s-2026-10-20-05",
+    "s-2026-10-20-06"
+  ],
+  "event_count": 6,
+  "channels": {
+    "corporate": 3,
+    "macro-economy": 1,
+    "global aviation": 2
+  },
+  "sources": {
+    "cnbc": 6
+  },
+  "vectors": {
+    "compression": 4,
+    "concentration": 2,
+    "redistribution": 1,
+    "withdrawal": 1,
+    "contraction": 1,
+    "resolution": 1,
+    "legitimacy": 1,
+    "expansion": 2,
+    "divergence": 3,
+    "transition": 1,
+    "continuity": 1
+  },
+  "time_start": "2026-10-20T11:00:00-05:00",
+  "time_end": "2026-10-20T21:00:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "divergence",
+      "concentration"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}

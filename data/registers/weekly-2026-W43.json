@@ -3,31 +3,43 @@
   "week_start": "2026-10-19",
   "week_end": "2026-10-25",
   "days": [
-    "2026-10-19"
+    "2026-10-19",
+    "2026-10-20"
   ],
   "fieldstates": [
-    "fieldstate-2026-10-19"
+    "fieldstate-2026-10-19",
+    "fieldstate-2026-10-20"
   ],
-  "event_count": 2,
+  "event_count": 8,
   "channels": {
-    "macro-economy": 1,
-    "governance": 1
+    "macro-economy": 2,
+    "governance": 1,
+    "corporate": 3,
+    "global aviation": 2
   },
   "vectors": {
-    "divergence": 1,
-    "concentration": 1,
-    "compression": 1,
+    "divergence": 4,
+    "concentration": 3,
+    "compression": 5,
     "containment": 1,
     "contest": 1,
-    "authority-split": 1
+    "authority-split": 1,
+    "redistribution": 1,
+    "withdrawal": 1,
+    "contraction": 1,
+    "resolution": 1,
+    "legitimacy": 1,
+    "expansion": 2,
+    "transition": 1,
+    "continuity": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
+      "compression",
       "divergence",
-      "concentration",
-      "compression"
+      "concentration"
     ]
   }
 }
