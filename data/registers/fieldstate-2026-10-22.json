@@ -1,0 +1,38 @@
+{
+  "id": "fieldstate-2026-10-22",
+  "date": "2026-10-22",
+  "event_ids": [
+    "s-2026-10-22-01",
+    "s-2026-10-22-02",
+    "s-2026-10-22-03",
+    "s-2026-10-22-04"
+  ],
+  "event_count": 4,
+  "channels": {
+    "financial infrastructure": 3,
+    "global tech": 1
+  },
+  "sources": {
+    "cnbc": 4
+  },
+  "vectors": {
+    "compression": 3,
+    "divergence": 2,
+    "concentration": 3,
+    "inversion": 1,
+    "convergence": 1,
+    "bridge": 1,
+    "contingency": 1
+  },
+  "time_start": "2026-10-22T09:45:00-05:00",
+  "time_end": "2026-10-22T18:15:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "compression",
+      "concentration",
+      "divergence"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
