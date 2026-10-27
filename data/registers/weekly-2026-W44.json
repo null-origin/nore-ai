@@ -1,0 +1,39 @@
+{
+  "id": "weekly-2026-W44",
+  "week_start": "2026-10-26",
+  "week_end": "2026-11-01",
+  "days": [
+    "2026-10-26"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-10-26"
+  ],
+  "event_count": 4,
+  "channels": {
+    "financial infrastructure": 2,
+    "corporate": 1,
+    "governance": 1
+  },
+  "vectors": {
+    "bridge": 1,
+    "inversion": 1,
+    "concentration": 2,
+    "contraction": 1,
+    "redistribution": 1,
+    "contingency": 1,
+    "transition": 1,
+    "containment": 1,
+    "contest": 1,
+    "escalation": 1,
+    "exposure": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "concentration",
+      "bridge",
+      "inversion"
+    ]
+  }
+}
