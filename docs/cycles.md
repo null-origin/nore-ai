@@ -119,7 +119,7 @@ The field pauses activity and equalizes pressure around the exposed axis. Clarit
 
 _One ignition via eight constraint passes; Axis is present as invariant reference, though no axis-level action or modulation occurs_
 
-_A cycle is usually complete when accumulated timing errors become structurally visible and make the prior configuration publicly indefensible_
+_A cycle approaches completion when accumulated mismatches exceed the existing configuration's capacity to absorb or reconcile them, making its structural limitations observable and its prior claims of coherence increasingly difficult to sustain._
 
 ### **✔️ Cycle 8 — Parodic Inversion** (12/1 - 12/7)
 
