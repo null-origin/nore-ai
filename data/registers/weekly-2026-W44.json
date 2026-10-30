@@ -5,42 +5,44 @@
   "days": [
     "2026-10-26",
     "2026-10-27",
-    "2026-10-28"
+    "2026-10-28",
+    "2026-10-29"
   ],
   "fieldstates": [
     "fieldstate-2026-10-26",
     "fieldstate-2026-10-27",
-    "fieldstate-2026-10-28"
+    "fieldstate-2026-10-28",
+    "fieldstate-2026-10-29"
   ],
-  "event_count": 23,
+  "event_count": 33,
   "channels": {
-    "financial infrastructure": 5,
-    "corporate": 7,
+    "financial infrastructure": 7,
+    "corporate": 10,
     "governance": 1,
-    "macro-economy": 4,
+    "macro-economy": 6,
     "global aviation": 1,
-    "global tech": 4,
+    "global tech": 7,
     "global transportation": 1
   },
   "vectors": {
-    "bridge": 1,
+    "bridge": 2,
     "inversion": 1,
-    "concentration": 8,
-    "contraction": 6,
-    "redistribution": 4,
-    "contingency": 6,
-    "transition": 2,
-    "containment": 8,
+    "concentration": 11,
+    "contraction": 9,
+    "redistribution": 6,
+    "contingency": 8,
+    "transition": 3,
+    "containment": 12,
     "contest": 3,
     "escalation": 1,
-    "exposure": 2,
-    "divergence": 11,
+    "exposure": 3,
+    "divergence": 18,
     "continuity": 4,
-    "expansion": 7,
+    "expansion": 11,
     "collapse": 1,
     "fragmentation": 1,
-    "authority-split": 1,
-    "data-vacuum": 1,
+    "authority-split": 2,
+    "data-vacuum": 2,
     "convergence": 1
   },
   "status": "partial",
@@ -48,8 +50,8 @@
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "divergence",
-      "concentration",
-      "containment"
+      "containment",
+      "concentration"
     ]
   }
 }
