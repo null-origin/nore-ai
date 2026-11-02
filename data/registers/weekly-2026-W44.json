@@ -8,7 +8,8 @@
     "2026-10-28",
     "2026-10-29",
     "2026-10-30",
-    "2026-10-31"
+    "2026-10-31",
+    "2026-11-01"
   ],
   "fieldstates": [
     "fieldstate-2026-10-26",
@@ -16,13 +17,14 @@
     "fieldstate-2026-10-28",
     "fieldstate-2026-10-29",
     "fieldstate-2026-10-30",
-    "fieldstate-2026-10-31"
+    "fieldstate-2026-10-31",
+    "fieldstate-2026-11-01"
   ],
-  "event_count": 41,
+  "event_count": 42,
   "channels": {
     "financial infrastructure": 8,
     "corporate": 11,
-    "governance": 3,
+    "governance": 4,
     "macro-economy": 8,
     "global aviation": 1,
     "global tech": 8,
@@ -37,8 +39,8 @@
     "redistribution": 6,
     "contingency": 10,
     "transition": 3,
-    "containment": 16,
-    "contest": 4,
+    "containment": 17,
+    "contest": 5,
     "escalation": 1,
     "exposure": 5,
     "divergence": 21,
@@ -49,7 +51,7 @@
     "authority-split": 4,
     "data-vacuum": 2,
     "convergence": 2,
-    "resolution": 1
+    "resolution": 2
   },
   "status": "partial",
   "summary": {
