@@ -4,31 +4,39 @@
   "week_end": "2026-11-08",
   "days": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "fieldstates": [
     "fieldstate-2026-11-02",
-    "fieldstate-2026-11-03"
+    "fieldstate-2026-11-03",
+    "fieldstate-2026-11-04"
   ],
-  "event_count": 7,
+  "event_count": 14,
   "channels": {
-    "macro-economy": 2,
-    "global tech": 2,
+    "macro-economy": 4,
+    "global tech": 4,
     "governance": 2,
-    "corporate": 1
+    "corporate": 3,
+    "media infrastructure": 1
   },
   "vectors": {
     "volatility": 1,
-    "contest": 2,
-    "contingency": 1,
-    "expansion": 3,
+    "contest": 3,
+    "contingency": 2,
+    "expansion": 7,
     "concentration": 2,
-    "divergence": 4,
+    "divergence": 9,
     "authority-split": 2,
-    "containment": 2,
+    "containment": 3,
     "compression": 2,
     "resolution": 1,
-    "escalation": 1
+    "escalation": 1,
+    "exposure": 1,
+    "contraction": 4,
+    "fragmentation": 1,
+    "transition": 2,
+    "withdrawal": 1
   },
   "status": "partial",
   "summary": {
@@ -36,7 +44,7 @@
     "dominant_themes": [
       "divergence",
       "expansion",
-      "contest"
+      "contraction"
     ]
   }
 }
