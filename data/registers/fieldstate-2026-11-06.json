@@ -1,0 +1,37 @@
+{
+  "id": "fieldstate-2026-11-06",
+  "date": "2026-11-06",
+  "event_ids": [
+    "s-2026-11-06-01",
+    "s-2026-11-06-02",
+    "s-2026-11-06-03"
+  ],
+  "event_count": 3,
+  "channels": {
+    "macro-economy": 1,
+    "global tech": 1,
+    "governance": 1
+  },
+  "sources": {
+    "cnbc": 3
+  },
+  "vectors": {
+    "divergence": 2,
+    "expansion": 2,
+    "concentration": 2,
+    "containment": 1,
+    "transition": 1,
+    "continuity": 1
+  },
+  "time_start": "2026-11-06T11:15:00-05:00",
+  "time_end": "2026-11-06T16:45:00-05:00",
+  "summary": {
+    "continuity": "active",
+    "dominant_themes": [
+      "divergence",
+      "expansion",
+      "concentration"
+    ],
+    "notes": "Auto-generated FieldState summary; frequency-based only."
+  }
+}
