@@ -7,21 +7,23 @@
     "2026-11-03",
     "2026-11-04",
     "2026-11-05",
-    "2026-11-06"
+    "2026-11-06",
+    "2026-11-07"
   ],
   "fieldstates": [
     "fieldstate-2026-11-02",
     "fieldstate-2026-11-03",
     "fieldstate-2026-11-04",
     "fieldstate-2026-11-05",
-    "fieldstate-2026-11-06"
+    "fieldstate-2026-11-06",
+    "fieldstate-2026-11-07"
   ],
-  "event_count": 20,
+  "event_count": 21,
   "channels": {
     "macro-economy": 6,
     "global tech": 5,
     "governance": 4,
-    "corporate": 3,
+    "corporate": 4,
     "media infrastructure": 1,
     "financial infrastructure": 1
   },
@@ -30,15 +32,15 @@
     "contest": 3,
     "contingency": 3,
     "expansion": 9,
-    "concentration": 5,
-    "divergence": 12,
+    "concentration": 6,
+    "divergence": 13,
     "authority-split": 2,
     "containment": 4,
     "compression": 3,
     "resolution": 1,
     "escalation": 2,
     "exposure": 2,
-    "contraction": 5,
+    "contraction": 6,
     "fragmentation": 1,
     "transition": 4,
     "withdrawal": 1,
