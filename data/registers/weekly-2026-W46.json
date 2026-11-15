@@ -7,27 +7,29 @@
     "2026-11-10",
     "2026-11-11",
     "2026-11-12",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-14"
   ],
   "fieldstates": [
     "fieldstate-2026-11-09",
     "fieldstate-2026-11-10",
     "fieldstate-2026-11-11",
     "fieldstate-2026-11-12",
-    "fieldstate-2026-11-13"
+    "fieldstate-2026-11-13",
+    "fieldstate-2026-11-14"
   ],
-  "event_count": 30,
+  "event_count": 31,
   "channels": {
     "corporate": 11,
     "governance": 10,
     "macro-economy": 3,
     "financial infrastructure": 3,
     "global tech": 2,
-    "global aviation": 1
+    "global aviation": 2
   },
   "vectors": {
     "concentration": 11,
-    "exposure": 9,
+    "exposure": 10,
     "contest": 9,
     "legitimacy": 1,
     "expansion": 6,
@@ -42,9 +44,9 @@
     "containment": 3,
     "redistribution": 6,
     "withdrawal": 2,
-    "continuity": 3,
+    "continuity": 4,
     "bridge": 1,
-    "fragmentation": 1,
+    "fragmentation": 2,
     "retrieval": 3,
     "collapse": 1
   },
