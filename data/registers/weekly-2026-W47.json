@@ -3,40 +3,46 @@
   "week_start": "2026-11-16",
   "week_end": "2026-11-22",
   "days": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-17"
   ],
   "fieldstates": [
-    "fieldstate-2026-11-16"
+    "fieldstate-2026-11-16",
+    "fieldstate-2026-11-17"
   ],
-  "event_count": 7,
+  "event_count": 17,
   "channels": {
-    "macro-economy": 2,
+    "macro-economy": 3,
     "philanthropy": 1,
-    "governance": 2,
-    "corporate": 1,
-    "global aviation": 1
+    "governance": 5,
+    "corporate": 5,
+    "global aviation": 1,
+    "financial infrastructure": 2
   },
   "vectors": {
-    "contraction": 3,
-    "compression": 1,
-    "divergence": 2,
-    "expansion": 1,
-    "redistribution": 1,
-    "concentration": 2,
-    "continuity": 1,
-    "containment": 3,
+    "contraction": 5,
+    "compression": 3,
+    "divergence": 6,
+    "expansion": 4,
+    "redistribution": 4,
+    "concentration": 3,
+    "continuity": 3,
+    "containment": 5,
     "bridge": 1,
-    "exposure": 3,
-    "contest": 2,
-    "transition": 1
+    "exposure": 6,
+    "contest": 3,
+    "transition": 3,
+    "contingency": 3,
+    "return": 1,
+    "withdrawal": 1
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
-      "contraction",
-      "containment",
-      "exposure"
+      "divergence",
+      "exposure",
+      "contraction"
     ]
   }
 }
