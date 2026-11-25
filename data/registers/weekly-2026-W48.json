@@ -1,0 +1,35 @@
+{
+  "id": "weekly-2026-W48",
+  "week_start": "2026-11-23",
+  "week_end": "2026-11-29",
+  "days": [
+    "2026-11-23"
+  ],
+  "fieldstates": [
+    "fieldstate-2026-11-23"
+  ],
+  "event_count": 3,
+  "channels": {
+    "financial infrastructure": 1,
+    "corporate": 1,
+    "governance": 1
+  },
+  "vectors": {
+    "inversion": 1,
+    "return": 2,
+    "concentration": 1,
+    "alignment": 2,
+    "continuity": 1,
+    "bridge": 1,
+    "exposure": 1
+  },
+  "status": "partial",
+  "summary": {
+    "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
+    "dominant_themes": [
+      "return",
+      "alignment",
+      "inversion"
+    ]
+  }
+}
