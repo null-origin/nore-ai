@@ -6,49 +6,51 @@
     "2026-11-23",
     "2026-11-24",
     "2026-11-25",
-    "2026-11-26"
+    "2026-11-26",
+    "2026-11-27"
   ],
   "fieldstates": [
     "fieldstate-2026-11-23",
     "fieldstate-2026-11-24",
     "fieldstate-2026-11-25",
-    "fieldstate-2026-11-26"
+    "fieldstate-2026-11-26",
+    "fieldstate-2026-11-27"
   ],
-  "event_count": 11,
+  "event_count": 13,
   "channels": {
     "financial infrastructure": 4,
     "corporate": 1,
     "governance": 2,
-    "macro-economy": 2,
+    "macro-economy": 3,
     "global tech": 1,
-    "global aviation": 1
+    "global aviation": 2
   },
   "vectors": {
     "inversion": 2,
     "return": 2,
-    "concentration": 1,
+    "concentration": 2,
     "alignment": 3,
     "continuity": 2,
     "bridge": 1,
     "exposure": 2,
-    "divergence": 4,
-    "contraction": 3,
+    "divergence": 5,
+    "contraction": 5,
     "volatility": 1,
     "containment": 3,
     "redistribution": 1,
     "contingency": 3,
     "expansion": 2,
     "withdrawal": 1,
-    "collapse": 1,
-    "transition": 1
+    "collapse": 2,
+    "transition": 2
   },
   "status": "partial",
   "summary": {
     "notes": "Auto-generated weekly register; aggregates FieldState counts only.",
     "dominant_themes": [
       "divergence",
-      "alignment",
-      "contraction"
+      "contraction",
+      "alignment"
     ]
   }
 }
